@@ -21,7 +21,7 @@ async function loadNews() {
   setLoading(true);
   try {
     const response = await fetch(
-      `${import.meta.env.BASE_URL}news.json?t=${Date.now()},
+      `${import.meta.env.BASE_URL}news.json?t=${Date.now()}`,
       { cache: "no-store" }
     );
 
@@ -38,11 +38,11 @@ async function loadNews() {
   }
 }
 
-  useEffect(() => {
-    loadNews();
-    const timer = setInterval(loadNews, 5 * 60 * 1000);
-    return () => clearInterval(timer);
-  }, []);
+useEffect(() => {
+  loadNews();
+  const timer = setInterval(loadNews, 30 * 60 * 1000);
+  return () => clearInterval(timer);
+}, []);
 
 const visible = useMemo(() => {
   const term = query.trim().toLowerCase();
