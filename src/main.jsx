@@ -250,6 +250,16 @@ const visible = useMemo(() => {
         {loading && news.length===0 ? <div className="empty-state"><RefreshCw className="spinning"/><p>Загружаем свежие новости…</p></div> :
           <div className="news-grid">
             {visible.map((item,index)=><motion.article className="news-card" key={item.link || item.title} initial={{opacity:0,y:22}} whileInView={{opacity:1,y:0}} viewport={{once:true,amount:.12}} transition={{duration:.45,delay:(index%3)*.07}}>
+              
+              {item.image && (
+                <img
+                  className="news-image"
+                  src={item.image}
+                  alt=""
+                  loading="lazy"
+                />
+              )}
+              
               <div className="card-topline"><span className="category-tag">{item.category || "Новости"}</span><span className="card-date"><Clock3 size={13}/> {formatDate(item.published)}</span></div>
               <h3>{item.title}</h3><p>{item.summary || "Откройте публикацию, чтобы прочитать подробности."}</p>
               <div className="card-footer"><span className="source-name"><span className="source-dot"/>{item.source || "Источник"}</span><a href={item.link} target="_blank" rel="noreferrer" aria-label="Читать новость"><ArrowUpRight size={18}/></a></div>
