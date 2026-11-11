@@ -1,4 +1,4 @@
-Fimport React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import { motion, AnimatePresence } from "motion/react";
 import { Search, ArrowUpRight, Clock3, RefreshCw, Trophy, Zap, Newspaper, Radio, Menu, X } from "lucide-react";
