@@ -145,7 +145,22 @@ const visible = useMemo(() => {
       {teams.map(team => (
         <div className="team-row" key={team.rank}>
           <span className="team-rank">#{team.rank}</span>
-          <strong>{team.name}</strong>
+          <div className="team-name-wrap">
+  <strong className="team-name">{team.name}</strong>
+
+  <div className="team-roster">
+    <div className="roster-title">АКТУАЛЬНЫЙ СОСТАВ</div>
+
+    {team.players?.map((player, index) => (
+      <div className="roster-player" key={player}>
+        <span className="roster-number">
+          {String(index + 1).padStart(2, "0")}
+        </span>
+        <strong>{player}</strong>
+      </div>
+    ))}
+  </div>
+</div>
           <span className="team-points">{team.points} очков</span>
         </div>
       ))}
