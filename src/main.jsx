@@ -78,7 +78,30 @@ const visible = useMemo(() => {
     <AnimatePresence>{mobileOpen && <motion.nav className="mobile-nav" initial={{height:0,opacity:0}} animate={{height:"auto",opacity:1}} exit={{height:0,opacity:0}}><a href="#news" onClick={()=>setMobileOpen(false)}>Новости</a><a href="#about" onClick={()=>setMobileOpen(false)}>О проекте</a></motion.nav>}</AnimatePresence>
 
     <main>
-      <section className="hero">
+      {page === "teams" && (
+  <section className="teams-section">
+    <div className="section-heading">
+      <div>
+        <div className="eyebrow purple">РЕЙТИНГ HLTV</div>
+        <h2>Топ-10 <span>команд</span></h2>
+        <p>Лучшие команды профессиональной сцены CS2.</p>
+      </div>
+    </div>
+
+    <div className="teams-list">
+      {teams.map(team => (
+        <div className="team-row" key={team.rank}>
+          <span className="team-rank">#{team.rank}</span>
+          <strong>{team.name}</strong>
+          <span className="team-points">{team.points} очков</span>
+        </div>
+      ))}
+    </div>
+  </section>
+)}
+      {page === "news" && (
+<>
+<section className="hero">
         <div className="hero-orb orb-one"/><div className="hero-orb orb-two"/>
         <motion.div className="hero-copy" initial={{opacity:0,y:24}} animate={{opacity:1,y:0}} transition={{duration:.7,ease:"easeOut"}}>
           <div className="eyebrow"><span className="live-dot"/> НОВОСТИ CS2 <span className="eyebrow-line"/></div
@@ -112,7 +135,9 @@ const visible = useMemo(() => {
       </section>
 
       <section className="about-section" id="about"><div className="about-icon"><Zap size={22}/></div><div><div className="eyebrow purple">02 / ABOUT CS2 PULSE</div><h2>В центре <span>игры.</span></h2><p>Независимая новостная лента для тех, кто следит за Counter-Strike 2. Мы собираем публикации из открытых источников и направляем читателя к оригинальным материалам.</p></div><div className="about-stat"><strong>30<span>мин</span></strong><small>ИНТЕРВАЛ ОБНОВЛЕНИЯ</small></div></section>
-    </main>
+    </>
+  )}
+  </main>
     <footer><a className="brand" href="#"><span className="brand-mark"><Zap size={16} fill="currentColor"/></span><span>CS2<span className="brand-light">PULSE</span></span></a><span>Неофициальный фанатский проект. Не связан с Valve.</span><span>© {new Date().getFullYear()} CS2 PULSE</span></footer>
   </div>;
 }
