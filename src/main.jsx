@@ -37,7 +37,35 @@ function App() {
   { rank: 24, name: "M80", points: 89, players: ["slaxz-", "Swisher", "s1n", "JBa", "Lake"] },
   { rank: 25, name: "HEROIC", points: 88, players: ["Brollan", "nilo", "susp", "MartinezSa", "Chr1zN"] }
 ];
+  const vrsTeams = [
+  { rank: 1, name: "MOUZ", points: 1960 },
+  { rank: 2, name: "Vitality", points: 1922 },
+  { rank: 3, name: "FURIA", points: 1912 },
+  { rank: 4, name: "Aurora", points: 1860 },
+  { rank: 5, name: "Spirit", points: 1842 },
+  { rank: 6, name: "BETBOOM", points: 1786 },
+  { rank: 7, name: "Falcons", points: 1764 },
+  { rank: 8, name: "FUT", points: 1721 },
+  { rank: 9, name: "Legacy", points: 1662 },
+  { rank: 10, name: "Nemiga", points: 1650 },
+  { rank: 11, name: "G2", points: 1616 },
+  { rank: 12, name: "1win", points: 1598 },
+  { rank: 13, name: "Natus Vincere", points: 1589 },
+  { rank: 14, name: "Astralis", points: 1572 },
+  { rank: 15, name: "Ninjas in Pyjamas", points: 1564 },
+  { rank: 16, name: "PARIVISION", points: 1560 },
+  { rank: 17, name: "The MongolZ", points: 1554 },
+  { rank: 18, name: "HEROIC", points: 1548 },
+  { rank: 19, name: "MIBR", points: 1546 },
+  { rank: 20, name: "FaZe", points: 1539 },
+  { rank: 21, name: "Liquid", points: 1528 },
+  { rank: 22, name: "Eternal Fire", points: 1513 },
+  { rank: 23, name: "100 Thieves", points: 1511 },
+  { rank: 24, name: "9z", points: 1490 },
+  { rank: 25, name: "M80", points: 1489 }
+];
   const [page, setPage] = useState("news");
+  const [ranking, setRanking] = useState("hltv");
   const [news, setNews] = useState([]);
   const [category, setCategory] = useState("Все новости");
   const [query, setQuery] = useState("");
@@ -150,6 +178,22 @@ const visible = useMemo(() => {
       <div>
         <div className="eyebrow purple">РЕЙТИНГ HLTV</div>
         <h2>Топ-25 <span>команд</span></h2>
+
+        <div className="ranking-tabs">
+          <button
+            className={ranking === "hltv" ? "active" : ""}
+            onClick={() => setRanking("hltv")}
+          >
+            HLTV
+          </button>
+
+          <button
+            className={ranking === "vrs" ? "active" : ""}
+            onClick={() => setRanking("vrs")}
+          >
+            VRS
+          </button>
+        </div>
         <p>Лучшие команды профессиональной сцены CS2.</p>
       </div>
     </div>
