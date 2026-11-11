@@ -10,6 +10,7 @@ const fallback = [
 ];
 
 function App() {
+  const [page, setPage] = useState("news");
   const [news, setNews] = useState([]);
   const [category, setCategory] = useState("Все новости");
   const [query, setQuery] = useState("");
