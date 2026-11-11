@@ -104,7 +104,7 @@ const visible = useMemo(() => {
 <section className="hero">
         <div className="hero-orb orb-one"/><div className="hero-orb orb-two"/>
         <motion.div className="hero-copy" initial={{opacity:0,y:24}} animate={{opacity:1,y:0}} transition={{duration:.7,ease:"easeOut"}}>
-          <div className="eyebrow"><span className="live-dot"/> НОВОСТИ CS2 <span className="eyebrow-line"/></div
+          <div className="eyebrow"><span className="live-dot"/> НОВОСТИ CS2 <span className="eyebrow-line"/></div>
           <h1>Вся сцена CS2.<br/><span>В одном месте.</span></h1>
           <p>Главные события Counter-Strike 2 — турниры, составы, обновления и новости киберспорта. Всё самое важное в одном месте.</p>
           <a className="hero-button" href="#news">Смотреть новости <ArrowUpRight size={17}/></a>
