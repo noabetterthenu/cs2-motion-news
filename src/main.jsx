@@ -248,7 +248,7 @@ const visible = useMemo(() => {
       <section className="news-section" id="news">
         <div className="section-heading"><div><div className="eyebrow purple"><span className="section-number">01</span> ЛЕНТА НОВОСТЕЙ</div><h2>Последние <span>новости</span></h2><p>Всё, что происходит в мире Counter-Strike 2.</p></div><div className="update-box"><span className="update-indicator"/><div><b>АВТООБНОВЛЕНИЕ</b><small>{updated ? "Последнее обновление: " + formatDate(updated) : "Проверяем новости…"}</small></div><button onClick={loadNews} title="Обновить сейчас" aria-label="Обновить новости" className={loading?"spinning":""}><RefreshCw size={17}/></button></div></div>
         <div className="language-tabs">
-          <button onClick={() => setLanguage("ru")} className={language === "ru" ? "selected" : ""}>RU</button>
+          <button onClick={() => { setLanguage("ru"); console.log("Язык: RU"); }} className={language === "ru" ? "selected" : ""}>RU</button>
           <button onClick={() => setLanguage("en")} className={language === "en" ? "selected" : ""}>EN</button>
           <button onClick={() => setLanguage("all")} className={language === "all" ? "selected" : ""}>Все</button>
         </div>
