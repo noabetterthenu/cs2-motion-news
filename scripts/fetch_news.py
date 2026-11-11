@@ -16,6 +16,22 @@ MAX_ITEMS = 60
 def clean(value):
     return re.sub(r"<[^>]+>", " ", value or "").replace("&nbsp;", " ").strip()
 
+def get_image(entry):
+    for element in entry.iter():
+        tag = element.tag.lower()
+
+        if tag.endswith(("content", "thumbnail", "enclosure")):
+            url = element.attrib.get("url", "")
+            if url and any(ext in url.lower() for ext in (".jpg", ".jpeg", ".png", ".webp")):
+                return url
+
+        if tag.endswith("description") and element.text:
+            match = re.search(r'<img[^>]+src=["\']([^"\']+)', element.text, re.I)
+            if match:
+                return match.group(1)
+
+    return ""
+
 def parse_date(entry):
     raw = entry.findtext("pubDate")
     if not raw:
@@ -76,6 +92,7 @@ def main():
         previous[link] = {
             "title": title[:220],
             "summary": (description[:260] + "…") if len(description) > 260 else description,
+            "image": get_image(entry) or previous.get(link, {}).get("image", ""),
             "source": "HLTV",
             "category": categorize(title),
             "link": link,
