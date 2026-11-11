@@ -145,14 +145,7 @@ const visible = useMemo(() => {
       {teams.map(team => (
         <div className="team-row" key={team.rank}>
           <span className="team-rank">#{team.rank}</span>
-          <div className="team-info">
-  <img
-    className="team-logo"
-    src={`${import.meta.env.BASE_URL}logos/${team.name.toLowerCase().replaceAll(" ", "-")}.svg`}
-    alt={team.name}
-  />
-  <strong>{team.name}</strong>
-</div>
+          <strong>{team.name}</strong>
           <span className="team-points">{team.points} очков</span>
         </div>
       ))}
