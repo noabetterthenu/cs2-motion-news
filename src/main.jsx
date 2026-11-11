@@ -17,21 +17,26 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [mobileOpen, setMobileOpen] = useState(false);
 
-  async function loadNews() {
-    setLoading(true);
-    try {
-      const response = await fetch(`${import.meta.env.BASE_URL}news.json?t=${Date.now()}`, { cache: "no-store" });
-      if (!response.ok) throw new Error("news.json недоступен");
-      const data = await response.json();
-      setNews(Array.isArray(data.articles) ? data.articles : []);
-      setUpdated(data.updated_at || null);
-    } catch (error) {
-      console.warn(error);
-      setNews([]);
-    } finally {
-      setLoading(false);
-    }
+async function loadNews() {
+  setLoading(true);
+  try {
+    const response = await fetch(
+      `${import.meta.env.BASE_URL}news.json?t=${Date.now()},
+      { cache: "no-store" }
+    );
+
+    if (!response.ok) throw new Error("news.json недоступен");
+
+    const data = await response.json();
+    setNews(Array.isArray(data.articles) ? data.articles : []);
+    setUpdated(data.updated_at ?? null);
+  } catch (error) {
+    console.warn("Ошибка загрузки новостей:", error);
+    setNews([]);
+  } finally {
+    setLoading(false);
   }
+}
 
   useEffect(() => {
     loadNews();
@@ -39,14 +44,22 @@ function App() {
     return () => clearInterval(timer);
   }, []);
 
-  const visible = useMemo(() => {
-    const term = query.trim().toLowerCase();
-    return news.filter(item => {
-      const matchesCategory = category === "Все новости" || item.category === category;
-      const matchesQuery = !term || `${item.title} ${item.summary} ${item.source}`.toLowerCase().includes(term);
-      return matchesCategory && matchesQuery;
-    });
-  }, [news, category, query]);
+const visible = useMemo(() => {
+  const term = query.trim().toLowerCase();
+
+  return news.filter(item => {
+    const matchesCategory =
+      category === "Все новости" || item.category === category;
+
+    const matchesQuery =
+      !term ||
+      `${item.title} ${item.summary} ${item.source}`
+        .toLowerCase()
+        .includes(term);
+
+    return matchesCategory && matchesQuery;
+  });
+}, [news, category, query]);
 
   const formatDate = value => {
     if (!value) return "Недавно";
