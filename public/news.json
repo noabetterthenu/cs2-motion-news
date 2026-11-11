@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-11T19:27:36.602312+00:00",
+  "updated_at": "2026-11-11T19:51:16.644527+00:00",
   "articles": [
     {
       "title": "Short news: Week 44",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "image": "",
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45949/short-news-week-44",
@@ -12,6 +13,7 @@
     {
       "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
       "summary": "The Hungarian AWPer believes MOUZ let their BLAST Rivals opener against G2 slip out of their hands.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/TD_BFx69mXWiWIObo58jpN.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C6000%2C4000&w=800&s=e1640e3ec91308a5e4ab1b33ea6f8489",
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow",
@@ -20,6 +22,7 @@
     {
       "title": "G2 snap loss streak with win over MOUZ",
       "summary": "G2 took advantage of the classic championship hangover by taking down world No. 1 MOUZ, earning a playoff berth in Hong Kong.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/3BVKmQwyIcRxe4aCtoSBF0.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=dd3187692e56d004106694aaf735190b",
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
@@ -28,6 +31,7 @@
     {
       "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship",
       "summary": "BLAST is also planning to host another esports event in the famous Nevada city as part of the deal.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/78TnDePM6MzhhBC0VjDMp7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=39494d00cd4be4ead06608c3b7190a26",
       "source": "HLTV",
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship",
@@ -36,6 +40,7 @@
     {
       "title": "PGL confirm Singapore Major Stage 1 schedule",
       "summary": "Matches will start at 05:00 Central European Time.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Ce1Rmccd4SzmnPKwmq-5UI.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=25382b12af3511f3b0a21808eb7e943d",
       "source": "HLTV",
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45969/pgl-confirm-singapore-major-stage-1-schedule",
@@ -44,6 +49,7 @@
     {
       "title": "Spirit handed first-ever 13-0 defeat in CS2, but recover to beat Krabeni-less FUT 2-1",
       "summary": "coolio was in the server for donk's first 0-13 loss in CS2.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/7mW-zskQpseFZ_clVvBpOu.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=4837f6aebb410350fc4e4ab0d4fc9cb2",
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45968/spirit-handed-first-ever-13-0-defeat-in-cs2-but-recover-to-beat-krabeni-less-fut-2-1",
@@ -52,6 +58,7 @@
     {
       "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
       "summary": "Vitality's entry fragger was happy with the opening victory at BLAST Rivals against Falcons in apEX's return.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/VOV_xk9RwUKhFG82SX2XpY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8011%2C5340&w=800&s=b70dbdde2fd23b8a33c936a306602936",
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
@@ -60,6 +67,7 @@
     {
       "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
       "summary": "A rematch of the teams' battle at ESL Pro League went the same way, this time in two maps.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/6y56nJgYuGCgSDPIjqXLlB.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8032%2C5354&w=800&s=83d78027741623d4d767d379c98534be",
       "source": "HLTV",
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
@@ -68,6 +76,7 @@
     {
       "title": "molodoy: \"We can see now the problems we have before the Major\"",
       "summary": "FURIA's AWPer talks about how BLAST Rivals will act as a good measuring stick on what to work on before the Major.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/FVHVgXqFtBuGBQM5PD7irl.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7515%2C5010&w=800&s=cc514b39aa9ed474baa3e2b35805c2bf",
       "source": "HLTV",
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
@@ -76,6 +85,7 @@
     {
       "title": "FURIA beat Legacy in BLAST Rivals opener",
       "summary": "FalleN's last ride in Hong Kong is off to a strong start.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/bm3-4w9Amyf19J50vA4moU.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=288%2C0%2C4820%2C3210&w=800&s=31d399beb157c8f68ba860d34006ff02",
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
