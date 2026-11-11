@@ -2,33 +2,26 @@ name: Update CS2 News
 
 'on':
 schedule:
-- cron: '*/30 * * * *'
+- cron: "*/30 * * * *"
 workflow_dispatch:
 
 permissions:
 contents: write
 
 jobs:
-update:
-runs-on: ubuntu-latest
-steps:
+  update:
+    runs-on: ubuntu-latest
+    steps:
 - name: Checkout repository
 uses: actions/checkout@v4
-with:
-token: ${{ secrets.GITHUB_TOKEN }}
 
   - name: Set up Python
     uses: actions/setup-python@v5
     with:
-      python-version: '3.x'
+      python-version: "3.x"
 
   - name: Fetch HLTV news
     run: python scripts/fetch_news.py
 
   - name: Commit updated news
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-      git add public/news.json
-      git diff --cached --quiet || git commit -m "Update HLTV news"
-      git push
+     run: git add public/news.json && git diff --cached --quiet || (git config user.name "github-actions[bot]" && git config user.email "41898282+github-actions[bot]@users.noreply.github.com" && git commit -m "Update HLTV news" && git push)
