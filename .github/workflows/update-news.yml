@@ -1,0 +1,32 @@
+name: Update CS2 news every 30 minutes
+
+on:
+schedule:
+- cron: "*/30 * * * *"
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+update:
+runs-on: ubuntu-latest
+
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
+
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: "3.12"
+
+  - name: Fetch fresh HLTV news
+    run: python scripts/fetch_news.py
+
+  - name: Save news
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git add public/news.json
+      git diff --cached --quiet || (git commit -m "Update HLTV news" && git push)
