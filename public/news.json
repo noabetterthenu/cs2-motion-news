@@ -1,9 +1,11 @@
 {
-  "updated_at": "2026-11-11T19:51:16.644527+00:00",
+  "updated_at": "2026-11-11T21:55:34.571947+00:00",
   "articles": [
     {
       "title": "Short news: Week 44",
+      "title_ru": "Короткие новости: 44-я неделя",
       "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
       "image": "",
       "source": "HLTV",
       "category": "Команды",
@@ -12,7 +14,9 @@
     },
     {
       "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
+      "title_ru": "torzsi: «Нам не нужно излишне анализировать эту игру; нам просто нужно быть более готовыми к завтрашнему дню»",
       "summary": "The Hungarian AWPer believes MOUZ let their BLAST Rivals opener against G2 slip out of their hands.",
+      "summary_ru": "Венгерский снайпер считает, что MOUZ упустили победу в первом матче BLAST Rivals против G2.",
       "image": "https://img-cdn.hltv.org/gallerypicture/TD_BFx69mXWiWIObo58jpN.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C6000%2C4000&w=800&s=e1640e3ec91308a5e4ab1b33ea6f8489",
       "source": "HLTV",
       "category": "Команды",
@@ -21,7 +25,9 @@
     },
     {
       "title": "G2 snap loss streak with win over MOUZ",
+      "title_ru": "G2 прервала серию поражений, победив MOUZ",
       "summary": "G2 took advantage of the classic championship hangover by taking down world No. 1 MOUZ, earning a playoff berth in Hong Kong.",
+      "summary_ru": "Команда G2 воспользовалась классическим «похмельем» после чемпионата, победив команду MOUZ, занимающую первое место в мировом рейтинге, и получив право участвовать в плей-офф в Гонконге.",
       "image": "https://img-cdn.hltv.org/gallerypicture/3BVKmQwyIcRxe4aCtoSBF0.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=dd3187692e56d004106694aaf735190b",
       "source": "HLTV",
       "category": "Команды",
@@ -30,7 +36,9 @@
     },
     {
       "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship",
+      "title_ru": "Турнир Las Vegas Major 2028 получил значительную поддержку: по сообщениям, LVCVA одобрила спонсорскую помощь BLAST в размере 2 млн долларов США",
       "summary": "BLAST is also planning to host another esports event in the famous Nevada city as part of the deal.",
+      "summary_ru": "В рамках соглашения BLAST также планирует провести еще одно киберспортивное мероприятие в знаменитом городе штата Невада.",
       "image": "https://img-cdn.hltv.org/gallerypicture/78TnDePM6MzhhBC0VjDMp7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=39494d00cd4be4ead06608c3b7190a26",
       "source": "HLTV",
       "category": "Турниры",
@@ -39,7 +47,9 @@
     },
     {
       "title": "PGL confirm Singapore Major Stage 1 schedule",
+      "title_ru": "PGL подтверждает расписание 1-го этапа мейджора в Сингапуре",
       "summary": "Matches will start at 05:00 Central European Time.",
+      "summary_ru": "Матчи начнутся в 05:00 по центральноевропейскому времени.",
       "image": "https://img-cdn.hltv.org/gallerypicture/Ce1Rmccd4SzmnPKwmq-5UI.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=25382b12af3511f3b0a21808eb7e943d",
       "source": "HLTV",
       "category": "Турниры",
@@ -48,7 +58,9 @@
     },
     {
       "title": "Spirit handed first-ever 13-0 defeat in CS2, but recover to beat Krabeni-less FUT 2-1",
+      "title_ru": "Spirit потерпели первое в истории поражение со счетом 13:0 в CS2, но смогли взять реванш, обыграв FUT без Krabeni со счетом 2:1",
       "summary": "coolio was in the server for donk's first 0-13 loss in CS2.",
+      "summary_ru": "Coolio был на сервере во время первого поражения donk со счетом 0–13 в CS2.",
       "image": "https://img-cdn.hltv.org/gallerypicture/7mW-zskQpseFZ_clVvBpOu.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=4837f6aebb410350fc4e4ab0d4fc9cb2",
       "source": "HLTV",
       "category": "Команды",
@@ -57,7 +69,9 @@
     },
     {
       "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
+      "title_ru": "flameZ: «Мы могли бы быть гораздо менее сыгранными, но мы показали себя»",
       "summary": "Vitality's entry fragger was happy with the opening victory at BLAST Rivals against Falcons in apEX's return.",
+      "summary_ru": "Энтри-фрагер Vitality был доволен первой победой на BLAST Rivals над Falcons, одержанной с возвращением apEX.",
       "image": "https://img-cdn.hltv.org/gallerypicture/VOV_xk9RwUKhFG82SX2XpY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8011%2C5340&w=800&s=b70dbdde2fd23b8a33c936a306602936",
       "source": "HLTV",
       "category": "Команды",
@@ -66,7 +80,9 @@
     },
     {
       "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
+      "title_ru": "Vitality разгромила Falcons и вышла в плей-офф Rivals после возвращения apEX",
       "summary": "A rematch of the teams' battle at ESL Pro League went the same way, this time in two maps.",
+      "summary_ru": "Повторный матч команд на ESL Pro League прошел по тому же сценарию, но на этот раз на двух картах.",
       "image": "https://img-cdn.hltv.org/gallerypicture/6y56nJgYuGCgSDPIjqXLlB.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8032%2C5354&w=800&s=83d78027741623d4d767d379c98534be",
       "source": "HLTV",
       "category": "Турниры",
@@ -75,7 +91,9 @@
     },
     {
       "title": "molodoy: \"We can see now the problems we have before the Major\"",
+      "title_ru": "molodoy: «Теперь мы видим проблемы, с которыми столкнемся перед мейджором»",
       "summary": "FURIA's AWPer talks about how BLAST Rivals will act as a good measuring stick on what to work on before the Major.",
+      "summary_ru": "Снайпер FURIA рассказывает о том, что BLAST Rivals станет хорошим показателем того, над чем нужно поработать перед мейджором.",
       "image": "https://img-cdn.hltv.org/gallerypicture/FVHVgXqFtBuGBQM5PD7irl.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7515%2C5010&w=800&s=cc514b39aa9ed474baa3e2b35805c2bf",
       "source": "HLTV",
       "category": "Турниры",
@@ -84,7 +102,9 @@
     },
     {
       "title": "FURIA beat Legacy in BLAST Rivals opener",
+      "title_ru": "FURIA обыграла Legacy в стартовом матче BLAST Rivals",
       "summary": "FalleN's last ride in Hong Kong is off to a strong start.",
+      "summary_ru": "Последний турнир FalleN в Гонконге начался очень хорошо.",
       "image": "https://img-cdn.hltv.org/gallerypicture/bm3-4w9Amyf19J50vA4moU.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=288%2C0%2C4820%2C3210&w=800&s=31d399beb157c8f68ba860d34006ff02",
       "source": "HLTV",
       "category": "Команды",
