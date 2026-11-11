@@ -128,7 +128,20 @@ const visible = useMemo(() => {
       <button className="mobile-menu" onClick={() => setMobileOpen(!mobileOpen)} aria-label="Открыть меню">{mobileOpen ? <X/> : <Menu/>}</button>
       <a className="top-cta" href="#news">Читать новости <ArrowUpRight size={15}/></a>
     </header>
-    <AnimatePresence>{mobileOpen && <motion.nav className="mobile-nav" initial={{height:0,opacity:0}} animate={{height:"auto",opacity:1}} exit={{height:0,opacity:0}}><a href="#news" onClick={()=>setMobileOpen(false)}>Новости</a><a href="#about" onClick={()=>setMobileOpen(false)}>О проекте</a></motion.nav>}</AnimatePresence>
+    <AnimatePresence>
+  {mobileOpen && (
+    <motion.nav
+      className="mobile-nav"
+      initial={{ height: 0, opacity: 0 }}
+      animate={{ height: "auto", opacity: 1 }}
+      exit={{ height: 0, opacity: 0 }}
+    >
+      <a href="#news" onClick={() => { setPage("news"); setMobileOpen(false); }}>Новости</a>
+      <a href="#teams" onClick={() => { setPage("teams"); setMobileOpen(false); }}>Топ-25 команд</a>
+      <a href="#about" onClick={() => { setPage("news"); setMobileOpen(false); }}>О проекте</a>
+    </motion.nav>
+  )}
+</AnimatePresence>
 
     <main>
       {page === "teams" && (
