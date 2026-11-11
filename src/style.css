@@ -413,3 +413,15 @@ footer .brand {
     font-size: 12px;
   }
 }
+.team-info {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.team-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
