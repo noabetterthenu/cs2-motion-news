@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+Fimport React, { useEffect, useMemo, useState } from "react";
 import { createRoot } from "react-dom/client";
 import { motion, AnimatePresence } from "motion/react";
 import { Search, ArrowUpRight, Clock3, RefreshCw, Trophy, Zap, Newspaper, Radio, Menu, X } from "lucide-react";
@@ -81,9 +81,9 @@ const visible = useMemo(() => {
       <section className="hero">
         <div className="hero-orb orb-one"/><div className="hero-orb orb-two"/>
         <motion.div className="hero-copy" initial={{opacity:0,y:24}} animate={{opacity:1,y:0}} transition={{duration:.7,ease:"easeOut"}}>
-          <div className="eyebrow"><span className="live-dot"/> CS2 NEWS HUB <span className="eyebrow-line"/></div>
+          <div className="eyebrow"><span className="live-dot"/> НОВОСТИ CS2 <span className="eyebrow-line"/></div
           <h1>Вся сцена CS2.<br/><span>В одном месте.</span></h1>
-          <p>Главные события Counter-Strike 2 — турниры, составы, обновления и новости киберспорта. Только свежая повестка.</p>
+          <p>Главные события Counter-Strike 2 — турниры, составы, обновления и новости киберспорта. Всё самое важное в одном месте.</p>
           <a className="hero-button" href="#news">Смотреть новости <ArrowUpRight size={17}/></a>
         </motion.div>
         <motion.div className="hero-art" initial={{opacity:0,scale:.9,x:25}} animate={{opacity:1,scale:1,x:0}} transition={{duration:.8,delay:.15}}>
@@ -94,10 +94,10 @@ const visible = useMemo(() => {
         <div className="hero-bottom"><span>01 / THE LATEST FROM THE SERVER</span><span>SCROLL TO EXPLORE ↓</span></div>
       </section>
 
-      <section className="ticker"><div className="ticker-track"><span>COUNTER-STRIKE 2</span><i>✳</i><span>ESPORTS NEWS</span><i>✳</i><span>TOURNAMENTS</span><i>✳</i><span>THE LATEST UPDATE</span><i>✳</i><span>COUNTER-STRIKE 2</span><i>✳</i><span>ESPORTS NEWS</span><i>✳</i></div></section>
+      <section className="ticker"><div className="ticker-track"><span>COUNTER-STRIKE 2</span><i>✳️</i><span>НОВОСТИ КИБЕРСПОРТА</span><i>✳️</i><span>ТУРНИРЫ</span><i>✳️</i><span>ПОСЛЕДНИЕ ОБНОВЛЕНИЯ</span><i>✳</i><span>COUNTER-STRIKE 2</span><i>✳️</i><span>НОВОСТИ КИБЕРСПОРТА</span><i>✳️</i><span>ТУРНИРЫ</span><i>✳️</i><span>ПОСЛЕДНИЕ ОБНОВЛЕНИЯ</span><i>✳</i></div></section>
 
       <section className="news-section" id="news">
-        <div className="section-heading"><div><div className="eyebrow purple"><span className="section-number">01</span> THE NEWSROOM</div><h2>Последние <span>новости</span></h2><p>Всё, что происходит в мире Counter-Strike 2.</p></div><div className="update-box"><span className="update-indicator"/><div><b>АВТООБНОВЛЕНИЕ</b><small>{updated ? "Обновлено: " + formatDate(updated) : "Проверяем ленту…"}</small></div><button onClick={loadNews} title="Обновить сейчас" aria-label="Обновить новости" className={loading?"spinning":""}><RefreshCw size={17}/></button></div></div>
+        <div className="section-heading"><div><div className="eyebrow purple"><span className="section-number">01</span> ЛЕНТА НОВОСТЕЙ</div><h2>Последние <span>новости</span></h2><p>Всё, что происходит в мире Counter-Strike 2.</p></div><div className="update-box"><span className="update-indicator"/><div><b>АВТООБНОВЛЕНИЕ</b><small>{updated ? "Последнее обновление: " + formatDate(updated) : "Проверяем новости…"}</small></div><button onClick={loadNews} title="Обновить сейчас" aria-label="Обновить новости" className={loading?"spinning":""}><RefreshCw size={17}/></button></div></div>
         <div className="toolbar"><div className="filters">{categories.map(item=><button key={item} onClick={()=>setCategory(item)} className={category===item?"selected":""}>{item}</button>)}</div><label className="search"><Search size={17}/><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Поиск новостей…"/></label></div>
         {loading && news.length===0 ? <div className="empty-state"><RefreshCw className="spinning"/><p>Загружаем свежие новости…</p></div> :
           <div className="news-grid">
