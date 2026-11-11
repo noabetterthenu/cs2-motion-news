@@ -544,3 +544,18 @@ footer .brand {
 .team-row {
   overflow: visible;
 }
+@media (max-width: 640px) {
+  .team-roster {
+    position: absolute;
+    left: 0;
+    right: auto;
+    top: calc(100% + 10px);
+    width: min(280px, 75vw);
+    transform: translateY(8px);
+  }
+
+  .team-name-wrap:hover .team-roster,
+  .team-name-wrap:focus-within .team-roster {
+    transform: translateY(0);
+  }
+}
