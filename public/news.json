@@ -1,4 +1,85 @@
 {
-  "updated_at": null,
-  "articles": []
+  "updated_at": "2026-11-11T13:09:03.646375+00:00",
+  "articles": [
+    {
+      "title": "G2 snap loss streak with win over MOUZ",
+      "summary": "G2 took advantage of the classic championship hangover by taking down world No. 1 MOUZ, earning a playoff berth in Hong Kong.",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
+      "published": "2026-11-11T12:54:00+00:00"
+    },
+    {
+      "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship",
+      "summary": "BLAST is also planning to host another esports event in the famous Nevada city as part of the deal.",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship",
+      "published": "2026-11-11T11:11:00+00:00"
+    },
+    {
+      "title": "PGL confirm Singapore Major Stage 1 schedule",
+      "summary": "Matches will start at 05:00 Central European Time.",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45969/pgl-confirm-singapore-major-stage-1-schedule",
+      "published": "2026-11-11T10:00:00+00:00"
+    },
+    {
+      "title": "Spirit handed first-ever 13-0 defeat in CS2, but recover to beat Krabeni-less FUT 2-1",
+      "summary": "coolio was in the server for donk's first 0-13 loss in CS2.",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45968/spirit-handed-first-ever-13-0-defeat-in-cs2-but-recover-to-beat-krabeni-less-fut-2-1",
+      "published": "2026-11-11T09:27:00+00:00"
+    },
+    {
+      "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
+      "summary": "Vitality's entry fragger was happy with the opening victory at BLAST Rivals against Falcons in apEX's return.",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
+      "published": "2026-11-11T07:41:00+00:00"
+    },
+    {
+      "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
+      "summary": "A rematch of the teams' battle at ESL Pro League went the same way, this time in two maps.",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
+      "published": "2026-11-11T06:32:00+00:00"
+    },
+    {
+      "title": "molodoy: \"We can see now the problems we have before the Major\"",
+      "summary": "FURIA's AWPer talks about how BLAST Rivals will act as a good measuring stick on what to work on before the Major.",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
+      "published": "2026-11-11T05:18:00+00:00"
+    },
+    {
+      "title": "FURIA beat Legacy in BLAST Rivals opener",
+      "summary": "FalleN's last ride in Hong Kong is off to a strong start.",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
+      "published": "2026-11-11T04:16:00+00:00"
+    },
+    {
+      "title": "m0NESY: \"It's hard for now to say that we are title contenders\"",
+      "summary": "Falcons hope to have two strong events in Hong Kong and Singapore to finish off an otherwise lackluster season.",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
+      "published": "2026-11-10T19:59:00+00:00"
+    },
+    {
+      "title": "NertZ on G2's season: \"No matter what, it's a tragedy\"",
+      "summary": "Despite being on a six-match losing streak, G2's rifler believes his team can start to bounce back in Hong Kong.",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45956/nertz-on-g2s-season-no-matter-what-its-a-tragedy",
+      "published": "2026-11-10T19:10:00+00:00"
+    }
+  ]
 }
