@@ -72,7 +72,32 @@ const visible = useMemo(() => {
   return <div className="app-shell">
     <header className="topbar">
       <a className="brand" href="#" aria-label="CS2 Pulse — главная"><span className="brand-mark"><Zap size={19} fill="currentColor"/></span><span>CS2<span className="brand-light">PULSE</span></span></a>
-      <nav className="desktop-nav"><a className="active" href="#news">Новости</a><a href="#about">О проекте</a><a href="https://www.counter-strike.net/" target="_blank" rel="noreferrer">Официальный сайт <ArrowUpRight size={14}/></a></nav>
+<nav className="desktop-nav">
+  <a
+    href="#"
+    className={page === "news" ? "active" : ""}
+    onClick={(e) => {
+      e.preventDefault();
+      setPage("news");
+    }}
+  >
+    Новости
+  </a>
+  <a
+    href="#"
+    className={page === "teams" ? "active" : ""}
+    onClick={(e) => {
+      e.preventDefault();
+      setPage("teams");
+    }}
+  >
+    Топ-10 команд
+  </a>
+  <a href="#about" onClick={() => setPage("news")}>О проекте</a>
+  <a href="https://www.counter-strike.net/" target="_blank" rel="noreferrer">
+    Официальный сайт <ArrowUpRight size={14}/>
+  </a>
+</nav>
       <button className="mobile-menu" onClick={() => setMobileOpen(!mobileOpen)} aria-label="Открыть меню">{mobileOpen ? <X/> : <Menu/>}</button>
       <a className="top-cta" href="#news">Читать новости <ArrowUpRight size={15}/></a>
     </header>
