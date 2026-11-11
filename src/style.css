@@ -611,3 +611,27 @@ footer .brand {
 .news-card:hover .news-image {
   transform: scale(1.02);
 }
+.language-tabs {
+  display: flex;
+  gap: 8px;
+  margin: 0 0 18px;
+}
+
+.language-tabs button {
+  padding: 9px 18px;
+  border: 1px solid rgba(255, 60, 60, 0.25);
+  border-radius: 8px;
+  background: #151515;
+  color: #aaa;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.25s ease;
+}
+
+.language-tabs button:hover,
+.language-tabs button.selected {
+  background: #b31325;
+  color: white;
+  border-color: #ff3048;
+  box-shadow: 0 0 14px rgba(255, 35, 55, 0.25);
+}
