@@ -10,6 +10,33 @@ const fallback = [
 ];
 
 function App() {
+  const teams = [
+  { rank: 1, name: "MOUZ", points: 912 },
+  { rank: 2, name: "FURIA", points: 910 },
+  { rank: 3, name: "Vitality", points: 836 },
+  { rank: 4, name: "Spirit", points: 777 },
+  { rank: 5, name: "Aurora", points: 552 },
+  { rank: 6, name: "Falcons", points: 477 },
+  { rank: 7, name: "BETBOOM", points: 439 },
+  { rank: 8, name: "Natus Vincere", points: 412 },
+  { rank: 9, name: "FUT", points: 361 },
+  { rank: 10, name: "The MongolZ", points: 324 },
+  { rank: 11, name: "Nemiga", points: 316 },
+  { rank: 12, name: "G2", points: 247 },
+  { rank: 13, name: "PARIVISION", points: 234 },
+  { rank: 14, name: "Legacy", points: 221 },
+  { rank: 15, name: "1win", points: 161 },
+  { rank: 16, name: "MIBR", points: 153 },
+  { rank: 17, name: "Liquid", points: 150 },
+  { rank: 18, name: "FaZe", points: 118 },
+  { rank: 19, name: "9z", points: 113 },
+  { rank: 20, name: "Astralis", points: 112 },
+  { rank: 21, name: "B8", points: 101 },
+  { rank: 22, name: "Ninjas in Pyjamas", points: 100 },
+  { rank: 23, name: "Eternal Fire", points: 94 },
+  { rank: 24, name: "M80", points: 89 },
+  { rank: 25, name: "HEROIC", points: 88 }
+];
   const [page, setPage] = useState("news");
   const [news, setNews] = useState([]);
   const [category, setCategory] = useState("Все новости");
@@ -91,7 +118,7 @@ const visible = useMemo(() => {
       setPage("teams");
     }}
   >
-    Топ-10 команд
+    Топ-25 команд
   </a>
   <a href="#about" onClick={() => setPage("news")}>О проекте</a>
   <a href="https://www.counter-strike.net/" target="_blank" rel="noreferrer">
@@ -109,7 +136,7 @@ const visible = useMemo(() => {
     <div className="section-heading">
       <div>
         <div className="eyebrow purple">РЕЙТИНГ HLTV</div>
-        <h2>Топ-10 <span>команд</span></h2>
+        <h2>Топ-25 <span>команд</span></h2>
         <p>Лучшие команды профессиональной сцены CS2.</p>
       </div>
     </div>
