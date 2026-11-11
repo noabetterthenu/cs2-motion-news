@@ -6,6 +6,7 @@ from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.request import Request, urlopen
+from urllib.parse import urlencode
 import xml.etree.ElementTree as ET
 
 FEED_URL = "https://www.hltv.org/rss/news"
@@ -29,6 +30,32 @@ def get_image(entry):
             match = re.search(r'<img[^>]+src=["\']([^"\']+)', element.text, re.I)
             if match:
                 return match.group(1)
+
+    return ""
+
+def translate_text(value):
+    if not value:
+        return ""
+
+    params = urlencode({
+        "q": value[:450],
+        "langpair": "en|ru"
+    })
+
+    request = Request(
+        "https://api.mymemory.translated.net/get?" + params,
+        headers={"User-Agent": "Mozilla/5.0"}
+    )
+
+    try:
+        with urlopen(request, timeout=20) as response:
+            data = json.loads(response.read().decode("utf-8"))
+
+        if data.get("responseStatus") == 200:
+            return data.get("responseData", {}).get("translatedText", "")
+
+    except Exception as exc:
+        print(f"Translation failed: {exc}")
 
     return ""
 
@@ -89,16 +116,20 @@ def main():
         age = now - published
         if age < timedelta(hours=-2) or age > timedelta(hours=MAX_AGE_HOURS):
             continue
+        old_item = previous.get(link, {})
+        summary = (description[:260] + "…") if len(description) > 260 else description
+
         previous[link] = {
             "title": title[:220],
-            "summary": (description[:260] + "…") if len(description) > 260 else description,
-            "image": get_image(entry) or previous.get(link, {}).get("image", ""),
+            "title_ru": old_item.get("title_ru") or translate_text(title[:220]),
+            "summary": summary,
+            "summary_ru": old_item.get("summary_ru") or translate_text(summary),
+            "image": get_image(entry) or old_item.get("image", ""),
             "source": "HLTV",
             "category": categorize(title),
             "link": link,
             "published": published.isoformat()
         }
-        fresh_count += 1
 
     articles = sorted(previous.values(), key=lambda item: item["published"], reverse=True)[:MAX_ITEMS]
     payload = {"updated_at": now.isoformat(), "articles": articles}
