@@ -199,7 +199,7 @@ const visible = useMemo(() => {
     </div>
 
     <div className="teams-list">
-      {teams.map(team => (
+      {(ranking === "hltv" ? teams : vrsTeams).map(team => (
         <div className="team-row" key={team.rank}>
           <span className="team-rank">#{team.rank}</span>
           <div className="team-name-wrap">
