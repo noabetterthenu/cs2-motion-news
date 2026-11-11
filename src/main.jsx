@@ -53,7 +53,8 @@ const visible = useMemo(() => {
 
     const matchesQuery =
       !term ||
-      `${item.title} ${item.summary} ${item.source}`
+      [item.title, item.summary, item.source]
+        .join(" ")
         .toLowerCase()
         .includes(term);
 
