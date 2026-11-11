@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T15:16:27.751169+00:00",
+  "updated_at": "2026-11-11T16:18:49.965534+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 44",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45949/short-news-week-44",
+      "published": "2026-11-11T15:40:00+00:00"
+    },
     {
       "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
       "summary": "The Hungarian AWPer believes MOUZ let their BLAST Rivals opener against G2 slip out of their hands.",
