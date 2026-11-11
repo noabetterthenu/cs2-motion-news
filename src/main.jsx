@@ -65,6 +65,7 @@ function App() {
   { rank: 25, name: "M80", points: 1489, players: ["Swisher", "slaxz-", "s1n", "Lake", "JBa"] }
 ];
   const [page, setPage] = useState("news");
+  const [language, setLanguage] = useState("ru");
   const [ranking, setRanking] = useState("hltv");
   const [news, setNews] = useState([]);
   const [category, setCategory] = useState("Все новости");
@@ -109,7 +110,7 @@ const visible = useMemo(() => {
 
     const matchesQuery =
       !term ||
-      [item.title, item.summary, item.source]
+      [item.title, item.summary, item.title_ru, item.summary_ru, item.source]
         .join(" ")
         .toLowerCase()
         .includes(term);
@@ -246,6 +247,11 @@ const visible = useMemo(() => {
 
       <section className="news-section" id="news">
         <div className="section-heading"><div><div className="eyebrow purple"><span className="section-number">01</span> ЛЕНТА НОВОСТЕЙ</div><h2>Последние <span>новости</span></h2><p>Всё, что происходит в мире Counter-Strike 2.</p></div><div className="update-box"><span className="update-indicator"/><div><b>АВТООБНОВЛЕНИЕ</b><small>{updated ? "Последнее обновление: " + formatDate(updated) : "Проверяем новости…"}</small></div><button onClick={loadNews} title="Обновить сейчас" aria-label="Обновить новости" className={loading?"spinning":""}><RefreshCw size={17}/></button></div></div>
+        <div className="language-tabs">
+          <button onClick={() => setLanguage("ru")} className={language === "ru" ? "selected" : ""}>RU</button>
+          <button onClick={() => setLanguage("en")} className={language === "en" ? "selected" : ""}>EN</button>
+          <button onClick={() => setLanguage("all")} className={language === "all" ? "selected" : ""}>Все</button>
+        </div>
         <div className="toolbar"><div className="filters">{categories.map(item=><button key={item} onClick={()=>setCategory(item)} className={category===item?"selected":""}>{item}</button>)}</div><label className="search"><Search size={17}/><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Поиск новостей…"/></label></div>
         {loading && news.length===0 ? <div className="empty-state"><RefreshCw className="spinning"/><p>Загружаем свежие новости…</p></div> :
           <div className="news-grid">
@@ -261,7 +267,20 @@ const visible = useMemo(() => {
               )}
               
               <div className="card-topline"><span className="category-tag">{item.category || "Новости"}</span><span className="card-date"><Clock3 size={13}/> {formatDate(item.published)}</span></div>
-              <h3>{item.title}</h3><p>{item.summary || "Откройте публикацию, чтобы прочитать подробности."}</p>
+              <h3>
+  {language === "en"
+    ? item.title
+    : language === "all"
+      ? <>{item.title_ru || item.title}<br/><span>{item.title}</span></>
+      : item.title_ru || item.title}
+</h3>
+<p>
+  {language === "en"
+    ? item.summary
+    : language === "all"
+      ? <>{item.summary_ru || item.summary}<br/><span>{item.summary}</span></>
+      : item.summary_ru || item.summary || "Откройте публикацию, чтобы прочитать подробности."}
+</p>
               <div className="card-footer"><span className="source-name"><span className="source-dot"/>{item.source || "Источник"}</span><a href={item.link} target="_blank" rel="noreferrer" aria-label="Читать новость"><ArrowUpRight size={18}/></a></div>
             </motion.article>)}
           </div>}
