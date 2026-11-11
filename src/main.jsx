@@ -148,7 +148,7 @@ const visible = useMemo(() => {
           <div className="team-info">
   <img
     className="team-logo"
-    src={`/logos/${team.name.toLowerCase().replaceAll(" ", "-")}.svg`}
+    src{`${import.meta.env.BASE_URL}logos/${team.name.toLowerCase().replaceAll(" ", "-")}.svg`}
     alt={team.name}
   />
   <strong>{team.name}</strong>
