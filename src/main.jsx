@@ -253,6 +253,54 @@ const visible = useMemo(() => {
 
       <section className="ticker"><div className="ticker-track"><span>COUNTER-STRIKE 2</span><i>✳️</i><span>НОВОСТИ КИБЕРСПОРТА</span><i>✳️</i><span>ТУРНИРЫ</span><i>✳️</i><span>ПОСЛЕДНИЕ ОБНОВЛЕНИЯ</span><i>✳</i><span>COUNTER-STRIKE 2</span><i>✳️</i><span>НОВОСТИ КИБЕРСПОРТА</span><i>✳️</i><span>ТУРНИРЫ</span><i>✳️</i><span>ПОСЛЕДНИЕ ОБНОВЛЕНИЯ</span><i>✳</i></div></section>
 
+<section className="matches-section" id="matches">
+  <div className="section-heading">
+    <div>
+      <div className="eyebrow">CS2 MATCH CENTER</div>
+      <h2>Матчи <span>CS2</span></h2>
+    </div>
+    <div className="match-tabs">
+      <button className={matchTab === "live" ? "active" : ""} onClick={() => setMatchTab("live")}>LIVE</button>
+      <button className={matchTab === "upcoming" ? "active" : ""} onClick={() => setMatchTab("upcoming")}>СКОРО</button>
+    </div>
+  </div>
+
+  <div className="matches-list">
+    {(matches[matchTab] || []).length === 0 ? (
+      <div className="matches-empty">
+        {matchTab === "live" ? "Сейчас активных матчей нет" : "Расписание пока пустое"}
+      </div>
+    ) : (
+      (matches[matchTab] || []).map((match) => (
+        <div className="match-card" key={match.id}>
+          <div className="match-info">
+            <span>{match.eventName || "Турнир"}</span>
+            <span>{match.stageName || ""}</span>
+          </div>
+          <div className="match-teams">
+            <strong>{match.team1Name || "Команда 1"}</strong>
+            <span className="match-score">
+              {match.team1Score ?? "—"} : {match.team2Score ?? "—"}
+            </span>
+            <strong>{match.team2Name || "Команда 2"}</strong>
+          </div>
+          <div className="match-time">
+            {match.startsAt
+              ? new Date(match.startsAt).toLocaleString("ru-RU", {
+                  day: "2-digit",
+                  month: "short",
+                  hour: "2-digit",
+                  minute: "2-digit"
+                })
+              : ""}
+            {" · BO"}{match.bestOf || 3}
+          </div>
+        </div>
+      ))
+    )}
+  </div>
+</section>
+  
       <section className="news-section" id="news">
         <div className="section-heading"><div><div className="eyebrow purple"><span className="section-number">01</span> ЛЕНТА НОВОСТЕЙ</div><h2>Последние <span>новости</span></h2><p>Всё, что происходит в мире Counter-Strike 2.</p></div><div className="update-box"><span className="update-indicator"/><div><b>АВТООБНОВЛЕНИЕ</b><small>{updated ? "Последнее обновление: " + formatDate(updated) : "Проверяем новости…"}</small></div><button onClick={loadNews} title="Обновить сейчас" aria-label="Обновить новости" className={loading?"spinning":""}><RefreshCw size={17}/></button></div></div>
         <div className="language-tabs">
