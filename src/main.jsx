@@ -68,6 +68,14 @@ function App() {
   const [language, setLanguage] = useState("ru");
   const [ranking, setRanking] = useState("hltv");
   const [news, setNews] = useState([]);
+  const [matches, setMatches] = useState({ live: [], upcoming: [] });
+  const [matchTab, setMatchTab] = useState("live");
+  useEffect(() => {
+  fetch(`${import.meta.env.BASE_URL}matches.json`)
+    .then((response) => response.json())
+    .then((data) => setMatches(data))
+    .catch((error) => console.error("Ошибка загрузки матчей:", error));
+}, []);
   const [category, setCategory] = useState("Все новости");
   const [query, setQuery] = useState("");
   const [updated, setUpdated] = useState(null);
