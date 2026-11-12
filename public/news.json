@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-12T03:15:02.566227+00:00",
+  "updated_at": "2026-11-12T04:24:02.050961+00:00",
   "articles": [
+    {
+      "title": "Falcons crush Legacy to make Rivals playoffs",
+      "title_ru": "Falcons разгромили Legacy и вышли в плей-офф Rivals",
+      "summary": "Legacy bow out in last place for the second straight tournament.",
+      "summary_ru": "Legacy выбывают, заняв последнее место второй турнир подряд.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/2uVBNRGA5eKLmnRvIDQSoY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=0%2C0%2C4908%2C3266&w=800&s=be51d64337de80ebe6660a55a0829611",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45974/falcons-crush-legacy-to-make-rivals-playoffs",
+      "published": "2026-11-12T03:57:00+00:00"
+    },
     {
       "title": "Short news: Week 44",
       "title_ru": "Короткие новости: 44-я неделя",
