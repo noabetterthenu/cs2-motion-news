@@ -291,8 +291,15 @@ const visible = useMemo(() => {
       <section className="about-section" id="about"><div className="about-icon"><Zap size={22}/></div><div><div className="eyebrow purple">02 / ABOUT CS2 PULSE</div><h2>В центре <span>игры.</span></h2><p>Независимая новостная лента для тех, кто следит за Counter-Strike 2. Мы собираем публикации из открытых источников и направляем читателя к оригинальным материалам.</p></div><div className="about-stat"><strong>30<span>мин</span></strong><small>ИНТЕРВАЛ ОБНОВЛЕНИЯ</small></div></section>
     </>
   )}
-  </main>
-    
+</main>
+
+<footer>
+  <a className="brand" href="#">
+    <span className="brand-mark"><Zap size={16} fill="currentColor"/></span>
+    <span>CS2<span className="brand-light">PULSE</span></span>
+  </a>
+  <span>Неофициальный фанатский проект. Не связан с Valve.</span>
+  <span>© {new Date().getFullYear()} CS2 PULSE</span>
 </footer>
 
 <div className="quick-links">
