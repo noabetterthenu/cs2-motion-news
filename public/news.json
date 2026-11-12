@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-12T09:45:15.103258+00:00",
+  "updated_at": "2026-11-12T10:49:21.261445+00:00",
   "articles": [
+    {
+      "title": "MOUZ narrowly escape last-place elimination at BLAST against FUT",
+      "title_ru": "MOUZ едва избежала вылета с последнего места на BLAST в матче против FUT",
+      "summary": "xertioN and company came back from a map down and 6-12 on Mirage to live on in Hong Kong.",
+      "summary_ru": "xertioN и компания отыгрались после проигрыша одной карты и отставания 6–12 на Mirage, чтобы продолжить борьбу в Гонконге.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/7bF8ZnYM-zItkrj3JoEtbW.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5892%2C3928&w=800&s=48439638dad847be252e10161cfc6afe",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
+      "published": "2026-11-12T10:35:00+00:00"
+    },
+    {
+      "title": "Short news: Week 44",
+      "title_ru": "Короткие новости: 44-я неделя",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45949/short-news-week-44",
+      "published": "2026-11-12T10:25:00+00:00"
+    },
     {
       "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
       "title_ru": "FURIA впервые нанесла Vitality поражение со счетом 13–0 и вышла в полуфинал Rivals",
@@ -22,17 +44,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45974/falcons-crush-legacy-to-make-rivals-playoffs",
       "published": "2026-11-12T03:57:00+00:00"
-    },
-    {
-      "title": "Short news: Week 44",
-      "title_ru": "Короткие новости: 44-я неделя",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45949/short-news-week-44",
-      "published": "2026-11-11T15:40:00+00:00"
     },
     {
       "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
