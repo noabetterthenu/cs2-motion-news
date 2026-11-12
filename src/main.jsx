@@ -304,13 +304,13 @@ const visible = useMemo(() => {
 
 <div className="quick-links">
   <a href="https://www.faceit.com/" target="_blank" rel="noreferrer" aria-label="FACEIT" title="FACEIT">
-    <span>F</span>
+    <img src="https://cdn.simpleicons.org/faceit/FF5500" alt="FACEIT" />
   </a>
   <a href="https://cybershoke.net/" target="_blank" rel="noreferrer" aria-label="CYBERSHOKE" title="CYBERSHOKE">
-    <span>C</span>
+    <img src="https://www.google.com/s2/favicons?domain=cybershoke.net&sz=128" alt="CYBERSHOKE" />
   </a>
   <a href="https://www.hltv.org/" target="_blank" rel="noreferrer" aria-label="HLTV" title="HLTV">
-    <span>H</span>
+    <img src="https://www.google.com/s2/favicons?domain=hltv.org&sz=128" alt="HLTV" />
   </a>
 </div>
 
