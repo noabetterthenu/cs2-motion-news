@@ -792,3 +792,30 @@ footer .brand {
 .quick-links a:hover img {
   transform: scale(1.12);
 }
+.quick-links {
+  animation: quickLinksAppear .7s ease-out both;
+}
+
+@keyframes quickLinksAppear {
+  from {
+    opacity: 0;
+    transform: translateX(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.quick-links a {
+  animation: quickLinksGlow 3s ease-in-out infinite alternate;
+}
+
+@keyframes quickLinksGlow {
+  from {
+    box-shadow: 0 6px 22px rgba(0, 0, 0, .35);
+  }
+  to {
+    box-shadow: 0 0 15px rgba(255, 35, 55, .22);
+  }
+}
