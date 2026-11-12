@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-12T18:13:03.165409+00:00",
+  "updated_at": "2026-11-12T19:23:16.355406+00:00",
   "articles": [
+    {
+      "title": "Who are 2026's rookies?",
+      "title_ru": "Кто станет новичками в 2026 году?",
+      "summary": "Rookie criteria have been simplified ahead of the awards in January.",
+      "summary_ru": "Критерии для новичков были упрощены перед вручением наград в январе.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/phTJZ9U335Vl9h5E_tkapz.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=282d4f6bc4c5a62c1c535f2f30fe242c",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
+      "published": "2026-11-12T18:55:00+00:00"
+    },
+    {
+      "title": "Short news: Week 44",
+      "title_ru": "Короткие новости: 44-я неделя",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45949/short-news-week-44",
+      "published": "2026-11-12T18:17:00+00:00"
+    },
     {
       "title": "YEKINDAR: \"Today we were better, but also luckier to some degree\"",
       "title_ru": "YEKINDAR: «Сегодня мы были лучше, но в какой-то степени нам также повезло»",
@@ -33,17 +55,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
       "published": "2026-11-12T10:35:00+00:00"
-    },
-    {
-      "title": "Short news: Week 44",
-      "title_ru": "Короткие новости: 44-я неделя",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45949/short-news-week-44",
-      "published": "2026-11-12T10:25:00+00:00"
     },
     {
       "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
