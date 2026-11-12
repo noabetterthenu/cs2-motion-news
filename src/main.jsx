@@ -292,8 +292,20 @@ const visible = useMemo(() => {
     </>
   )}
   </main>
-    <footer><a className="brand" href="#"><span className="brand-mark"><Zap size={16} fill="currentColor"/></span><span>CS2<span className="brand-light">PULSE</span></span></a><span>Неофициальный фанатский проект. Не связан с Valve.</span><span>© {new Date().getFullYear()} CS2 PULSE</span></footer>
+    </footer>
+
+<div className="quick-links">
+  <a href="https://www.faceit.com/" target="_blank" rel="noreferrer" aria-label="FACEIT" title="FACEIT">
+    <span>F</span>
+  </a>
+  <a href="https://cybershoke.net/" target="_blank" rel="noreferrer" aria-label="CYBERSHOKE" title="CYBERSHOKE">
+    <span>C</span>
+  </a>
+  <a href="https://www.hltv.org/" target="_blank" rel="noreferrer" aria-label="HLTV" title="HLTV">
+    <span>H</span>
+  </a>
+</div>
+
   </div>;
 }
-
 createRoot(document.getElementById("root")).render(<App/>);
