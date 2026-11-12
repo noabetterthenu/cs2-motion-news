@@ -733,3 +733,51 @@ footer .brand {
     border-radius: 11px;
   }
 }
+.quick-links {
+  position: fixed;
+  right: 24px;
+  bottom: 28px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.quick-links a {
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(255, 48, 72, .35);
+  border-radius: 13px;
+  background: rgba(15, 15, 18, .92);
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 900;
+  box-shadow: 0 6px 22px rgba(0, 0, 0, .35);
+  backdrop-filter: blur(10px);
+  transition: transform .22s ease, border-color .22s ease, background .22s ease, box-shadow .22s ease;
+}
+
+.quick-links a:hover {
+  transform: translateX(-5px) scale(1.06);
+  background: linear-gradient(135deg, #c41430, #8f0c20);
+  border-color: #ff5268;
+  box-shadow: 0 0 18px rgba(255, 35, 55, .35);
+}
+
+@media (max-width: 600px) {
+  .quick-links {
+    right: 12px;
+    bottom: 18px;
+    gap: 8px;
+  }
+
+  .quick-links a {
+    width: 44px;
+    height: 44px;
+    border-radius: 11px;
+  }
+}
