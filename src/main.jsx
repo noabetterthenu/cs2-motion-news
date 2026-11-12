@@ -292,7 +292,8 @@ const visible = useMemo(() => {
     </>
   )}
   </main>
-    </footer>
+    
+</footer>
 
 <div className="quick-links">
   <a href="https://www.faceit.com/" target="_blank" rel="noreferrer" aria-label="FACEIT" title="FACEIT">
