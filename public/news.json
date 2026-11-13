@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-13T10:24:48.902487+00:00",
+  "updated_at": "2026-11-13T11:20:24.434697+00:00",
   "articles": [
+    {
+      "title": "apEX: \"Probably my worst calling in a long time\"",
+      "title_ru": "apEX: «Наверное, мой худший колл за долгое время»",
+      "summary": "The French captain took responsibility for his part in Vitality's losses in Hong Kong as the team now shifts focus to the Singapore Major.",
+      "summary_ru": "Французский капитан взял на себя ответственность за свое участие в поражениях Vitality в Гонконге, и теперь команда переключает внимание на турнир Singapore Major.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/HHH0-rN6is9OEOpLui6pZk.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5064%2C3376&w=800&s=ce578bc82a0f1a557f5321e749b39b32",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45982/apex-probably-my-worst-calling-in-a-long-time",
+      "published": "2026-11-13T11:18:00+00:00"
+    },
+    {
+      "title": "MOUZ sweep Vitality as ZywOo confirms career-worst LAN event",
+      "title_ru": "MOUZ обыгрывает Vitality, а ZywOo показывает худший результат в своей карьере на LAN-турнире",
+      "summary": "The worst event of ZywOo's career is in the books after MOUZ sweep Vitality in the quarter-finals of BLAST Rivals.",
+      "summary_ru": "Худшее событие в карьере ZywOo уже позади после того, как MOUZ разгромили Vitality в четвертьфинале BLAST Rivals.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/EyC4v8_1VxCOTRbBakRXVD.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=5de18de461d7707b460ffb80bdb052dc",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
+      "published": "2026-11-13T10:20:00+00:00"
+    },
     {
       "title": "Live updates from the BLAST Rivals quarter-finals",
       "title_ru": "Оперативные новости из четвертьфиналов BLAST Rivals",
