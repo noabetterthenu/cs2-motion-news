@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13T14:41:06.439988+00:00",
+  "updated_at": "2026-11-13T15:35:14.911626+00:00",
   "articles": [
+    {
+      "title": "BLAST Rivals quarter-finals as they happened",
+      "title_ru": "Четвертьфиналы BLAST Rivals в режиме реального времени",
+      "summary": "Catch all the best moments as the world's best do battle in Hong Kong.",
+      "summary_ru": "Не пропустите лучшие моменты соревнований лучших спортсменов мира в Гонконге.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/fHVEcVLVZ19PDxlhT-irHi.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7829%2C5219&w=800&s=58e0acddb44a2fce40f6c299ff698de1",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45979/blast-rivals-quarter-finals-as-they-happened",
+      "published": "2026-11-13T15:22:00+00:00"
+    },
     {
       "title": "Falcons qualify for BLAST Rivals semis over G2",
       "title_ru": "Falcons обыграли G2 и прошли в полуфинал BLAST Rivals",
