@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13T17:38:49.059740+00:00",
+  "updated_at": "2026-11-13T18:36:43.172834+00:00",
   "articles": [
+    {
+      "title": "Hype Tech enters Counter-Strike with ex-Zero Tenacity roster",
+      "title_ru": "Hype Tech выходит на сцену Counter-Strike с бывшим составом Zero Tenacity",
+      "summary": "The region's best team once again has organizational support.",
+      "summary_ru": "Лучшая команда региона вновь получила организационную поддержку.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/HT41EXunMqRpZvDZDsbfd7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1157%2C56%2C4843%2C3226&w=800&s=5180db7019c22c15202703d5a62e88de",
+      "source": "HLTV",
+      "category": "Трансферы",
+      "link": "https://www.hltv.org/news/45985/hype-tech-enters-counter-strike-with-ex-zero-tenacity-roster",
+      "published": "2026-11-13T18:15:00+00:00"
+    },
     {
       "title": "xelex on playing arena matches: \"It's a lot of experience and prepares me a bit for the Major\"",
       "title_ru": "xelex об участии в матчах на арене: «Это большой опыт, который немного готовит меня к мейджору»",
