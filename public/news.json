@@ -1,12 +1,23 @@
 {
-  "updated_at": "2026-11-13T20:40:09.783930+00:00",
+  "updated_at": "2026-11-13T21:36:07.548858+00:00",
   "articles": [
+    {
+      "title": "The highs and lows of the Major qualification rollercoaster",
+      "title_ru": "Взлеты и падения на американских горках квалификации на мейджор",
+      "summary": "With the season's most-coveted invites on the line, some teams rose to the occasion whilst others fell by the wayside.",
+      "summary_ru": "На кону были самые желанные приглашения сезона, и некоторые команды справились с задачей, а другие потерпели неудачу.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/7RhZXnWZv_DG4kOxLEzD4H.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=aa263f65920904e06d4e0ceffe1e1b64",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45973/the-highs-and-lows-of-the-major-qualification-rollercoaster",
+      "published": "2026-11-13T21:30:00+00:00"
+    },
     {
       "title": "SAW bench NOPEEj and promote Jayy2s",
       "title_ru": "Увидел скамейку НЕТ, продвигай Jayy2s",
       "summary": "The Portuguese team's roster overhaul continues after the coach's dismissal two weeks ago.",
       "summary_ru": "Перестройка состава португальской команды продолжается после увольнения тренера две недели назад.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/yQkd1Dw5_QVpSYzzj7s753.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=c5051f03134e45547d760312ca2578c0",
+      "image": "https://img-cdn.hltv.org/gallerypicture/yQkd1Dw5_QVpSYzzj7s753.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8192%2C5461&w=800&s=766d0565a68ec2a1fd9bb192d6124dd1",
       "source": "HLTV",
       "category": "Трансферы",
       "link": "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
