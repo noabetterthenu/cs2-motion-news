@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13T22:32:37.915139+00:00",
+  "updated_at": "2026-11-13T23:28:52.684048+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 44",
+      "title_ru": "Короткие новости: 44-я неделя",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45949/short-news-week-44",
+      "published": "2026-11-13T22:26:00+00:00"
+    },
     {
       "title": "The highs and lows of the Major qualification rollercoaster",
       "title_ru": "Взлеты и падения на американских горках квалификации на мейджор",
@@ -110,17 +121,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
       "published": "2026-11-12T18:55:00+00:00"
-    },
-    {
-      "title": "Short news: Week 44",
-      "title_ru": "Короткие новости: 44-я неделя",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45949/short-news-week-44",
-      "published": "2026-11-12T18:17:00+00:00"
     },
     {
       "title": "YEKINDAR: \"Today we were better, but also luckier to some degree\"",
