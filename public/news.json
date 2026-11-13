@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-13T08:08:06.499722+00:00",
+  "updated_at": "2026-11-13T09:23:22.710436+00:00",
   "articles": [
+    {
+      "title": "Live updates from the BLAST Rivals quarter-finals",
+      "title_ru": "Оперативные новости из четвертьфиналов BLAST Rivals",
+      "summary": "Catch all the best moments as the world's best do battle in Hong Kong.",
+      "summary_ru": "",
+      "image": "https://img-cdn.hltv.org/gallerypicture/fHVEcVLVZ19PDxlhT-irHi.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7829%2C5219&w=800&s=58e0acddb44a2fce40f6c299ff698de1",
+      "source": "HLTV",
+      "category": "Обновления",
+      "link": "https://www.hltv.org/news/45979/live-updates-from-the-blast-rivals-quarter-finals",
+      "published": "2026-11-13T08:11:00+00:00"
+    },
     {
       "title": "Who are 2026's rookies?",
       "title_ru": "Кто станет новичками в 2026 году?",
