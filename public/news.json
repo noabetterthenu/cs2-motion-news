@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-14T09:32:18.667051+00:00",
+  "updated_at": "2026-11-14T10:28:25.470405+00:00",
   "articles": [
+    {
+      "title": "Spirit defeat MOUZ to make BLAST Rivals final",
+      "title_ru": "Spirit обыграли MOUZ и вышли в финал BLAST Rivals",
+      "summary": "A team effort by Spirit netted them a shot at the trophy in Hong Kong.",
+      "summary_ru": "Благодаря командной игре Spirit получили шанс побороться за трофей в Гонконге.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/4C3iJcglPh1AgkZCRiG_bE.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=850%2C0%2C4645%2C3094&w=800&s=df212c53be4974f6c4da090d3a42e6c0",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
+      "published": "2026-11-14T10:04:00+00:00"
+    },
     {
       "title": "Live updates from BLAST Rivals semi-finals",
       "title_ru": "Оперативные новости с полуфиналов BLAST Rivals",
