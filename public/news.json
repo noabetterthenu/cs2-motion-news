@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-14T21:59:45.033867+00:00",
+  "updated_at": "2026-11-14T22:30:49.801348+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 44",
+      "title_ru": "Короткие новости: 44-я неделя",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45949/short-news-week-44",
+      "published": "2026-11-14T21:03:00+00:00"
+    },
     {
       "title": "yuurih: \"I really want to thank Falcons for their fair play\"",
       "title_ru": "yuurih: «Я очень хочу поблагодарить Falcons за честную игру»",
@@ -55,17 +66,6 @@
       "category": "Обновления",
       "link": "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
       "published": "2026-11-14T07:16:00+00:00"
-    },
-    {
-      "title": "Short news: Week 44",
-      "title_ru": "Короткие новости: 44-я неделя",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45949/short-news-week-44",
-      "published": "2026-11-13T22:26:00+00:00"
     },
     {
       "title": "The highs and lows of the Major qualification rollercoaster",
