@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-14T06:39:51.879450+00:00",
+  "updated_at": "2026-11-14T07:48:40.525120+00:00",
   "articles": [
+    {
+      "title": "Live updates from BLAST Rivals semi-finals",
+      "title_ru": "Оперативные новости с полуфиналов BLAST Rivals",
+      "summary": "Catch all the highlights from the top-four stage in Hong Kong.",
+      "summary_ru": "Посмотрите все яркие моменты этапа топ-четверки в Гонконге.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/3uoKrjqgfiD_fzi35BGH12.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7981%2C5320&w=800&s=a3accbca83da599d987164a0b41538ac",
+      "source": "HLTV",
+      "category": "Обновления",
+      "link": "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
+      "published": "2026-11-14T07:16:00+00:00"
+    },
     {
       "title": "Short news: Week 44",
       "title_ru": "Короткие новости: 44-я неделя",
