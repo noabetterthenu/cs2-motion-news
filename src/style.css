@@ -1329,3 +1329,100 @@ footer > span {
 .mobile-nav a:hover {
   color: #e05262;
 }
+/* =================================
+   DARK CRIMSON — TOP-25 TEAMS
+================================= */
+
+/* Общий фон страницы команд */
+.teams-page,
+.teams-section {
+  background: #080809;
+  color: #ededf0;
+}
+
+/* Заголовки */
+.teams-page h1,
+.teams-page h2,
+.teams-section h1,
+.teams-section h2 {
+  color: #ededf0;
+}
+
+.teams-page h1 span,
+.teams-page h2 span,
+.teams-section h1 span,
+.teams-section h2 span {
+  color: #c51f32;
+  text-shadow: 0 0 16px rgba(197, 31, 50, 0.2);
+}
+
+/* Вкладки HLTV / VRS */
+.teams-page button,
+.teams-section button {
+  transition: all 0.25s ease;
+}
+
+.teams-page button:hover,
+.teams-section button:hover {
+  border-color: rgba(197, 31, 50, 0.5);
+  color: #e05262;
+}
+
+/* Активные вкладки */
+.teams-page button.active,
+.teams-section button.active,
+.teams-page button.selected,
+.teams-section button.selected {
+  background: linear-gradient(135deg, #781321, #a9162a);
+  border-color: #a9162a;
+  color: #fff;
+  box-shadow: 0 0 15px rgba(197, 31, 50, 0.18);
+}
+
+/* Карточки команд */
+.teams-page .team-card,
+.teams-section .team-card {
+  background: linear-gradient(145deg, #141114, #0e0c0f);
+  border: 1px solid rgba(197, 31, 50, 0.16);
+  border-radius: 10px;
+  color: #ededf0;
+  transition: all 0.3s ease;
+}
+
+.teams-page .team-card:hover,
+.teams-section .team-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(197, 31, 50, 0.48);
+  box-shadow: 0 0 22px rgba(197, 31, 50, 0.12);
+}
+
+/* Названия команд */
+.team-card h3,
+.team-card strong {
+  color: #ededf0;
+}
+
+/* Рейтинг и дополнительные подписи */
+.team-card small,
+.team-card p {
+  color: #96929a;
+}
+
+/* Места в рейтинге */
+.team-rank {
+  color: #c51f32;
+}
+
+/* Составы игроков */
+.player-card,
+.roster-card {
+  background: #111013;
+  border: 1px solid rgba(197, 31, 50, 0.14);
+  color: #ededf0;
+}
+
+/* Разделители */
+.teams-page hr,
+.teams-section hr {
+  border-color: rgba(197, 31, 50, 0.16);
+}
