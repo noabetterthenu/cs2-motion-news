@@ -1,12 +1,23 @@
 {
-  "updated_at": "2026-11-15T11:26:20.464120+00:00",
+  "updated_at": "2026-11-15T12:05:46.969569+00:00",
   "articles": [
+    {
+      "title": "KSCERATO dominates to claim BLAST Rivals S2 MVP",
+      "title_ru": "KSCERATO становится MVP BLAST Rivals S2",
+      "summary": "KSCERATO went unchallenged from start to finish in Hong Kong to secure his third medal.",
+      "summary_ru": "KSCERATO с самого начала и до конца гонки в Гонконге не встречал сопротивления, что позволило ему завоевать третью медаль.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/wsCs2G1f5gBmdDi_xdhirm.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=997%2C0%2C6335%2C4223&w=800&s=121aea45220d3faba5dae5e6e77066b3",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
+      "published": "2026-11-15T11:27:00+00:00"
+    },
     {
       "title": "FURIA rout Spirit in Hong Kong final to win third trophy in four events",
       "title_ru": "FURIA разгромила Spirit в финале в Гонконге и завоевала третий трофей за четыре турнира",
       "summary": "FURIA's late season charge gathers momentum as FalleN's swansong continues in style.",
       "summary_ru": "Напор FURIA в конце сезона набирает обороты, а прощальный тур FalleN продолжается в его фирменном стиле.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/44R6JCbofsX1oRNAhBbwjK.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=ca8ead3fbb1412e336164cd33b95bb47",
+      "image": "https://img-cdn.hltv.org/gallerypicture/3e9rQbpra2lhfLJWMXod7J.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=59a1d1bbffa03048d69ebb0adc3f31a2",
       "source": "HLTV",
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events",
