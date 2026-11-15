@@ -12,16 +12,30 @@
 
 :root {
   color-scheme: dark;
-  background: #09090c;
+  background: #080809;
   color: #ededf0;
-  --purple: #e32636;
-  --deep: #a91020;
-  --muted: #92929c;
-  --line: #29242a;
+
+  --purple: #c51f32;
+  --deep: #781321;
+  --muted: #96929a;
+  --line: #292127;
+
+  --bg: #080809;
+  --surface: #111013;
+  --surface-hover: #191318;
+
+  --accent: #c51f32;
+  --accent-dark: #781321;
+  --accent-glow: rgba(197, 31, 50, 0.28);
+  --accent-soft: rgba(197, 31, 50, 0.12);
+
+  --text: #ededf0;
+  --text-muted: #96929a;
+  --border: rgba(197, 31, 50, 0.16);
 }
 
 body {
-  background: #09090c;
+  background: #080809;
   color: #ededf0;
 }
 
