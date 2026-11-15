@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-15T08:39:01.688986+00:00",
+  "updated_at": "2026-11-15T10:30:29.619057+00:00",
   "articles": [
+    {
+      "title": "BLAST to return to Hong Kong in 2027",
+      "title_ru": "BLAST вернется в Гонконг в 2027 году",
+      "summary": "For the third year in a row, Hong Kong will host a late-season BLAST event.",
+      "summary_ru": "Уже третий год подряд Гонконг будет принимать у себя турнир BLAST в конце сезона.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/SBD3dovhtBPzAVkfdu5Ex4.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=ddc119e31aa5e7e2cce52d4e116ac808",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45994/blast-to-return-to-hong-kong-in-2027",
+      "published": "2026-11-15T10:21:00+00:00"
+    },
     {
       "title": "Live updates from BLAST Rivals grand final",
       "title_ru": "Оперативные новости с гранд-финала BLAST Rivals",
