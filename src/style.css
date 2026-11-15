@@ -1295,3 +1295,37 @@ footer .brand {
 .about-stat small {
   color: #96929a;
 }
+/* DARK CRIMSON — FOOTER & MOBILE MENU */
+
+footer {
+  background: #080809;
+  border-top: 1px solid rgba(197, 31, 50, 0.16);
+}
+
+footer > span {
+  color: #858087;
+}
+
+.mobile-menu {
+  background: rgba(197, 31, 50, 0.14);
+  color: #e05262;
+  border: 1px solid rgba(197, 31, 50, 0.22);
+}
+
+.mobile-menu:hover {
+  background: #781321;
+  color: #fff;
+}
+
+.mobile-nav {
+  background: #100d10;
+  border-bottom: 1px solid rgba(197, 31, 50, 0.22);
+}
+
+.mobile-nav a {
+  color: #b5adb5;
+}
+
+.mobile-nav a:hover {
+  color: #e05262;
+}
