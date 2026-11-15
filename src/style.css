@@ -1685,3 +1685,29 @@ footer > span {
     padding-top: 6px;
   }
 }
+/* DARK CRIMSON — FEATURED NEWS */
+
+.news-card:first-child {
+  border-color: rgba(197, 31, 50, 0.38);
+  box-shadow:
+    0 0 25px rgba(197, 31, 50, 0.09),
+    0 12px 35px rgba(0, 0, 0, 0.25);
+}
+
+.news-card:first-child .news-image {
+  border-radius: 7px;
+}
+
+.news-card:not(:first-child) {
+  cursor: pointer;
+}
+
+.news-card:not(:first-child):hover {
+  border-color: rgba(197, 31, 50, 0.55);
+  box-shadow: 0 0 22px rgba(197, 31, 50, 0.14);
+}
+
+.news-card:first-child .category-tag {
+  background: rgba(197, 31, 50, 0.2);
+  color: #f06a78;
+}
