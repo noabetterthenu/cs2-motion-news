@@ -1426,3 +1426,111 @@ footer > span {
 .teams-section hr {
   border-color: rgba(197, 31, 50, 0.16);
 }
+/* =================================
+   DARK CRIMSON — MATCH CENTER
+================================= */
+
+/* Общий фон */
+.matches-section,
+.matches-page,
+.match-center {
+  background: #080809;
+  color: #ededf0;
+}
+
+/* Заголовки */
+.matches-section h1,
+.matches-section h2,
+.matches-page h1,
+.matches-page h2,
+.match-center h1,
+.match-center h2 {
+  color: #ededf0;
+}
+
+/* Карточки матчей */
+.match-card,
+.matches-card,
+.match-item {
+  background: linear-gradient(145deg, #141114, #0e0c0f);
+  border: 1px solid rgba(197, 31, 50, 0.18);
+  border-radius: 10px;
+  color: #ededf0;
+  transition: all 0.3s ease;
+}
+
+.match-card:hover,
+.matches-card:hover,
+.match-item:hover {
+  border-color: rgba(197, 31, 50, 0.48);
+  box-shadow: 0 0 22px rgba(197, 31, 50, 0.12);
+  transform: translateY(-3px);
+}
+
+/* LIVE */
+.live,
+.match-live,
+.live-badge {
+  background: rgba(197, 31, 50, 0.16);
+  color: #f05a68;
+  border: 1px solid rgba(197, 31, 50, 0.3);
+  box-shadow: 0 0 12px rgba(197, 31, 50, 0.12);
+}
+
+/* Точка LIVE */
+.live-dot {
+  background: #c51f32;
+  box-shadow: 0 0 10px rgba(197, 31, 50, 0.55);
+}
+
+/* Вкладки LIVE / СКОРО */
+.matches-tabs button,
+.match-tabs button {
+  background: #111013;
+  border: 1px solid rgba(197, 31, 50, 0.18);
+  color: #aaa3aa;
+  transition: all 0.25s ease;
+}
+
+.matches-tabs button:hover,
+.match-tabs button:hover {
+  border-color: rgba(197, 31, 50, 0.45);
+  color: #e05262;
+}
+
+.matches-tabs button.active,
+.matches-tabs button.selected,
+.match-tabs button.active,
+.match-tabs button.selected {
+  background: linear-gradient(135deg, #781321, #a9162a);
+  border-color: #a9162a;
+  color: #fff;
+  box-shadow: 0 0 14px rgba(197, 31, 50, 0.18);
+}
+
+/* Названия команд */
+.match-card h3,
+.match-card strong,
+.match-item h3,
+.match-item strong {
+  color: #ededf0;
+}
+
+/* Счёт */
+.match-score,
+.match-result {
+  color: #e05262;
+}
+
+/* Турниры и подписи */
+.match-card small,
+.match-item small,
+.match-tournament {
+  color: #96929a;
+}
+
+/* Разделители */
+.match-card hr,
+.match-item hr {
+  border-color: rgba(197, 31, 50, 0.16);
+}
