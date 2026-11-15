@@ -1141,5 +1141,13 @@ footer .brand {
     0 12px 32px rgba(0, 0, 0, 0.3),
     0 0 20px rgba(197, 31, 50, 0.10);
 }
+/* DARK CRIMSON — CATEGORY TAGS */
 
+.category-tag {
+  background: rgba(197, 31, 50, 0.12);
+  color: #e05262;
+  border: 1px solid rgba(197, 31, 50, 0.2);
+  border-radius: 5px;
+  padding: 5px 8px;
+}
 
