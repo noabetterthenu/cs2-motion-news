@@ -1219,3 +1219,44 @@ footer .brand {
   color: #fff;
   box-shadow: 0 0 16px rgba(197, 31, 50, 0.22);
 }
+/* DARK CRIMSON — NEWS CARD FOOTER */
+
+.card-date {
+  color: #96929a;
+}
+
+.card-footer {
+  border-top: 1px solid rgba(197, 31, 50, 0.16);
+}
+
+.source-name {
+  color: #b5adb5;
+}
+
+.source-dot {
+  background: #c51f32;
+  box-shadow: 0 0 8px rgba(197, 31, 50, 0.4);
+}
+
+.card-footer a {
+  color: #e05262;
+  background: rgba(197, 31, 50, 0.12);
+  border: 1px solid rgba(197, 31, 50, 0.2);
+  transition: all 0.25s ease;
+}
+
+.card-footer a:hover {
+  background: #781321;
+  color: #fff;
+  box-shadow: 0 0 14px rgba(197, 31, 50, 0.25);
+}
+
+.news-footnote {
+  color: #858087;
+}
+
+.empty-state {
+  background: #111013;
+  border: 1px dashed rgba(197, 31, 50, 0.3);
+  color: #aaa1aa;
+}
