@@ -68,6 +68,7 @@ function App() {
   const [language, setLanguage] = useState("ru");
   const [ranking, setRanking] = useState("hltv");
   const [news, setNews] = useState([]);
+  const [selectedNewsLink, setSelectedNewsLink] = useState(null);
   const [matches, setMatches] = useState({ live: [], upcoming: [] });
   const [matchTab, setMatchTab] = useState("live");
   useEffect(() => {
@@ -126,6 +127,17 @@ const visible = useMemo(() => {
     return matchesCategory && matchesQuery;
   });
 }, [news, category, query]);
+  // Главная выбранная новость
+  const featuredNews =
+  visible.find(item => item.link === selectedNewsLink) || visible[0];
+
+// Остальные новости
+const otherNews = visible.filter(
+  item => item.link !== featuredNews?.link
+);
+const displayNews = featuredNews
+  ? [featuredNews, ...otherNews]
+  : [];
 
   const formatDate = value => {
     if (!value) return "Недавно";
@@ -324,7 +336,9 @@ const visible = useMemo(() => {
         <div className="toolbar"><div className="filters">{categories.map(item=><button key={item} onClick={()=>setCategory(item)} className={category===item?"selected":""}>{item}</button>)}</div><label className="search"><Search size={17}/><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Поиск новостей…"/></label></div>
         {loading && news.length===0 ? <div className="empty-state"><RefreshCw className="spinning"/><p>Загружаем свежие новости…</p></div> :
           <div className="news-grid">
-            {visible.map((item,index)=><motion.article className="news-card" key={item.link || item.title} initial={{opacity:0,y:22}} whileInView={{opacity:1,y:0}} viewport={{once:true,amount:.12}} transition={{duration:.45,delay:(index%3)*.07}}>
+  {displayNews.map((item,index)=><motion.article
+    onClick={() => setSelectedNewsLink(item.link)}
+    style={{ cursor: "pointer" }} className="news-card" key={item.link || item.title} initial={{opacity:0,y:22}} whileInView={{opacity:1,y:0}} viewport={{once:true,amount:.12}} transition={{duration:.45,delay:(index%3)*.07}}>
               
               {item.image && (
                 <img
