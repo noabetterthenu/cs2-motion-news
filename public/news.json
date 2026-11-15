@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-15T15:04:45.400324+00:00",
+  "updated_at": "2026-11-15T16:03:48.942191+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 44",
+      "title_ru": "Короткие новости: 44-я неделя",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45949/short-news-week-44",
+      "published": "2026-11-15T15:57:00+00:00"
+    },
     {
       "title": "KSCERATO: \"We need to be humble and go to the Major with the mentality that we need to show our best\"",
       "title_ru": "KSCERATO: «Нам нужно быть скромными и ехать на мейджор с мыслью о том, что мы должны показать себя с лучшей стороны»",
@@ -66,17 +77,6 @@
       "category": "Обновления",
       "link": "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
       "published": "2026-11-15T06:30:00+00:00"
-    },
-    {
-      "title": "Short news: Week 44",
-      "title_ru": "Короткие новости: 44-я неделя",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45949/short-news-week-44",
-      "published": "2026-11-14T21:03:00+00:00"
     },
     {
       "title": "yuurih: \"I really want to thank Falcons for their fair play\"",
