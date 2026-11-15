@@ -1534,3 +1534,79 @@ footer > span {
 .match-item hr {
   border-color: rgba(197, 31, 50, 0.16);
 }
+/* DARK CRIMSON — EDITORIAL NEWS LAYOUT */
+
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-auto-rows: minmax(180px, auto);
+  gap: 18px;
+  align-items: stretch;
+}
+
+.news-card {
+  min-width: 0;
+  overflow: hidden;
+}
+
+.news-card:first-child {
+  grid-column: span 2;
+  grid-row: span 2;
+  min-height: 390px;
+}
+
+.news-card .news-image {
+  width: 100%;
+  height: 145px;
+  object-fit: cover;
+  border-radius: 7px;
+  margin-bottom: 14px;
+}
+
+.news-card:first-child .news-image {
+  height: 240px;
+}
+
+.news-card:first-child h3 {
+  font-size: clamp(21px, 2.2vw, 28px);
+  line-height: 1.25;
+}
+
+.news-card:first-child > p {
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.news-card:nth-child(2) .news-image,
+.news-card:nth-child(3) .news-image {
+  height: 100px;
+}
+
+@media (max-width: 900px) {
+  .news-card:first-child {
+    grid-column: span 2;
+    grid-row: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .news-grid {
+    grid-template-columns: 1fr;
+    grid-auto-rows: auto;
+  }
+
+  .news-card:first-child {
+    grid-column: auto;
+    grid-row: auto;
+    min-height: 0;
+  }
+
+  .news-card:first-child .news-image {
+    height: 210px;
+  }
+
+  .news-card:nth-child(2) .news-image,
+  .news-card:nth-child(3) .news-image {
+    height: 170px;
+  }
+}
