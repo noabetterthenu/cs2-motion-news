@@ -1150,4 +1150,44 @@ footer .brand {
   border-radius: 5px;
   padding: 5px 8px;
 }
+/* DARK CRIMSON — FILTERS & SEARCH */
 
+.filters button {
+  background: #111013;
+  border: 1px solid rgba(197, 31, 50, 0.18);
+  color: #aaa3aa;
+  transition: all 0.25s ease;
+}
+
+.filters button:hover {
+  background: rgba(197, 31, 50, 0.12);
+  border-color: rgba(197, 31, 50, 0.45);
+  color: #f0dfe1;
+}
+
+.filters button.selected {
+  background: linear-gradient(135deg, #781321, #a9162a);
+  border-color: #a9162a;
+  color: #fff;
+  box-shadow: 0 0 14px rgba(197, 31, 50, 0.18);
+}
+
+.search {
+  background: #111013;
+  border: 1px solid rgba(197, 31, 50, 0.2);
+  color: #96929a;
+}
+
+.search input {
+  background: transparent;
+  color: #ededf0;
+}
+
+.search input::placeholder {
+  color: #716a73;
+}
+
+.search:focus-within {
+  border-color: rgba(197, 31, 50, 0.55);
+  box-shadow: 0 0 14px rgba(197, 31, 50, 0.1);
+}
