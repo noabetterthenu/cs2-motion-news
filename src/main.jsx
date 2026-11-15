@@ -337,6 +337,7 @@ const displayNews = featuredNews
         {loading && news.length===0 ? <div className="empty-state"><RefreshCw className="spinning"/><p>Загружаем свежие новости…</p></div> :
           <div className="news-grid">
   {displayNews.map((item,index)=><motion.article
+    layout
     onClick={() => setSelectedNewsLink(item.link)}
     style={{ cursor: "pointer" }} className="news-card" key={item.link || item.title} initial={{opacity:0,y:22}} whileInView={{opacity:1,y:0}} viewport={{once:true,amount:.12}} transition={{duration:.45,delay:(index%3)*.07}}>
               
