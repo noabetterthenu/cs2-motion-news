@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-15T05:40:36.495761+00:00",
+  "updated_at": "2026-11-15T06:43:45.334538+00:00",
   "articles": [
+    {
+      "title": "Live updates from BLAST Rivals grand final",
+      "title_ru": "Оперативные новости с гранд-финала BLAST Rivals",
+      "summary": "Keep up with the storylines and action as FURIA take on Spirit for the penultimate trophy of the season.",
+      "summary_ru": "Следите за развитием событий и действиями, когда FURIA сразится со Spirit за предпоследний трофей сезона.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/DpkPTAy5NSRdWFl-vY_moQ.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=306%2C1103%2C3267%2C2176&w=800&s=f3f05357f5fc7061b4a2601787067076",
+      "source": "HLTV",
+      "category": "Обновления",
+      "link": "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
+      "published": "2026-11-15T06:30:00+00:00"
+    },
     {
       "title": "Short news: Week 44",
       "title_ru": "Короткие новости: 44-я неделя",
