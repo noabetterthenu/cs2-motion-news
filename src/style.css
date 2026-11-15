@@ -1116,3 +1116,9 @@ footer .brand {
     font-size: 10px;
   }
 }
+/* DARK CRIMSON — цвет заголовков */
+.section-heading h2 span,
+.about-section h2 span {
+  color: #c51f32;
+  text-shadow: 0 0 18px rgba(197, 31, 50, 0.2);
+}
