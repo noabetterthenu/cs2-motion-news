@@ -1260,3 +1260,38 @@ footer .brand {
   border: 1px dashed rgba(197, 31, 50, 0.3);
   color: #aaa1aa;
 }
+/* DARK CRIMSON — ABOUT SECTION */
+
+.about-section {
+  background: linear-gradient(145deg, #100d10, #0b0a0c);
+  border-top: 1px solid rgba(197, 31, 50, 0.18);
+  border-bottom: 1px solid rgba(197, 31, 50, 0.18);
+}
+
+.about-icon {
+  background: rgba(197, 31, 50, 0.14);
+  color: #e05262;
+  border: 1px solid rgba(197, 31, 50, 0.2);
+  box-shadow: 0 0 18px rgba(197, 31, 50, 0.08);
+}
+
+.about-section h2 {
+  color: #ededf0;
+}
+
+.about-section p {
+  color: #96929a;
+}
+
+.about-stat {
+  border-color: rgba(197, 31, 50, 0.2);
+}
+
+.about-stat strong {
+  color: #c51f32;
+  text-shadow: 0 0 16px rgba(197, 31, 50, 0.18);
+}
+
+.about-stat small {
+  color: #96929a;
+}
