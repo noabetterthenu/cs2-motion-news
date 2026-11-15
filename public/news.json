@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-15T18:32:00.155152+00:00",
+  "updated_at": "2026-11-15T19:32:33.872462+00:00",
   "articles": [
-    {
-      "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
-      "title_ru": "",
-      "summary": "Meet the Class of 2026 of the HLTV Hall of Fame, presented by 1xBet.",
-      "summary_ru": "",
-      "image": "https://img-cdn.hltv.org/gallerypicture/CHz8p3322f8bY5tUpgb3Fn.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=130414433395e0b03e0b2a0ab8325ab8",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
-      "published": "2026-11-15T18:00:00+00:00"
-    },
     {
       "title": "Short news: Week 44",
       "title_ru": "Короткие новости: 44-я неделя",
@@ -21,7 +10,18 @@
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45949/short-news-week-44",
-      "published": "2026-11-15T15:57:00+00:00"
+      "published": "2026-11-15T19:11:00+00:00"
+    },
+    {
+      "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
+      "title_ru": "Ksharp, solo, NEO и dupreeh войдут в Зал славы",
+      "summary": "Meet the Class of 2026 of the HLTV Hall of Fame, presented by 1xBet.",
+      "summary_ru": "Представляем выпуск 2026 года Зала славы HLTV, представленный 1xBet.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/CHz8p3322f8bY5tUpgb3Fn.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=130414433395e0b03e0b2a0ab8325ab8",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
+      "published": "2026-11-15T18:00:00+00:00"
     },
     {
       "title": "KSCERATO: \"We need to be humble and go to the Major with the mentality that we need to show our best\"",
