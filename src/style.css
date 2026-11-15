@@ -1191,3 +1191,31 @@ footer .brand {
   border-color: rgba(197, 31, 50, 0.55);
   box-shadow: 0 0 14px rgba(197, 31, 50, 0.1);
 }
+/* DARK CRIMSON — UPDATE BOX */
+
+.update-box {
+  background: #111013;
+  border: 1px solid rgba(197, 31, 50, 0.2);
+  border-radius: 9px;
+}
+
+.update-box b {
+  color: #ededf0;
+}
+
+.update-box small {
+  color: #96929a;
+}
+
+.update-box button {
+  background: rgba(197, 31, 50, 0.14);
+  color: #e05262;
+  border: 1px solid rgba(197, 31, 50, 0.22);
+  transition: all 0.25s ease;
+}
+
+.update-box button:hover {
+  background: #781321;
+  color: #fff;
+  box-shadow: 0 0 16px rgba(197, 31, 50, 0.22);
+}
