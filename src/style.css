@@ -35,42 +35,75 @@
 }
 
 body {
-  background: #080809;
+  background:
+    radial-gradient(
+      ellipse at 50% 0%,
+      rgba(120, 19, 33, 0.16) 0%,
+      transparent 48%
+    ),
+    #080809;
   color: #ededf0;
+  min-height: 100vh;
 }
 
 .topbar {
-  background: #0d0d11;
-  border-color: #292126;
+  background: rgba(12, 10, 12, 0.92);
+  border-color: rgba(197, 31, 50, 0.22);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.28);
+  backdrop-filter: blur(16px);
 }
 
 .brand {
-  color: #fff;
+  color: #f5f2f3;
+  transition: color 0.25s ease;
+}
+
+.brand:hover {
+  color: #ffffff;
 }
 
 .brand-mark {
-  background: #e32636;
-  box-shadow: 0 0 18px #e3263640;
+  background: linear-gradient(145deg, #c51f32, #781321);
+  box-shadow:
+    0 0 12px rgba(197, 31, 50, 0.35),
+    0 0 26px rgba(120, 19, 33, 0.18);
 }
 
 .brand-light {
-  color: #e32636;
+  color: #c51f32;
+}
+
+.desktop-nav a {
+  transition: color 0.25s ease, text-shadow 0.25s ease;
 }
 
 .desktop-nav a:hover,
 .desktop-nav a.active {
-  color: #ff4655;
+  color: #e34a59;
+  text-shadow: 0 0 12px rgba(197, 31, 50, 0.38);
 }
 
 .top-cta,
 .hero-button {
-  background: #d7192d;
-  box-shadow: 0 7px 24px #e3263630;
+  background: linear-gradient(135deg, #a9162a, #c51f32);
+  color: #fff;
+  border: 1px solid rgba(235, 75, 91, 0.28);
+  box-shadow:
+    0 5px 18px rgba(120, 19, 33, 0.28),
+    0 0 18px rgba(197, 31, 50, 0.14);
+  transition:
+    background 0.25s ease,
+    box-shadow 0.25s ease,
+    transform 0.25s ease;
 }
 
 .top-cta:hover,
 .hero-button:hover {
-  background: #ff3045;
+  background: linear-gradient(135deg, #bd1b32, #dc3045);
+  box-shadow:
+    0 7px 25px rgba(197, 31, 50, 0.32),
+    0 0 24px rgba(197, 31, 50, 0.22);
+  transform: translateY(-2px);
 }
 
 .hero {
