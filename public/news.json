@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-16T18:42:33.315766+00:00",
+  "updated_at": "2026-11-16T19:47:04.509151+00:00",
   "articles": [
+    {
+      "title": "Community Awards: Vox Populi nominations open",
+      "title_ru": "Награды сообщества: открыты номинации Vox Populi",
+      "summary": "We are listening to the voice of the people:  nominate your favorites   until November 22nd.",
+      "summary_ru": "Мы прислушиваемся к мнению людей:  выдвигайте своих фаворитов   до 22 ноября.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/rIh4AkFwn_SvAKTXV3fN9K.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=0405c5f3d150d1da7c36039f9e95b458",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
+      "published": "2026-11-16T18:59:00+00:00"
+    },
     {
       "title": "Astralis announce jabbi departure",
       "title_ru": "Astralis объявляет об уходе jabbi",
@@ -32,7 +43,7 @@
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-16T14:50:00+00:00"
+      "published": "2026-11-16T16:55:00+00:00"
     },
     {
       "title": "Alliance part ways with head coach Hawk",
