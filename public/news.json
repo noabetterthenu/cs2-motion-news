@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-16T12:38:26.144566+00:00",
+  "updated_at": "2026-11-16T15:45:00.174593+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 45",
+      "title_ru": "Короткие новости: неделя 45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45999/short-news-week-45",
+      "published": "2026-11-16T14:50:00+00:00"
+    },
     {
       "title": "Alliance part ways with head coach Hawk",
       "title_ru": "Alliance расстаются с главным тренером Хоуком",
@@ -11,17 +22,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
       "published": "2026-11-16T12:09:00+00:00"
-    },
-    {
-      "title": "Short news: Week 45",
-      "title_ru": "Короткие новости: неделя 45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-16T09:24:00+00:00"
     },
     {
       "title": "Short news: Week 44",
