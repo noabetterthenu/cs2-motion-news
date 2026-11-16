@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-16T16:59:49.456849+00:00",
+  "updated_at": "2026-11-16T17:55:43.017089+00:00",
   "articles": [
+    {
+      "title": "Astralis announce jabbi departure",
+      "title_ru": "Astralis объявляет об уходе jabbi",
+      "summary": "The Dane leaves the organization after three years of service.",
+      "summary_ru": "Дейн уходит из организации после трех лет работы.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/nGf-E0uyBe1Wdl_IfMhvSp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C355%2C4603%2C3065&w=800&s=563d072afded689a51d4bfb0a17d7b3c",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
+      "published": "2026-11-16T17:50:00+00:00"
+    },
+    {
+      "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
+      "title_ru": "Лучшие игроки и звезды сезона 2 BLAST Rivals 2026",
+      "summary": "Two Danils headline the penultimate EVP list of the year.",
+      "summary_ru": "Два Данила возглавляют предпоследний список EVP года.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/4GGivBndqU98ACt5VkQFlI.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=2331%2C618%2C2245%2C1496&w=800&s=9fe81a18b2a097d47b6a33334005bf7a",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
+      "published": "2026-11-16T17:15:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
