@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-17T21:16:36.259749+00:00",
+  "updated_at": "2026-11-17T23:17:12.839091+00:00",
   "articles": [
+    {
+      "title": "Bad News Eagles relaunch with academy project",
+      "title_ru": "«Плохие новости»: «Орлы» возобновляют деятельность с проектом академии",
+      "summary": "The famous Albanian-Kosovar tag is back as a proper esports organization.",
+      "summary_ru": "Знаменитая албанско-косовская команда возвращается в качестве полноценной киберспортивной организации.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/O2uNr-iSWhMRzW1E_nyjG4.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=716%2C853%2C5035%2C3349&w=800&s=7911a0bcb970a6c8a523fde728c413b7",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
+      "published": "2026-11-17T21:18:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
