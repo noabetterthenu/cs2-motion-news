@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-17T18:18:49.578893+00:00",
+  "updated_at": "2026-11-17T19:29:05.596983+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 45",
+      "title_ru": "Короткие новости: неделя 45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45999/short-news-week-45",
+      "published": "2026-11-17T18:32:00+00:00"
+    },
+    {
+      "title": "cmtry out of Astralis after one month",
+      "title_ru": "cmtry покидает Astralis через месяц",
+      "summary": "FUT only had a three-week loan deal with Astralis.",
+      "summary_ru": "FUT заключили с Astralis соглашение об аренде сроком всего на три недели.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Ed5Tkj0Oh3q7M9dxNXq5uf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=306%2C0%2C3500%2C2328&w=800&s=de1447fc23ccbf46cc1af903c5b79e2f",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
+      "published": "2026-11-17T18:30:00+00:00"
+    },
     {
       "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
       "title_ru": "Команды 100 Thieves и Fnatic прошли отбор на PGL Cluj-Napoca 2027",
@@ -55,17 +77,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
       "published": "2026-11-17T10:00:00+00:00"
-    },
-    {
-      "title": "Short news: Week 45",
-      "title_ru": "Короткие новости: неделя 45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-16T19:03:00+00:00"
     },
     {
       "title": "Community Awards: Vox Populi nominations open",
