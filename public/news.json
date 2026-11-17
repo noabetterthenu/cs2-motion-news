@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-17T09:27:33.991784+00:00",
+  "updated_at": "2026-11-17T10:30:15.203853+00:00",
   "articles": [
+    {
+      "title": "Cast your vote for the Major MVP medal design",
+      "title_ru": "Проголосуйте за дизайн медали «Лучший игрок»",
+      "summary": "The community has the chance to influence a piece of Counter-Strike history once again, thanks to HLTV and 1xBET.",
+      "summary_ru": "Благодаря HLTV и 1xBET у сообщества снова есть шанс повлиять на часть истории Counter-Strike.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/UbdVOJgUn3rZa1adPHZ5yt.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=2a7bdff11d4625d771d63d7dad0e74a2",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
+      "published": "2026-11-17T10:00:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
