@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-17T10:30:15.203853+00:00",
+  "updated_at": "2026-11-17T11:38:06.066239+00:00",
   "articles": [
+    {
+      "title": "IEM Beijing to return for 2027 and 2028",
+      "title_ru": "IEM Beijing вернется в 2027 и 2028 годах",
+      "summary": "The Chinese capital will feature on the calendar for two more years.",
+      "summary_ru": "Китайская столица будет фигурировать в календаре еще два года.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/3Xtrx3NNHPFUZyLcJVQo36.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1204%2C456%2C2379%2C1586&w=800&s=151b555a155bcc9ce6fe96a0e6d4256a",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
+      "published": "2026-11-17T10:30:00+00:00"
+    },
     {
       "title": "Cast your vote for the Major MVP medal design",
       "title_ru": "Проголосуйте за дизайн медали «Лучший игрок»",
