@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18T00:11:07.808253+00:00",
+  "updated_at": "2026-11-18T01:46:26.702826+00:00",
   "articles": [
+    {
+      "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
+      "title_ru": "В новом обновлении CS появились обновленная карта Cobblestone и стикеры мейджора",
+      "summary": "The sticker system has been changed and Cobblestone completely reworked.",
+      "summary_ru": "Система наклеек была изменена, а карта Cobblestone полностью переработана.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/7jTNOPX1dUhru4N64yxKC6.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=30%2C15%2C1484%2C987&w=800&s=76971db477b921ccddd69205af3c826a",
+      "source": "HLTV",
+      "category": "Обновления",
+      "link": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
+      "published": "2026-11-18T00:19:00+00:00"
+    },
     {
       "title": "Bad News Eagles relaunch with academy project",
       "title_ru": "«Плохие новости»: «Орлы» возобновляют деятельность с проектом академии",
