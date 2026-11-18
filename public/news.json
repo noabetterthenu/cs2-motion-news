@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18T14:41:56.304491+00:00",
+  "updated_at": "2026-11-18T15:45:20.555219+00:00",
   "articles": [
+    {
+      "title": "ENCE through the years: Success, setbacks and reinvention",
+      "title_ru": "ENCE на протяжении многих лет: успехи, неудачи и переосмысление",
+      "summary": "As the Finnish organization closes its doors, we look back at the highs and lows of its time in Counter-Strike.",
+      "summary_ru": "Поскольку финская организация закрывает свои двери, мы оглядываемся назад на взлеты и падения за время ее существования в Counter-Strike.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/aEJA6huOpwZ58f_bKJbRjM.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=1091%2C1196%2C2994%2C1990&w=800&s=df787e9c0ae32527af6cfed6b0495f63",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
+      "published": "2026-11-18T15:00:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
@@ -10,7 +21,7 @@
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-18T14:29:00+00:00"
+      "published": "2026-11-18T14:59:00+00:00"
     },
     {
       "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
