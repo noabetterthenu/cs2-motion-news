@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-18T20:41:27.293606+00:00",
+  "updated_at": "2026-11-18T21:41:22.174844+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 45",
+      "title_ru": "Короткие новости: неделя 45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45999/short-news-week-45",
+      "published": "2026-11-18T20:51:00+00:00"
+    },
     {
       "title": "Media: Inner Circle owner detained in Italy",
       "title_ru": "СМИ: Владелец Inner Circle задержан в Италии",
@@ -22,17 +33,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
       "published": "2026-11-18T15:00:00+00:00"
-    },
-    {
-      "title": "Short news: Week 45",
-      "title_ru": "Короткие новости: неделя 45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-18T14:59:00+00:00"
     },
     {
       "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
