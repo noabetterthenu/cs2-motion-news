@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-19T17:25:56.968099+00:00",
+  "updated_at": "2026-11-19T18:14:50.903249+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 45",
+      "title_ru": "Короткие новости: неделя 45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45999/short-news-week-45",
+      "published": "2026-11-19T17:40:00+00:00"
+    },
     {
       "title": "PGL announce Singapore Major talent lineup",
       "title_ru": "PGL объявила состав участников студии аналитики мейджора в Сингапуре",
@@ -11,17 +22,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
       "published": "2026-11-19T14:00:00+00:00"
-    },
-    {
-      "title": "Short news: Week 45",
-      "title_ru": "Короткие новости: неделя 45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-19T13:53:00+00:00"
     },
     {
       "title": "Vitality to shut down academy project",
