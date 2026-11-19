@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-19T12:52:10.867286+00:00",
+  "updated_at": "2026-11-19T14:08:52.645972+00:00",
   "articles": [
+    {
+      "title": "PGL announce Singapore Major talent lineup",
+      "title_ru": "PGL объявила состав участников студии аналитики мейджора в Сингапуре",
+      "summary": "A team of 16 will bring the season's final tournament to life on the broadcast.",
+      "summary_ru": "Команда из 16 человек будет вести трансляцию финального турнира сезона.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/b3IUxk4p2XVXe8ydI4-rkL.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C4636%2C3090&w=800&s=01eb324fa86b1ba832f82bed7a6a9e77",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
+      "published": "2026-11-19T14:00:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
@@ -10,7 +21,18 @@
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-19T09:13:00+00:00"
+      "published": "2026-11-19T13:53:00+00:00"
+    },
+    {
+      "title": "Vitality to shut down academy project",
+      "title_ru": "Vitality закрывает проект академии",
+      "summary": "The players are officially on the lookout for new homes.",
+      "summary_ru": "Игроки официально ищут новые клубы.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/secIsLd9MKirvHokE9K27H.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1385%2C733%2C4392%2C2925&w=800&s=e1609ca7d5d0e09d840e391962bba020",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46013/vitality-to-shut-down-academy-project",
+      "published": "2026-11-19T13:28:00+00:00"
     },
     {
       "title": "Media: Inner Circle owner detained in Italy",
