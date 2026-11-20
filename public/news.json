@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20T18:45:38.844103+00:00",
+  "updated_at": "2026-11-20T19:49:25.811967+00:00",
   "articles": [
+    {
+      "title": "Jason Lake to receive HLTV Lifetime Achievement Award",
+      "title_ru": "Джейсон Лейк получит награду HLTV за вклад в развитие киберспорта",
+      "summary": "For his immense contributions to Counter-Strike, Jason Lake will be recognized at the HLTV Awards.",
+      "summary_ru": "За огромный вклад в развитие Counter-Strike Джейсон Лейк будет отмечен на церемонии вручения наград HLTV Awards.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/mjLLgSUL6Pi6rN1uW8GCCc.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=f3c34f82680843b05ec58df0743040c8",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
+      "published": "2026-11-20T19:30:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
