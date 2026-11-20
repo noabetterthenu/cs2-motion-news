@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20T10:28:02.843113+00:00",
+  "updated_at": "2026-11-20T11:24:38.726568+00:00",
   "articles": [
+    {
+      "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
+      "title_ru": "Награда «Саппорт года» заменит «Якорь» на HLTV Awards 2026",
+      "summary": "We're moving to a more future-proof role label, and incorporating resources into our definition.",
+      "summary_ru": "Мы переходим к более перспективному обозначению должностей и включаем в определение ресурсы.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/J17Dpl2miWseC2IV_7eEkS.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=0%2C0%2C1600%2C1066&w=800&s=d1d09b59be0b5e98c5281c59a1ec2cc4",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
+      "published": "2026-11-20T11:14:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
