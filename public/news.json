@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-20T12:19:52.065780+00:00",
+  "updated_at": "2026-11-20T13:41:42.977837+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 45",
+      "title_ru": "Короткие новости: неделя 45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45999/short-news-week-45",
+      "published": "2026-11-20T12:56:00+00:00"
+    },
     {
       "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
       "title_ru": "Награда «Саппорт года» заменит «Якорь» на HLTV Awards 2026",
@@ -11,17 +22,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
       "published": "2026-11-20T11:14:00+00:00"
-    },
-    {
-      "title": "Short news: Week 45",
-      "title_ru": "Короткие новости: неделя 45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-20T10:01:00+00:00"
     },
     {
       "title": "PGL announce Singapore Major talent lineup",
