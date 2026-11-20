@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-20T14:43:22.205901+00:00",
+  "updated_at": "2026-11-20T15:44:31.596028+00:00",
   "articles": [
-    {
-      "title": "Infographic: PGL Major Singapore",
-      "title_ru": "Инфографика: PGL Major Singapore",
-      "summary": "Our countdown to the start of the second Major of 2026 begins with some stats and fact about the season-ending pinnacle event.",
-      "summary_ru": "Наш обратный отсчет до начала второго мейджора 2026 года начинается со статистики и фактов о главном турнире, завершающем сезон.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/EJ6tiwQz32rmo1_oomhK4n.png?auto=compress&ixlib=java-2.1.0&q=75&rect=0%2C0%2C1279%2C852&w=800&s=666c4669e4e310da5b3499270f542824",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
-      "published": "2026-11-20T14:24:00+00:00"
-    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
@@ -21,7 +10,18 @@
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-20T12:56:00+00:00"
+      "published": "2026-11-20T15:31:00+00:00"
+    },
+    {
+      "title": "Infographic: PGL Major Singapore",
+      "title_ru": "Инфографика: PGL Major Singapore",
+      "summary": "Our countdown to the start of the second Major of 2026 begins with some stats and facts about the season-ending pinnacle event.",
+      "summary_ru": "Наш обратный отсчет до начала второго мейджора 2026 года начинается со статистики и фактов о главном турнире, завершающем сезон.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/EJ6tiwQz32rmo1_oomhK4n.png?auto=compress&ixlib=java-2.1.0&q=75&rect=0%2C0%2C1279%2C852&w=800&s=666c4669e4e310da5b3499270f542824",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
+      "published": "2026-11-20T14:24:00+00:00"
     },
     {
       "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
