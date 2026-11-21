@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-21T15:33:09.098010+00:00",
+  "updated_at": "2026-11-21T16:33:02.854844+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 45",
+      "title_ru": "Короткие новости: неделя 45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45999/short-news-week-45",
+      "published": "2026-11-21T16:01:00+00:00"
+    },
     {
       "title": "Betclic part ways with ultimate",
       "title_ru": "Betclic расстается с Ultimate",
@@ -11,17 +22,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
       "published": "2026-11-21T14:06:00+00:00"
-    },
-    {
-      "title": "Short news: Week 45",
-      "title_ru": "Короткие новости: неделя 45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-21T13:12:00+00:00"
     },
     {
       "title": "Visualized: Every team at PGL Major Singapore Stage 1",
