@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-21T10:36:57.438618+00:00",
+  "updated_at": "2026-11-21T11:34:04.613832+00:00",
   "articles": [
+    {
+      "title": "Visualized: Every team at PGL Major Singapore Stage 1",
+      "title_ru": "Визуализация: все команды на первом этапе PGL Major Singapore",
+      "summary": "From PARIVISION to 100 Thieves and BCG, every team goes under the microscope ahead of their flights to Southeast Asia.",
+      "summary_ru": "От PARIVISION до 100 Thieves и BCG — все команды проходят тщательную проверку перед вылетом в Юго-Восточную Азию.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/th1UKqaGFhVjFle9SvTgOv.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=43b32b9336641625e41ddd4394e0eeff",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
+      "published": "2026-11-21T11:30:00+00:00"
+    },
     {
       "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
       "title_ru": "Команда Luminosity выиграла турнир Stake Ranked Episode 6 и получила свой первый LAN-трофей с момента возобновления деятельности",
@@ -646,14 +657,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45954/m0nesy-its-hard-for-now-to-say-that-we-are-title-contenders",
       "published": "2026-11-10T19:59:00+00:00"
-    },
-    {
-      "title": "NertZ on G2's season: \"No matter what, it's a tragedy\"",
-      "summary": "Despite being on a six-match losing streak, G2's rifler believes his team can start to bounce back in Hong Kong.",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45956/nertz-on-g2s-season-no-matter-what-its-a-tragedy",
-      "published": "2026-11-10T19:10:00+00:00"
     }
   ]
 }
