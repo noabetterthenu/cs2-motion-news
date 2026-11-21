@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-21T17:30:37.306597+00:00",
+  "updated_at": "2026-11-21T20:06:36.599639+00:00",
   "articles": [
+    {
+      "title": "Attributes Fans Come Here ft. LuzRaposa",
+      "title_ru": "Для любителей атрибутов ft. LuzRaposa",
+      "summary": "The Come Here podcast discussed some of the new stylistic metrics rolling out for players.",
+      "summary_ru": "В подкасте Come Here обсуждались некоторые новые показатели стиля, которые будут доступны игрокам.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/xiGkRV76voTNWJRfhqvw_q.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=104%2C0%2C1079%2C720&w=800&s=4c33762ff6affbaa14ee062f5d78c61a",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
+      "published": "2026-11-21T19:30:00+00:00"
+    },
+    {
+      "title": "Meet the PGL Major Singapore 2026 rookies",
+      "title_ru": "Знакомьтесь с новичками PGL Major Singapore 2026",
+      "summary": "Only one team going to Singapore has a rookie core in a class of 18 new Major neophytes.",
+      "summary_ru": "Только одна команда, которая едет в Сингапур, имеет в своем составе новичков среди 18 новых участников мейджора.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/V7VNBWgpTTSwAg19rcrH_A.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=a6f96801d9b9ee74940bdc6bbfc28637",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
+      "published": "2026-11-21T18:35:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
@@ -638,28 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
       "published": "2026-11-11T06:32:00+00:00"
-    },
-    {
-      "title": "molodoy: \"We can see now the problems we have before the Major\"",
-      "title_ru": "molodoy: «Теперь мы видим проблемы, с которыми столкнемся перед мейджором»",
-      "summary": "FURIA's AWPer talks about how BLAST Rivals will act as a good measuring stick on what to work on before the Major.",
-      "summary_ru": "Снайпер FURIA рассказывает о том, что BLAST Rivals станет хорошим показателем того, над чем нужно поработать перед мейджором.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/FVHVgXqFtBuGBQM5PD7irl.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7515%2C5010&w=800&s=cc514b39aa9ed474baa3e2b35805c2bf",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45965/molodoy-we-can-see-now-the-problems-we-have-before-the-major",
-      "published": "2026-11-11T05:18:00+00:00"
-    },
-    {
-      "title": "FURIA beat Legacy in BLAST Rivals opener",
-      "title_ru": "FURIA обыграла Legacy в стартовом матче BLAST Rivals",
-      "summary": "FalleN's last ride in Hong Kong is off to a strong start.",
-      "summary_ru": "Последний турнир FalleN в Гонконге начался очень хорошо.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/bm3-4w9Amyf19J50vA4moU.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=288%2C0%2C4820%2C3210&w=800&s=31d399beb157c8f68ba860d34006ff02",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45964/furia-beat-legacy-in-blast-rivals-opener",
-      "published": "2026-11-11T04:16:00+00:00"
     }
   ]
 }
