@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-22T20:11:43.543364+00:00",
+  "updated_at": "2026-11-22T21:09:34.844563+00:00",
   "articles": [
+    {
+      "title": "No longer a stepping stone for players, DENDELE are on an upward path",
+      "title_ru": "«ДЕНДЕЛЕ» больше не является трамплином для игроков, а находится на пути к успеху",
+      "summary": "The Brazilian team is headed to its second consecutive Major with a stable roster that has remained intact for over a year.",
+      "summary_ru": "Бразильская команда отправляется на свой второй подряд мейджор со стабильным составом, который остается неизменным уже больше года.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/_tl5W4-EMnu9PgGSJx79_M.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8007%2C5338&w=800&s=f7bcb3b8d000fb38aed898599b46138f",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46021/no-longer-a-stepping-stone-for-players-dendele-are-on-an-upward-path",
+      "published": "2026-11-22T20:53:00+00:00"
+    },
+    {
+      "title": "SINNERS beat Envy to win Tipsport RUSH Brno",
+      "title_ru": "SINNERS обыграли Envy и выиграли Tipsport RUSH Brno",
+      "summary": "MoDo averaged a 1.33 rating over 13 maps to lead SINNERS to victory on home turf.",
+      "summary_ru": "MoDo набрал в среднем 1,33 балла на 13 картах, что привело команду SINNERS к победе на домашней площадке.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/QkpxVy83FgZ60q3cseVUUr.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C119%2C4041%2C2694&w=800&s=c0a8a70b2ca5e63fdc3d3c9af07a5165",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46027/sinners-beat-envy-to-win-tipsport-rush-brno",
+      "published": "2026-11-22T20:10:00+00:00"
+    },
     {
       "title": "Short news: Week 45",
       "title_ru": "Короткие новости: неделя 45",
@@ -638,28 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship",
       "published": "2026-11-11T11:11:00+00:00"
-    },
-    {
-      "title": "PGL confirm Singapore Major Stage 1 schedule",
-      "title_ru": "PGL подтверждает расписание 1-го этапа мейджора в Сингапуре",
-      "summary": "Matches will start at 05:00 Central European Time.",
-      "summary_ru": "Матчи начнутся в 05:00 по центральноевропейскому времени.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Ce1Rmccd4SzmnPKwmq-5UI.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=25382b12af3511f3b0a21808eb7e943d",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45969/pgl-confirm-singapore-major-stage-1-schedule",
-      "published": "2026-11-11T10:00:00+00:00"
-    },
-    {
-      "title": "Spirit handed first-ever 13-0 defeat in CS2, but recover to beat Krabeni-less FUT 2-1",
-      "title_ru": "Spirit потерпели первое в истории поражение со счетом 13:0 в CS2, но смогли взять реванш, обыграв FUT без Krabeni со счетом 2:1",
-      "summary": "coolio was in the server for donk's first 0-13 loss in CS2.",
-      "summary_ru": "Coolio был на сервере во время первого поражения donk со счетом 0–13 в CS2.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/7mW-zskQpseFZ_clVvBpOu.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=4837f6aebb410350fc4e4ab0d4fc9cb2",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45968/spirit-handed-first-ever-13-0-defeat-in-cs2-but-recover-to-beat-krabeni-less-fut-2-1",
-      "published": "2026-11-11T09:27:00+00:00"
     }
   ]
 }
