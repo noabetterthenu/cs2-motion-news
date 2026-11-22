@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-22T18:30:10.256604+00:00",
+  "updated_at": "2026-11-22T20:11:43.543364+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 45",
+      "title_ru": "Короткие новости: неделя 45",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/45999/short-news-week-45",
+      "published": "2026-11-22T19:09:00+00:00"
+    },
+    {
+      "title": "s1mple tops picks for Singapore Stage 1 Fantasy",
+      "title_ru": "Лучшие игроки по мнению s1mple для 1-го этапа Fantasy в Сингапуре",
+      "summary": "s1mple is on roughly every other Fantasy lineup for the Major Stage 1 game.",
+      "summary_ru": "s1mple присутствует примерно в каждом втором составе Fantasy для матча первого этапа мейджора.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/JYqE-jX7lBpbMF_gTbF8sz.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=1197%2C0%2C5811%2C3866&w=800&s=201133ba9a6f34afe1d49b9a648f3775",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46026/s1mple-tops-picks-for-singapore-stage-1-fantasy",
+      "published": "2026-11-22T18:39:00+00:00"
+    },
     {
       "title": "s1mple and device give Stage 1 some much needed stardust",
       "title_ru": "s1mple и device привносят в 1-й этап столь необходимый элемент звездности",
@@ -33,17 +55,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
       "published": "2026-11-21T18:35:00+00:00"
-    },
-    {
-      "title": "Short news: Week 45",
-      "title_ru": "Короткие новости: неделя 45",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45999/short-news-week-45",
-      "published": "2026-11-21T16:01:00+00:00"
     },
     {
       "title": "Betclic part ways with ultimate",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45968/spirit-handed-first-ever-13-0-defeat-in-cs2-but-recover-to-beat-krabeni-less-fut-2-1",
       "published": "2026-11-11T09:27:00+00:00"
-    },
-    {
-      "title": "flameZ: \"We could have been way more rusty coming into this, but we did show up\"",
-      "title_ru": "flameZ: «Мы могли бы быть гораздо менее сыгранными, но мы показали себя»",
-      "summary": "Vitality's entry fragger was happy with the opening victory at BLAST Rivals against Falcons in apEX's return.",
-      "summary_ru": "Энтри-фрагер Vitality был доволен первой победой на BLAST Rivals над Falcons, одержанной с возвращением apEX.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/VOV_xk9RwUKhFG82SX2XpY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8011%2C5340&w=800&s=b70dbdde2fd23b8a33c936a306602936",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
-      "published": "2026-11-11T07:41:00+00:00"
     }
   ]
 }
