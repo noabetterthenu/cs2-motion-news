@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-22T10:36:55.646995+00:00",
+  "updated_at": "2026-11-22T12:36:47.883504+00:00",
   "articles": [
+    {
+      "title": "s1mple and device give Stage 1 some much needed stardust",
+      "title_ru": "s1mple и device привносят в 1-й этап столь необходимый элемент звездности",
+      "summary": "Comparisons between 100 Thieves and BC.Game have dominated coverage of both teams, and the fight is still on to prove which organization had the better approach.",
+      "summary_ru": "Сравнения между 100 Thieves и BC.Game доминировали в освещении обеих команд, и борьба за то, какая организация выбрала лучший подход, всё еще продолжается.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/j7hEYJ2GshdTFCGPB0FwTp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=0d1ee5ab3f661c2caff7ce98f88768a4",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
+      "published": "2026-11-22T12:31:00+00:00"
+    },
     {
       "title": "Attributes Fans Come Here ft. LuzRaposa",
       "title_ru": "Для любителей атрибутов ft. LuzRaposa",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45967/flamez-we-could-have-been-way-more-rusty-coming-into-this-but-we-did-show-up",
       "published": "2026-11-11T07:41:00+00:00"
-    },
-    {
-      "title": "Vitality sweep Falcons to make Rivals playoffs on apEX's return",
-      "title_ru": "Vitality разгромила Falcons и вышла в плей-офф Rivals после возвращения apEX",
-      "summary": "A rematch of the teams' battle at ESL Pro League went the same way, this time in two maps.",
-      "summary_ru": "Повторный матч команд на ESL Pro League прошел по тому же сценарию, но на этот раз на двух картах.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/6y56nJgYuGCgSDPIjqXLlB.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8032%2C5354&w=800&s=83d78027741623d4d767d379c98534be",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45966/vitality-sweep-falcons-to-make-rivals-playoffs-on-apexs-return",
-      "published": "2026-11-11T06:32:00+00:00"
     }
   ]
 }
