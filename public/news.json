@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-23T09:46:21.099821+00:00",
+  "updated_at": "2026-11-23T10:52:40.221471+00:00",
   "articles": [
+    {
+      "title": "PGL Major Singapore teams, format, schedule, talent, fantasy",
+      "title_ru": "Команды, формат, расписание, таланты, фэнтези PGL Major Singapore",
+      "summary": "Here is everything you need to know about the season finale in Singapore.",
+      "summary_ru": "Вот всё, что вам нужно знать о финале сезона в Сингапуре.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Ce1Rmccd4SzmnPKwmq-5UI.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=25382b12af3511f3b0a21808eb7e943d",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46028/pgl-major-singapore-teams-format-schedule-talent-fantasy",
+      "published": "2026-11-23T10:10:00+00:00"
+    },
     {
       "title": "No longer a stepping stone for players, DENDELE are on an upward path",
       "title_ru": "«ДЕНДЕЛЕ» больше не является трамплином для игроков, а находится на пути к успеху",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
       "published": "2026-11-11T12:54:00+00:00"
-    },
-    {
-      "title": "Las Vegas Major 2028 gets key boost as LVCVA reportedly approves $2m BLAST sponsorship",
-      "title_ru": "Турнир Las Vegas Major 2028 получил значительную поддержку: по сообщениям, LVCVA одобрила спонсорскую помощь BLAST в размере 2 млн долларов США",
-      "summary": "BLAST is also planning to host another esports event in the famous Nevada city as part of the deal.",
-      "summary_ru": "В рамках соглашения BLAST также планирует провести еще одно киберспортивное мероприятие в знаменитом городе штата Невада.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/78TnDePM6MzhhBC0VjDMp7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=39494d00cd4be4ead06608c3b7190a26",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45970/las-vegas-major-2028-gets-key-boost-as-lvcva-reportedly-approves-2m-blast-sponsorship",
-      "published": "2026-11-11T11:11:00+00:00"
     }
   ]
 }
