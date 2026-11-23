@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-23T15:31:10.743932+00:00",
+  "updated_at": "2026-11-23T16:46:55.805383+00:00",
   "articles": [
+    {
+      "title": "SunPayus opens up about early struggles in CS2, what didn't work in G2, and signing with FUT",
+      "title_ru": "SunPayus рассказал о первых трудностях в CS2, о том, что не сработало в G2, и о подписании контракта с FUT",
+      "summary": "No longer SunPaypal: The Spanish AWPer reveals that he waited for the FUT deal to go through during his time on G2's bench despite having better offers from a financial perspective.",
+      "summary_ru": "Больше не SunPaypal: испанский AWP-игрок рассказывает, что, находясь в запасе G2, он ждал заключения сделки с FUT, несмотря на более выгодные с финансовой точки зрения предложения.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/XrCVpnTg1h823sv0SclQgF.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=1813%2C695%2C3593%2C2388&w=800&s=0b53ff2fe0869333386443c8b470a4f9",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut",
+      "published": "2026-11-23T16:02:00+00:00"
+    },
     {
       "title": "ztr's FOKUS loan ends",
       "title_ru": "Заканчивается срок действия кредита FOKUS от ztr",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45977/mouz-narrowly-escape-last-place-elimination-at-blast-against-fut",
       "published": "2026-11-12T10:35:00+00:00"
-    },
-    {
-      "title": "FURIA hand Vitality first-ever 13-0 defeat to make Rivals semi-finals",
-      "title_ru": "FURIA впервые нанесла Vitality поражение со счетом 13–0 и вышла в полуфинал Rivals",
-      "summary": "FURIA hit flow state on the Mirage decider to seal the series victory.",
-      "summary_ru": "Команда FURIA вошла в состояние потока на решающей карте Mirage и одержала победу в серии.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Pe05mgHv7vgWF7n8svm5P5.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=1369%2C0%2C5362%2C3566&w=800&s=7f665ed8843283436e148a78b2b9d601",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals",
-      "published": "2026-11-12T07:02:00+00:00"
     }
   ]
 }
