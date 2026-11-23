@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-23T12:54:21.487864+00:00",
+  "updated_at": "2026-11-23T15:31:10.743932+00:00",
   "articles": [
+    {
+      "title": "ztr's FOKUS loan ends",
+      "title_ru": "Заканчивается срок действия кредита FOKUS от ztr",
+      "summary": "FOKUS' season draws to a close after an inconsistent first year in Counter-Strike.",
+      "summary_ru": "Сезон FOKUS подходит к концу после нестабильного первого года в Counter-Strike.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/NNq_MYGub-hrr7CCr960-t.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=418ee3d13bff4c384987d28b923e105a",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
+      "published": "2026-11-23T14:17:00+00:00"
+    },
+    {
+      "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
+      "title_ru": "NAVI заработали 466 521 $ после того, как возглавили таблицу лидеров ежегодной программы поощрения клубов ESL",
+      "summary": "NAVI, FURIA and G2 are the big winners from this year's Annual Club Incentive.",
+      "summary_ru": "NAVI, FURIA и G2 — главные победители ежегодной программы поощрения клубов этого года.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/PnmDnGelR0QrLpGsCnXqHX.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=adcffcf7d79bc31b717ff2a8ccb4fe49",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
+      "published": "2026-11-23T12:58:00+00:00"
+    },
     {
       "title": "Short news: Week 46",
       "title_ru": "Короткие новости: неделя 46",
@@ -638,28 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45975/furia-hand-vitality-first-ever-13-0-defeat-to-make-rivals-semi-finals",
       "published": "2026-11-12T07:02:00+00:00"
-    },
-    {
-      "title": "Falcons crush Legacy to make Rivals playoffs",
-      "title_ru": "Falcons разгромили Legacy и вышли в плей-офф Rivals",
-      "summary": "Legacy bow out in last place for the second straight tournament.",
-      "summary_ru": "Legacy выбывают, заняв последнее место второй турнир подряд.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/2uVBNRGA5eKLmnRvIDQSoY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=0%2C0%2C4908%2C3266&w=800&s=be51d64337de80ebe6660a55a0829611",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45974/falcons-crush-legacy-to-make-rivals-playoffs",
-      "published": "2026-11-12T03:57:00+00:00"
-    },
-    {
-      "title": "torzsi: \"We don't need to overanalyze this game; we just need to be more ready for tomorrow\"",
-      "title_ru": "torzsi: «Нам не нужно излишне анализировать эту игру; нам просто нужно быть более готовыми к завтрашнему дню»",
-      "summary": "The Hungarian AWPer believes MOUZ let their BLAST Rivals opener against G2 slip out of their hands.",
-      "summary_ru": "Венгерский снайпер считает, что MOUZ упустили победу в первом матче BLAST Rivals против G2.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/TD_BFx69mXWiWIObo58jpN.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C6000%2C4000&w=800&s=e1640e3ec91308a5e4ab1b33ea6f8489",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow",
-      "published": "2026-11-11T13:55:00+00:00"
     }
   ]
 }
