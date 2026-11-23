@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-23T10:52:40.221471+00:00",
+  "updated_at": "2026-11-23T11:42:18.971989+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 46",
+      "title_ru": "Короткие новости: неделя 46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46029/short-news-week-46",
+      "published": "2026-11-23T11:04:00+00:00"
+    },
     {
       "title": "PGL Major Singapore teams, format, schedule, talent, fantasy",
       "title_ru": "Команды, формат, расписание, таланты, фэнтези PGL Major Singapore",
@@ -83,7 +94,7 @@
       "title_ru": "Знакомьтесь с новичками PGL Major Singapore 2026",
       "summary": "Only one team going to Singapore has a rookie core in a class of 18 new Major neophytes.",
       "summary_ru": "Только одна команда, которая едет в Сингапур, имеет в своем составе новичков среди 18 новых участников мейджора.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/V7VNBWgpTTSwAg19rcrH_A.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=a6f96801d9b9ee74940bdc6bbfc28637",
+      "image": "https://img-cdn.hltv.org/gallerypicture/V7VNBWgpTTSwAg19rcrH_A.png?auto=compress&ixlib=java-2.1.0&q=75&rect=187%2C0%2C2025%2C1350&w=800&s=621854db34f7ca9dce562d75183898eb",
       "source": "HLTV",
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46017/meet-the-pgl-major-singapore-2026-rookies",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45972/torzsi-we-dont-need-to-overanalyze-this-game-we-just-need-to-be-more-ready-for-tomorrow",
       "published": "2026-11-11T13:55:00+00:00"
-    },
-    {
-      "title": "G2 snap loss streak with win over MOUZ",
-      "title_ru": "G2 прервала серию поражений, победив MOUZ",
-      "summary": "G2 took advantage of the classic championship hangover by taking down world No. 1 MOUZ, earning a playoff berth in Hong Kong.",
-      "summary_ru": "Команда G2 воспользовалась классическим «похмельем» после чемпионата, победив команду MOUZ, занимающую первое место в мировом рейтинге, и получив право участвовать в плей-офф в Гонконге.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/3BVKmQwyIcRxe4aCtoSBF0.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=dd3187692e56d004106694aaf735190b",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45971/g2-snap-loss-streak-with-win-over-mouz",
-      "published": "2026-11-11T12:54:00+00:00"
     }
   ]
 }
