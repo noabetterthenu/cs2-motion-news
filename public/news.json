@@ -1,6 +1,50 @@
 {
-  "updated_at": "2026-11-24T12:54:27.143185+00:00",
+  "updated_at": "2026-11-24T15:28:16.815509+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 46",
+      "title_ru": "Короткие новости: неделя 46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46029/short-news-week-46",
+      "published": "2026-11-24T14:06:00+00:00"
+    },
+    {
+      "title": "Singapore Major Stage 1 day 2 matchups set",
+      "title_ru": "Определены пары второго дня первого этапа Singapore Major",
+      "summary": "NIP vs Liquid and BC.Game vs Chinggis Warriors are two of Wednesday's headline-grabbing clashes.",
+      "summary_ru": "NIP против Liquid и BC.Game против Chinggis Warriors — два самых громких матча среды.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/DjNwrB-ysf6YEgPCtvPtuL.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7073%2C4715&w=800&s=d68587320da307284846d2e6406261ee",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46043/singapore-major-stage-1-day-2-matchups-set",
+      "published": "2026-11-24T12:55:00+00:00"
+    },
+    {
+      "title": "Twistzz leads the way in FaZe's drubbing of BCG",
+      "title_ru": "Twistzz ведет FaZe к разгрому BCG",
+      "summary": "BCG were kept to three rounds in their second match of the day for a total of four in two best-of-ones.",
+      "summary_ru": "Во втором матче дня BCG удалось выиграть всего три раунда, а всего за два матча до одной победы — четыре.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/vovORXtWTUJAf2gfmDpJ_V.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=2dff0598a92a23808bea968a5f38154a",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46044/twistzz-leads-the-way-in-fazes-drubbing-of-bcg",
+      "published": "2026-11-24T12:53:00+00:00"
+    },
+    {
+      "title": "PGL Major Singapore Stage 1 Day 1 highlights",
+      "title_ru": "PGL Major Singapore: Этап 1, День 1 — обзор",
+      "summary": "Check out the best plays and broadcast highlights from the opening stage of the Major, all in one place.",
+      "summary_ru": "Посмотрите лучшие моменты и трансляции с начального этапа мейджора — всё в одном месте.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=17%2C502%2C4014%2C2673&w=800&s=dcbfe0f16f6f06843ced273c88eeb749",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46032/pgl-major-singapore-stage-1-day-1-highlights",
+      "published": "2026-11-24T12:34:00+00:00"
+    },
     {
       "title": "M80 extend 9z's woes to move into 1-1 pool",
       "title_ru": "M80 усугубляет проблемы 9z и выходит в группу 1–1",
@@ -22,17 +66,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46040/chr1zn-its-the-first-time-we-have-the-pieces-to-push-for-a-little-more-than-just-being-at-events",
       "published": "2026-11-24T10:24:00+00:00"
-    },
-    {
-      "title": "Short news: Week 46",
-      "title_ru": "Короткие новости: неделя 46",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46029/short-news-week-46",
-      "published": "2026-11-24T09:57:00+00:00"
     },
     {
       "title": "FaZe to play BC.Game as round 1 ends",
@@ -110,17 +143,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
       "published": "2026-11-24T03:46:00+00:00"
-    },
-    {
-      "title": "PGL Major Singapore Stage 1 Day 1 highlights",
-      "title_ru": "PGL Major Singapore: Этап 1, День 1 — обзор",
-      "summary": "Check out the best plays and broadcast highlights from the opening stage of the Major, all in one place.",
-      "summary_ru": "Посмотрите лучшие моменты и трансляции с начального этапа мейджора — всё в одном месте.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=17%2C502%2C4014%2C2673&w=800&s=dcbfe0f16f6f06843ced273c88eeb749",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46032/pgl-major-singapore-stage-1-day-1-highlights",
-      "published": "2026-11-24T03:43:00+00:00"
     },
     {
       "title": "SunPayus opens up about early struggles in CS2, what didn't work in G2, and signing with FUT",
@@ -638,28 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45973/the-highs-and-lows-of-the-major-qualification-rollercoaster",
       "published": "2026-11-13T21:30:00+00:00"
-    },
-    {
-      "title": "SAW bench NOPEEj and promote Jayy2s",
-      "title_ru": "Увидел скамейку НЕТ, продвигай Jayy2s",
-      "summary": "The Portuguese team's roster overhaul continues after the coach's dismissal two weeks ago.",
-      "summary_ru": "Перестройка состава португальской команды продолжается после увольнения тренера две недели назад.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/yQkd1Dw5_QVpSYzzj7s753.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8192%2C5461&w=800&s=766d0565a68ec2a1fd9bb192d6124dd1",
-      "source": "HLTV",
-      "category": "Трансферы",
-      "link": "https://www.hltv.org/news/45986/saw-bench-nopeej-and-promote-jayy2s",
-      "published": "2026-11-13T18:52:00+00:00"
-    },
-    {
-      "title": "Hype Tech enters Counter-Strike with ex-Zero Tenacity roster",
-      "title_ru": "Hype Tech выходит на сцену Counter-Strike с бывшим составом Zero Tenacity",
-      "summary": "The region's best team once again has organizational support.",
-      "summary_ru": "Лучшая команда региона вновь получила организационную поддержку.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/HT41EXunMqRpZvDZDsbfd7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1157%2C56%2C4843%2C3226&w=800&s=5180db7019c22c15202703d5a62e88de",
-      "source": "HLTV",
-      "category": "Трансферы",
-      "link": "https://www.hltv.org/news/45985/hype-tech-enters-counter-strike-with-ex-zero-tenacity-roster",
-      "published": "2026-11-13T18:15:00+00:00"
     }
   ]
 }
