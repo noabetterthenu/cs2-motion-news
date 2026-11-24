@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-24T05:31:13.180210+00:00",
+  "updated_at": "2026-11-24T06:52:17.061016+00:00",
   "articles": [
+    {
+      "title": "Liquid annihilate BC.Game 13-1 in Singapore",
+      "title_ru": "Liquid разгромили BC.Game со счетом 13:1 в Сингапуре",
+      "summary": "NAF didn't record a death until he was left in a 1v3 clutch in round 12.",
+      "summary_ru": "NAF не погибал, пока не оказался в ситуации 1 на 3 в 12-м раунде.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/MBk8lqggnyxIC7vtVxU2ps.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C142%2C4512%2C3005&w=800&s=61d4e205770d20f5eba0dbdeb60b96c9",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46037/liquid-annihilate-bcgame-13-1-in-singapore",
+      "published": "2026-11-24T06:47:00+00:00"
+    },
+    {
+      "title": "saadzin: \"Against EU teams it's a chess game\"",
+      "title_ru": "saadzin: «Против команд из ЕС — это шахматная партия»",
+      "summary": "Their AWPer thinks the playstyle of Europeans suits Imperial, given the wealth of experience available to VINI and company.",
+      "summary_ru": "Их AWPer считает, что стиль игры европейцев подходит Imperial, учитывая богатый опыт VINI и компании.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/MZV8zLmCiR4f5-DDhULXe7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C4771%2C3180&w=800&s=60ac25afc9683c2a998d24cd98ed2c4c",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46035/saadzin-against-eu-teams-its-a-chess-game",
+      "published": "2026-11-24T05:31:00+00:00"
+    },
     {
       "title": "Lynn Vision prevail as 9z losing streak continues",
       "title_ru": "Lynn Vision одержали победу, а серия поражений 9z продолжается",
@@ -638,28 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45982/apex-probably-my-worst-calling-in-a-long-time",
       "published": "2026-11-13T11:18:00+00:00"
-    },
-    {
-      "title": "MOUZ sweep Vitality as ZywOo confirms career-worst LAN event",
-      "title_ru": "MOUZ обыгрывает Vitality, а ZywOo показывает худший результат в своей карьере на LAN-турнире",
-      "summary": "The worst event of ZywOo's career is in the books after MOUZ sweep Vitality in the quarter-finals of BLAST Rivals.",
-      "summary_ru": "Худшее событие в карьере ZywOo уже позади после того, как MOUZ разгромили Vitality в четвертьфинале BLAST Rivals.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/EyC4v8_1VxCOTRbBakRXVD.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=5de18de461d7707b460ffb80bdb052dc",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45981/mouz-sweep-vitality-as-zywoo-confirms-career-worst-lan-event",
-      "published": "2026-11-13T10:20:00+00:00"
-    },
-    {
-      "title": "Live updates from the BLAST Rivals quarter-finals",
-      "title_ru": "Оперативные новости из четвертьфиналов BLAST Rivals",
-      "summary": "Catch all the best moments as the world's best do battle in Hong Kong.",
-      "summary_ru": "Не пропустите лучшие моменты соревнований сильнейших спортсменов мира в Гонконге.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/fHVEcVLVZ19PDxlhT-irHi.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7829%2C5219&w=800&s=58e0acddb44a2fce40f6c299ff698de1",
-      "source": "HLTV",
-      "category": "Обновления",
-      "link": "https://www.hltv.org/news/45979/live-updates-from-the-blast-rivals-quarter-finals",
-      "published": "2026-11-13T08:11:00+00:00"
     }
   ]
 }
