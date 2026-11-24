@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-24T04:28:25.484131+00:00",
+  "updated_at": "2026-11-24T05:31:13.180210+00:00",
   "articles": [
+    {
+      "title": "Lynn Vision prevail as 9z losing streak continues",
+      "title_ru": "Lynn Vision одержали победу, а серия поражений 9z продолжается",
+      "summary": "The South American side is now 0-8 after a narrow loss to Lynn Vision in the opening round of PGL Major Singapore Stage 1.",
+      "summary_ru": "Теперь счет южноамериканской команды — 0:8 после минимального поражения от Lynn Vision в первом раунде первого этапа PGL Major Singapore.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/7hgd6VU_UIAr3bdeNYy5v6.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=2196%2C822%2C4995%2C3326&w=800&s=cb03491bcd45c8923b27c16ac23bf9a7",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46036/lynn-vision-prevail-as-9z-losing-streak-continues",
+      "published": "2026-11-24T05:22:00+00:00"
+    },
+    {
+      "title": "Imperial upset HEROIC in Singapore Major opener",
+      "title_ru": "Imperial огорчила HEROIC в первом матче на Singapore Major",
+      "summary": "HEROIC lost 12 rounds in a row to fall to the 0-1 pool in Singapore.",
+      "summary_ru": "HEROIC проиграли 12 раундов подряд и оказались в группе 0–1 в Сингапуре.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/1qMpQ6OJlRgUN6rOphaqOA.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5136%2C3424&w=800&s=210dabf5e140313e28446028ad7395aa",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46034/imperial-upset-heroic-in-singapore-major-opener",
+      "published": "2026-11-24T05:01:00+00:00"
+    },
     {
       "title": "On the ground at PGL Major Singapore Stage 1",
       "title_ru": "На месте событий PGL Major Singapore, этап 1",
@@ -638,28 +660,6 @@
       "category": "Обновления",
       "link": "https://www.hltv.org/news/45979/live-updates-from-the-blast-rivals-quarter-finals",
       "published": "2026-11-13T08:11:00+00:00"
-    },
-    {
-      "title": "Who are 2026's rookies?",
-      "title_ru": "Кто станет новичками в 2026 году?",
-      "summary": "Rookie criteria have been simplified ahead of the awards in January.",
-      "summary_ru": "Критерии для новичков были упрощены перед вручением наград в январе.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/phTJZ9U335Vl9h5E_tkapz.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=282d4f6bc4c5a62c1c535f2f30fe242c",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45716/who-are-2026s-rookies",
-      "published": "2026-11-12T18:55:00+00:00"
-    },
-    {
-      "title": "YEKINDAR: \"Today we were better, but also luckier to some degree\"",
-      "title_ru": "YEKINDAR: «Сегодня мы были лучше, но в какой-то степени нам также повезло»",
-      "summary": "The Latvian says that while he wouldn't call it a fluke, the match was much closer than what a 13-0 shows.",
-      "summary_ru": "Латвиец говорит, что, хотя он бы не назвал это случайностью, матч был гораздо более напряженным, чем можно судить по счету 13:0.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/eljECLD4sGj6gLod7hqPjK.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8011%2C5340&w=800&s=8b7235a04d561be76651409086db72d5",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45976/yekindar-today-we-were-better-but-also-luckier-to-some-degree",
-      "published": "2026-11-12T16:53:00+00:00"
     }
   ]
 }
