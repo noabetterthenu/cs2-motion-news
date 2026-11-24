@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-24T06:52:17.061016+00:00",
+  "updated_at": "2026-11-24T08:18:28.257901+00:00",
   "articles": [
+    {
+      "title": "FaZe to play BC.Game as round 1 ends",
+      "title_ru": "",
+      "summary": "One of the two fan favorites will enter the elimination zone by the end of day 1 in Singapore.",
+      "summary_ru": "",
+      "image": "https://img-cdn.hltv.org/gallerypicture/BSOR1nXx-o6VcJXCNFnHf1.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=126%2C0%2C4993%2C3321&w=800&s=63d0035334503f4105e2e571469f4f3f",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46039/faze-to-play-bcgame-as-round-1-ends",
+      "published": "2026-11-24T08:15:00+00:00"
+    },
+    {
+      "title": "Wildcard send FaZe to 0-1 pool",
+      "title_ru": "",
+      "summary": "FaZe won both pistols but failed to convert against Wildcard's force-buys.",
+      "summary_ru": "",
+      "image": "https://img-cdn.hltv.org/gallerypicture/oYYDujeQfr2UwNv8-Zb8UU.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1320%2C12%2C6068%2C4041&w=800&s=9bfc53c23fbb432c18602d61d0a23dc2",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46038/wildcard-send-faze-to-0-1-pool",
+      "published": "2026-11-24T08:01:00+00:00"
+    },
     {
       "title": "Liquid annihilate BC.Game 13-1 in Singapore",
       "title_ru": "Liquid разгромили BC.Game со счетом 13:1 в Сингапуре",
@@ -638,28 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45979/blast-rivals-quarter-finals-as-they-happened",
       "published": "2026-11-13T15:22:00+00:00"
-    },
-    {
-      "title": "Falcons qualify for BLAST Rivals semis over G2",
-      "title_ru": "Falcons обыграли G2 и прошли в полуфинал BLAST Rivals",
-      "summary": "karrigan's men will now face FURIA in the semi-final.",
-      "summary_ru": "Теперь команда karrigan встретится с FURIA в полуфинале.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/aS-D9dYX9gIGBjxVy7JYlw.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=618%2C0%2C4066%2C2711&w=800&s=03bc0884e5fffd7e4855828d35d98733",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45984/falcons-qualify-for-blast-rivals-semis-over-g2",
-      "published": "2026-11-13T14:24:00+00:00"
-    },
-    {
-      "title": "apEX: \"Probably my worst calling in a long time\"",
-      "title_ru": "apEX: «Наверное, мой худший колл за долгое время»",
-      "summary": "The French captain took responsibility for his part in Vitality's losses in Hong Kong as the team now shifts focus to the Singapore Major.",
-      "summary_ru": "Французский капитан взял на себя ответственность за свое участие в поражениях Vitality в Гонконге, и теперь команда переключает внимание на турнир Singapore Major.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/HHH0-rN6is9OEOpLui6pZk.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5064%2C3376&w=800&s=ce578bc82a0f1a557f5321e749b39b32",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45982/apex-probably-my-worst-calling-in-a-long-time",
-      "published": "2026-11-13T11:18:00+00:00"
     }
   ]
 }
