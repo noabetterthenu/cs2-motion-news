@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-24T19:52:14.444428+00:00",
+  "updated_at": "2026-11-24T20:41:21.626927+00:00",
   "articles": [
+    {
+      "title": "soulfly full of praise for Fabre: \"As you can see, he arrived and we qualified for the Major\"",
+      "title_ru": "soulfly с похвалой о Fabre: «Как видите, он пришел, и мы прошли квалификацию на мейджор»",
+      "summary": "Fabre's ability to take care of players outside the game and come up with tactical ideas inside the server makes him a special coach, according to soulfly.",
+      "summary_ru": "По словам soulfly, способность Фабре заботиться об игроках вне игры и придумывать тактические идеи внутри сервера делает его особенным тренером.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Aj3eLDL12MYD32osW0QSo_.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C8192%2C5461&w=800&s=6fa375c64edc4463f3f9d1744fc5f04c",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46042/soulfly-full-of-praise-for-fabre-as-you-can-see-he-arrived-and-we-qualified-for-the-major",
+      "published": "2026-11-24T20:00:00+00:00"
+    },
     {
       "title": "On the ground at PGL Major Singapore Stage 1",
       "title_ru": "На месте событий PGL Major Singapore, этап 1",
@@ -649,17 +660,6 @@
       "category": "Обновления",
       "link": "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
       "published": "2026-11-14T07:16:00+00:00"
-    },
-    {
-      "title": "The highs and lows of the Major qualification rollercoaster",
-      "title_ru": "Взлеты и падения на американских горках квалификации на мейджор",
-      "summary": "With the season's most-coveted invites on the line, some teams rose to the occasion whilst others fell by the wayside.",
-      "summary_ru": "На кону были самые желанные приглашения сезона, и некоторые команды справились с задачей, а другие потерпели неудачу.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/7RhZXnWZv_DG4kOxLEzD4H.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=aa263f65920904e06d4e0ceffe1e1b64",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45973/the-highs-and-lows-of-the-major-qualification-rollercoaster",
-      "published": "2026-11-13T21:30:00+00:00"
     }
   ]
 }
