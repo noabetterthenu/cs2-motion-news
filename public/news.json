@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-25T14:10:57.065804+00:00",
+  "updated_at": "2026-11-25T15:28:42.472206+00:00",
   "articles": [
+    {
+      "title": "On the ground at PGL Major Singapore Stage 1",
+      "title_ru": "На месте событий PGL Major Singapore, этап 1",
+      "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
+      "summary_ru": "Добро пожаловать в раздел, посвященный закулисной работе на этапе 1.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5518%2C3678&w=800&s=808ea066f06222f47d5543f7ee405123",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+      "published": "2026-11-25T14:41:00+00:00"
+    },
     {
       "title": "Singapore Major Stage 1 day 3 matchups set",
       "title_ru": "Определены пары 3-го дня 1-го этапа Singapore Major",
@@ -121,17 +132,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46042/soulfly-full-of-praise-for-fabre-as-you-can-see-he-arrived-and-we-qualified-for-the-major",
       "published": "2026-11-24T20:00:00+00:00"
-    },
-    {
-      "title": "On the ground at PGL Major Singapore Stage 1",
-      "title_ru": "На месте событий PGL Major Singapore, этап 1",
-      "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
-      "summary_ru": "Добро пожаловать в раздел, посвященный закулисной работе на этапе 1.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5518%2C3678&w=800&s=808ea066f06222f47d5543f7ee405123",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-      "published": "2026-11-24T18:43:00+00:00"
     },
     {
       "title": "Short news: Week 46",
