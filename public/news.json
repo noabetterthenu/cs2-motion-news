@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T05:47:46.733809+00:00",
+  "updated_at": "2026-11-25T06:54:19.149811+00:00",
   "articles": [
     {
       "title": "soulfly full of praise for Fabre: \"As you can see, he arrived and we qualified for the Major\"",
@@ -65,6 +65,17 @@
       "source": "HLTV",
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46032/pgl-major-singapore-stage-1-day-1-highlights",
+      "published": "2026-11-24T12:34:00+00:00"
+    },
+    {
+      "title": "PGL Major Singapore Stage 1 highlights",
+      "title_ru": "PGL Major Singapore: обзор 1-го этапа",
+      "summary": "Check out the best plays and broadcast highlights from the opening stage of the Major, all in one place.",
+      "summary_ru": "Посмотрите лучшие моменты и трансляции с начального этапа мейджора — всё в одном месте.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=17%2C502%2C4014%2C2673&w=800&s=dcbfe0f16f6f06843ced273c88eeb749",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46032/pgl-major-singapore-stage-1-highlights",
       "published": "2026-11-24T12:34:00+00:00"
     },
     {
@@ -649,17 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
       "published": "2026-11-14T10:04:00+00:00"
-    },
-    {
-      "title": "Live updates from BLAST Rivals semi-finals",
-      "title_ru": "Оперативные новости с полуфиналов BLAST Rivals",
-      "summary": "Catch all the highlights from the top-four stage in Hong Kong.",
-      "summary_ru": "Посмотрите все яркие моменты этапа топ-четверки в Гонконге.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/3uoKrjqgfiD_fzi35BGH12.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7981%2C5320&w=800&s=a3accbca83da599d987164a0b41538ac",
-      "source": "HLTV",
-      "category": "Обновления",
-      "link": "https://www.hltv.org/news/45988/live-updates-from-blast-rivals-semi-finals",
-      "published": "2026-11-14T07:16:00+00:00"
     }
   ]
 }
