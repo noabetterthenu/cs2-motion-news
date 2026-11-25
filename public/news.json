@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-25T11:47:43.199372+00:00",
+  "updated_at": "2026-11-25T12:56:43.825385+00:00",
   "articles": [
+    {
+      "title": "NIP beat Liquid to reach Stage 2 in Singapore",
+      "title_ru": "NIP обыграла Liquid и вышла во 2-й этап в Сингапуре",
+      "summary": "NIP went 3-0 on their return to the Major after missing Cologne.",
+      "summary_ru": "NIP одержали 3 победы из 3 на своем возвращении на мейджор после пропуска Кёльна.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/bnDn0zxo5zXA8rg79D2XM_.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=361fabd8c01e56e6306d156564d0f4e4",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46052/nip-beat-liquid-to-reach-stage-2-in-singapore",
+      "published": "2026-11-25T12:43:00+00:00"
+    },
     {
       "title": "HUASOPEEK: \"history is another voice with max, he helps a lot inside and outside the game\"",
       "title_ru": "HUASOPEEK: «С Максом история совсем другая. Он очень помогает как на поле, так и за его пределами».",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45996/kscerato-dominates-to-claim-blast-rivals-s2-mvp",
       "published": "2026-11-15T11:27:00+00:00"
-    },
-    {
-      "title": "FURIA rout Spirit in Hong Kong final to win third trophy in four events",
-      "title_ru": "FURIA разгромила Spirit в финале в Гонконге и завоевала третий трофей за четыре турнира",
-      "summary": "FURIA's late season charge gathers momentum as FalleN's swansong continues in style.",
-      "summary_ru": "Напор FURIA в конце сезона набирает обороты, а прощальный тур FalleN продолжается в его фирменном стиле.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/3e9rQbpra2lhfLJWMXod7J.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=59a1d1bbffa03048d69ebb0adc3f31a2",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45995/furia-rout-spirit-in-hong-kong-final-to-win-third-trophy-in-four-events",
-      "published": "2026-11-15T11:11:00+00:00"
     }
   ]
 }
