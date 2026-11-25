@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-25T15:28:42.472206+00:00",
+  "updated_at": "2026-11-25T16:36:49.900784+00:00",
   "articles": [
+    {
+      "title": "Media: oSee joins Without a Roof",
+      "title_ru": "СМИ: oSee присоединяется к Without a Roof",
+      "summary": "The orgless squad has found their CeRq replacement.",
+      "summary_ru": "Команда без организации нашла замену CeRq.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/G_F2RFkacFwN5yCo8JumK8.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=903%2C254%2C4335%2C2887&w=800&s=9bf02bd87b6aab44401a45959487e0a3",
+      "source": "HLTV",
+      "category": "Трансферы",
+      "link": "https://www.hltv.org/news/46055/media-osee-joins-without-a-roof",
+      "published": "2026-11-25T15:30:00+00:00"
+    },
     {
       "title": "On the ground at PGL Major Singapore Stage 1",
       "title_ru": "На месте событий PGL Major Singapore, этап 1",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
       "published": "2026-11-15T18:00:00+00:00"
-    },
-    {
-      "title": "KSCERATO: \"We need to be humble and go to the Major with the mentality that we need to show our best\"",
-      "title_ru": "KSCERATO: «Нам нужно быть скромными и ехать на мейджор с мыслью о том, что мы должны показать себя с лучшей стороны»",
-      "summary": "The Brazilian rifler was dominant in Hong Kong and earned the MVP. \"It means a lot for me,\" he says of winning it \"in a special place like this.\"",
-      "summary_ru": "Бразильский райфлер доминировал в Гонконге и получил звание MVP. «Для меня это очень много значит, — говорит он о победе, — особенно в таком особенном месте».",
-      "image": "https://img-cdn.hltv.org/gallerypicture/bCdR8zRRnsjOihowmZumFp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=cce60e3f1b6583ccc31a5d96d63a09ab",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45997/kscerato-we-need-to-be-humble-and-go-to-the-major-with-the-mentality-that-we-need-to-show-our-best",
-      "published": "2026-11-15T13:00:00+00:00"
     }
   ]
 }
