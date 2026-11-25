@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-25T08:23:40.949920+00:00",
+  "updated_at": "2026-11-25T10:47:32.704005+00:00",
   "articles": [
+    {
+      "title": "9z snap losing streak to send DENDELE packing in Singapore",
+      "title_ru": "9z прерывают серию поражений, отправив DENDELE домой из Сингапура",
+      "summary": "The former Sharks roster is the first team to be sent home at the Major.",
+      "summary_ru": "Бывший состав Sharks — первая команда, которая покидает мейджор.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/WENThABKBRImaYEBeLJqqq.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=8beef8277d36b4389e479b7daf5852a7",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46048/9z-snap-losing-streak-to-send-dendele-packing-in-singapore",
+      "published": "2026-11-25T09:56:00+00:00"
+    },
+    {
+      "title": "TYLOO bench Moseyuh",
+      "title_ru": "Запасной игрок TYLOO Moseyuh",
+      "summary": "The Chinese team is pulling the trigger on changes after missing out on a Singapore spot.",
+      "summary_ru": "Китайская команда приступает к изменениям после того, как не смогла попасть в Сингапур.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/HqOTgSHpdPtN4KQzKn-jQ7.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=51f24a0ff3f94131bceb949dd665b341",
+      "source": "HLTV",
+      "category": "Трансферы",
+      "link": "https://www.hltv.org/news/46047/tyloo-bench-moseyuh",
+      "published": "2026-11-25T09:36:00+00:00"
+    },
     {
       "title": "Lake: \"We play best when we're most energetic\"",
       "title_ru": "Лейк: «Мы играем лучше всего, когда у нас больше всего энергии»",
@@ -638,28 +660,6 @@
       "category": "Обновления",
       "link": "https://www.hltv.org/news/45993/live-updates-from-blast-rivals-grand-final",
       "published": "2026-11-15T06:30:00+00:00"
-    },
-    {
-      "title": "yuurih: \"I really want to thank Falcons for their fair play\"",
-      "title_ru": "yuurih: «Я очень хочу поблагодарить Falcons за честную игру»",
-      "summary": "The Brazilian player appreciated Falcons asking to replay a controversial round that affected FURIA due to a technical issue.",
-      "summary_ru": "Бразильский игрок поблагодарил Falcons за просьбу переиграть спорный раунд, который повлиял на FURIA из-за технической проблемы.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/QwiBZaqYaojF7Gb3DE_vDp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5892%2C3928&w=800&s=27a3c5ed02a8e1649dc66541518b8db1",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45992/yuurih-i-really-want-to-thank-falcons-for-their-fair-play",
-      "published": "2026-11-14T15:53:00+00:00"
-    },
-    {
-      "title": "BLAST Rivals semi-finals as they happened",
-      "title_ru": "Полуфиналы BLAST Rivals в режиме реального времени",
-      "summary": "Catch all the highlights from the top-four stage in Hong Kong.",
-      "summary_ru": "Посмотрите все яркие моменты этапа топ-четверки в Гонконге.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/3uoKrjqgfiD_fzi35BGH12.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7981%2C5320&w=800&s=a3accbca83da599d987164a0b41538ac",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45988/blast-rivals-semi-finals-as-they-happened",
-      "published": "2026-11-14T12:14:00+00:00"
     }
   ]
 }
