@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-25T19:44:01.027209+00:00",
+  "updated_at": "2026-11-25T20:41:50.652224+00:00",
   "articles": [
+    {
+      "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
+      "title_ru": "СМИ: NiKo станет внутриигровым лидером Falcons, а karrigan сядет на скамейку запасных после Сингапура",
+      "summary": "The Bosnian will try his hand at captaincy again in the new year.",
+      "summary_ru": "В новом году босниец снова попробует себя в роли капитана.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/KXxOVerd7PT9qjAciX-mJ_.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=1279%2C0%2C4721%2C3141&w=800&s=81200afc5e73492eb849468f2fdc21ab",
+      "source": "HLTV",
+      "category": "Трансферы",
+      "link": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
+      "published": "2026-11-25T20:23:00+00:00"
+    },
     {
       "title": "On the ground at PGL Major Singapore Stage 1",
       "title_ru": "На месте событий PGL Major Singapore, этап 1",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45949/short-news-week-44",
       "published": "2026-11-15T21:45:00+00:00"
-    },
-    {
-      "title": "Ksharp, solo, NEO and dupreeh to enter Hall of Fame",
-      "title_ru": "Ksharp, solo, NEO и dupreeh войдут в Зал славы",
-      "summary": "Meet the Class of 2026 of the HLTV Hall of Fame, presented by 1xBet.",
-      "summary_ru": "Представляем выпуск 2026 года Зала славы HLTV, представленный 1xBet.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/CHz8p3322f8bY5tUpgb3Fn.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=130414433395e0b03e0b2a0ab8325ab8",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45987/ksharp-solo-neo-and-dupreeh-to-enter-hall-of-fame",
-      "published": "2026-11-15T18:00:00+00:00"
     }
   ]
 }
