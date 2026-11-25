@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-25T06:54:19.149811+00:00",
+  "updated_at": "2026-11-25T08:23:40.949920+00:00",
   "articles": [
+    {
+      "title": "Lake: \"We play best when we're most energetic\"",
+      "title_ru": "Лейк: «Мы играем лучше всего, когда у нас больше всего энергии»",
+      "summary": "M80 kept the vibes high as they toppled HEROIC.",
+      "summary_ru": "Команда M80 поддерживала высокий уровень энергии, победив HEROIC.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/W4yK7Z3ve3hHC3dab3g6bx.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=777%2C0%2C4472%2C2974&w=800&s=77fdf6ad466a75d169cdd3f84ffc4e41",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46046/lake-we-play-best-when-were-most-energetic",
+      "published": "2026-11-25T07:28:00+00:00"
+    },
+    {
+      "title": "JBa comes up clutch in M80 win over HEROIC",
+      "title_ru": "JBa сыграл решающую роль в победе M80 над HEROIC",
+      "summary": "Despite being down 1-13 in openers at one point and losing both pistols, M80 move up within a win from Stage 2.",
+      "summary_ru": "Несмотря на то, что в какой-то момент счет был 1:13, а команда проиграла оба пистолетных раунда, M80 приблизилась к победе во втором этапе.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/KbeolWO5Aqvaf9Bldvcxou.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=2950%2C480%2C3430%2C2280&w=800&s=b3fd31463be0faa6fd1dc1df921e20ff",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46045/jba-comes-up-clutch-in-m80-win-over-heroic",
+      "published": "2026-11-25T07:05:00+00:00"
+    },
     {
       "title": "soulfly full of praise for Fabre: \"As you can see, he arrived and we qualified for the Major\"",
       "title_ru": "soulfly с похвалой о Fabre: «Как видите, он пришел, и мы прошли квалификацию на мейджор»",
@@ -638,28 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/45988/blast-rivals-semi-finals-as-they-happened",
       "published": "2026-11-14T12:14:00+00:00"
-    },
-    {
-      "title": "FURIA sweep Falcons to reach Hong Kong final",
-      "title_ru": "FURIA обыгрывает Falcons и выходит в финал в Гонконге",
-      "summary": "KSCERATO starred as FURIA ended a four-series losing streak against Falcons.",
-      "summary_ru": "KSCERATO стал звездой матча, когда FURIA прервала серию из четырех поражений от Falcons.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/uriv2ffoHJhLhjmFh0SoVw.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=8bad2e55855e7818efee57c82842f43c",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45990/furia-sweep-falcons-to-reach-hong-kong-final",
-      "published": "2026-11-14T12:02:00+00:00"
-    },
-    {
-      "title": "Spirit defeat MOUZ to make BLAST Rivals final",
-      "title_ru": "Spirit обыграли MOUZ и вышли в финал BLAST Rivals",
-      "summary": "A team effort by Spirit netted them a shot at the trophy in Hong Kong.",
-      "summary_ru": "Благодаря командной игре Spirit получили шанс побороться за трофей в Гонконге.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/4C3iJcglPh1AgkZCRiG_bE.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=850%2C0%2C4645%2C3094&w=800&s=df212c53be4974f6c4da090d3a42e6c0",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/45989/spirit-defeat-mouz-to-make-blast-rivals-final",
-      "published": "2026-11-14T10:04:00+00:00"
     }
   ]
 }
