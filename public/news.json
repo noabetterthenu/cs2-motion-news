@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-26T17:45:01.289289+00:00",
+  "updated_at": "2026-11-26T18:41:57.593951+00:00",
   "articles": [
+    {
+      "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
+      "title_ru": "NAF: «Люди должны понимать, что [давление] — это и есть самое интересное»",
+      "summary": "Liquid's veteran lurker thinks his teammates learning to enjoy close and important games will help his team get to the next level.",
+      "summary_ru": "Опытный игрок Liquid, играющий на позиции lurker, считает, что его товарищи по команде учатся получать удовольствие от напряженных и важных матчей, и это поможет команде выйти на новый уровень.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/cmHauRsoIZ7myFkHPpHXAY.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=aee90f1a5c2284a07f6725187d6edbce",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
+      "published": "2026-11-26T18:31:00+00:00"
+    },
+    {
+      "title": "On the ground at PGL Major Singapore Stage 1",
+      "title_ru": "На месте событий PGL Major Singapore, этап 1",
+      "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
+      "summary_ru": "Добро пожаловать в раздел, посвященный закулисной работе на этапе 1.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5518%2C3678&w=800&s=808ea066f06222f47d5543f7ee405123",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+      "published": "2026-11-26T17:52:00+00:00"
+    },
     {
       "title": "Matchups set for final day of Stage 1",
       "title_ru": "Составы пар на заключительный день 1-го этапа",
@@ -132,17 +154,6 @@
       "category": "Трансферы",
       "link": "https://www.hltv.org/news/46056/media-niko-to-take-over-as-falcons-in-game-leader-and-karrigan-set-to-be-benched-after-singapore",
       "published": "2026-11-25T20:23:00+00:00"
-    },
-    {
-      "title": "On the ground at PGL Major Singapore Stage 1",
-      "title_ru": "На месте событий PGL Major Singapore, этап 1",
-      "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
-      "summary_ru": "Добро пожаловать в раздел, посвященный закулисной работе на этапе 1.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5518%2C3678&w=800&s=808ea066f06222f47d5543f7ee405123",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-      "published": "2026-11-25T18:43:00+00:00"
     },
     {
       "title": "Media: oSee joins Without a Roof",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
       "published": "2026-11-17T18:30:00+00:00"
-    },
-    {
-      "title": "100 Thieves and fnatic qualify for PGL Cluj-Napoca 2027",
-      "title_ru": "Команды 100 Thieves и Fnatic прошли отбор на PGL Cluj-Napoca 2027",
-      "summary": "The team list is now finalized for the $1,000,000 event.",
-      "summary_ru": "Список команд для участия в турнире с призовым фондом 1 000 000 $ теперь окончательный.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/jdo_6XN2t49Y7KswAyWi86.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=a7015ef888b41e897eaede783934001c",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46007/100-thieves-and-fnatic-qualify-for-pgl-cluj-napoca-2027",
-      "published": "2026-11-17T17:24:00+00:00"
     }
   ]
 }
