@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26T19:52:34.265438+00:00",
+  "updated_at": "2026-11-26T20:40:55.268813+00:00",
   "articles": [
+    {
+      "title": "Gizmy on leading veterans: \"You just need a strong personality, and trust, and you can [earn] trust by showing class and good stuff in game\"",
+      "title_ru": "Gizmy о ведущих ветеранах: «Вам просто нужна сильная личность и доверие, а доверие можно [заслужить], демонстрируя класс и хорошие результаты в игре».",
+      "summary": "100 Thieves are into round five in Singapore after eliminating 9z.",
+      "summary_ru": "Команда 100 Thieves вышла в пятый раунд в Сингапуре, победив команду 9z.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/cujfjaPKoloPbtCR5FMpz-.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1425%2C424%2C4340%2C2889&w=800&s=e571d06956e7df0d1e4e5507511e65f1",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46062/gizmy-on-leading-veterans-you-just-need-a-strong-personality-and-trust-and-you-can-earn-trust-by-showing-class-and-good-stuff-in-game",
+      "published": "2026-11-26T20:00:00+00:00"
+    },
     {
       "title": "NAF: \"People need to realize that [pressure] is where the fun is\"",
       "title_ru": "NAF: «Люди должны понимать, что [давление] — это и есть самое интересное»",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
       "published": "2026-11-17T21:18:00+00:00"
-    },
-    {
-      "title": "cmtry out of Astralis after one month",
-      "title_ru": "cmtry покидает Astralis через месяц",
-      "summary": "FUT only had a three-week loan deal with Astralis.",
-      "summary_ru": "FUT заключили с Astralis соглашение об аренде сроком всего на три недели.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Ed5Tkj0Oh3q7M9dxNXq5uf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=306%2C0%2C3500%2C2328&w=800&s=de1447fc23ccbf46cc1af903c5b79e2f",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46008/cmtry-out-of-astralis-after-one-month",
-      "published": "2026-11-17T18:30:00+00:00"
     }
   ]
 }
