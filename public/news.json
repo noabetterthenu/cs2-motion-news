@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-26T12:56:07.596358+00:00",
+  "updated_at": "2026-11-26T14:09:26.317994+00:00",
   "articles": [
+    {
+      "title": "HObbit: \"If dastan was on level five when I played with him, now he is level 10\"",
+      "title_ru": "HObbit: «Если раньше, когда я играл с Дастаном, он был на пятом уровне, то сейчас он на десятом»",
+      "summary": "dastan has come a long way since he was HObbit's in-game leader in 2016.",
+      "summary_ru": "Дастан прошел долгий путь с тех пор, как в 2016 году он был игровым лидером команды HObbit.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/0nqyW4Lasnlt_A1Op3Na5y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=5c24869ee06c9369a6a43a5256165e21",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46061/hobbit-if-dastan-was-on-level-five-when-i-played-with-him-now-he-is-level-10",
+      "published": "2026-11-26T14:04:00+00:00"
+    },
+    {
+      "title": "Liquid battle past Imperial into Stage 2",
+      "title_ru": "Liquid обошла Imperial и вышла во 2-й этап",
+      "summary": "Some late-map impact from EliGE allowed Liquid to seal the series with an OT victory on Cache.",
+      "summary_ru": "Благодаря действиям EliGE на поздних этапах карты Liquid удалось завершить серию победой в овертайме на Cache.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/eH-8fu8Vose2rfaPxQSZQq.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=abda6dd7c0cfbb2bb07bb0bf799eb4d2",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46063/liquid-battle-past-imperial-into-stage-2",
+      "published": "2026-11-26T13:48:00+00:00"
+    },
     {
       "title": "100T eliminate 9z from PGL Major",
       "title_ru": "100T выбивают 9z с PGL Major",
@@ -638,28 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
       "published": "2026-11-17T10:30:00+00:00"
-    },
-    {
-      "title": "Cast your vote for the Major MVP medal design",
-      "title_ru": "Проголосуйте за дизайн медали «Лучший игрок»",
-      "summary": "The community has the chance to influence a piece of Counter-Strike history once again, thanks to HLTV and 1xBET.",
-      "summary_ru": "Благодаря HLTV и 1xBET у сообщества снова есть шанс повлиять на часть истории Counter-Strike.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/UbdVOJgUn3rZa1adPHZ5yt.jpg?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=2a7bdff11d4625d771d63d7dad0e74a2",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46001/cast-your-vote-for-the-major-mvp-medal-design",
-      "published": "2026-11-17T10:00:00+00:00"
-    },
-    {
-      "title": "Community Awards: Vox Populi nominations open",
-      "title_ru": "Награды сообщества: открыты номинации Vox Populi",
-      "summary": "We are listening to the voice of the people:  nominate your favorites   until November 22nd.",
-      "summary_ru": "Мы прислушиваемся к мнению людей:  выдвигайте своих фаворитов   до 22 ноября.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/rIh4AkFwn_SvAKTXV3fN9K.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=0405c5f3d150d1da7c36039f9e95b458",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
-      "published": "2026-11-16T18:59:00+00:00"
     }
   ]
 }
