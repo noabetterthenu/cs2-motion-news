@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26T09:38:46.599841+00:00",
+  "updated_at": "2026-11-26T10:47:56.553221+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 46",
+      "title_ru": "Короткие новости: неделя 46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46029/short-news-week-46",
+      "published": "2026-11-26T10:00:00+00:00"
+    },
     {
       "title": "HEROIC dump FaZe out of Singapore",
       "title_ru": "HEROIC выбивает FaZe из Сингапура",
@@ -176,17 +187,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46042/soulfly-full-of-praise-for-fabre-as-you-can-see-he-arrived-and-we-qualified-for-the-major",
       "published": "2026-11-24T20:00:00+00:00"
-    },
-    {
-      "title": "Short news: Week 46",
-      "title_ru": "Короткие новости: неделя 46",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46029/short-news-week-46",
-      "published": "2026-11-24T14:06:00+00:00"
     },
     {
       "title": "Singapore Major Stage 1 day 2 matchups set",
