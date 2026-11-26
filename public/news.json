@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-26T14:09:26.317994+00:00",
+  "updated_at": "2026-11-26T15:27:03.573481+00:00",
   "articles": [
+    {
+      "title": "BLAST announces invited teams for Bounty 2027",
+      "title_ru": "BLAST объявляет приглашенные команды на Bounty 2027",
+      "summary": "Few top teams will appear at BLAST's event due to the clash with PGL Bucharest.",
+      "summary_ru": "На турнире BLAST примут участие лишь несколько лучших команд из-за совпадения дат с PGL Bucharest.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/h7lwmiSZ3gp_3V9JlloPFa.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=c69a3a4f6bcfb257526ae453b4ee3a55",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46067/blast-announces-invited-teams-for-bounty-2027",
+      "published": "2026-11-26T14:19:00+00:00"
+    },
     {
       "title": "HObbit: \"If dastan was on level five when I played with him, now he is level 10\"",
       "title_ru": "HObbit: «Если раньше, когда я играл с Дастаном, он был на пятом уровне, то сейчас он на десятом»",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46005/bcgame-tyloo-headline-zowie-extremesland-asia-open-team-list",
       "published": "2026-11-17T14:06:00+00:00"
-    },
-    {
-      "title": "IEM Beijing to return for 2027 and 2028",
-      "title_ru": "IEM Beijing вернется в 2027 и 2028 годах",
-      "summary": "The Chinese capital will feature on the calendar for two more years.",
-      "summary_ru": "Китайская столица будет фигурировать в календаре еще два года.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/3Xtrx3NNHPFUZyLcJVQo36.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1204%2C456%2C2379%2C1586&w=800&s=151b555a155bcc9ce6fe96a0e6d4256a",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46004/iem-beijing-to-return-for-2027-and-2028",
-      "published": "2026-11-17T10:30:00+00:00"
     }
   ]
 }
