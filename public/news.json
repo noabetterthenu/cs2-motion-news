@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-26T08:21:27.379621+00:00",
+  "updated_at": "2026-11-26T09:38:46.599841+00:00",
   "articles": [
+    {
+      "title": "HEROIC dump FaZe out of Singapore",
+      "title_ru": "HEROIC выбивает FaZe из Сингапура",
+      "summary": "FaZe's disappointing season ends on a whimper as they exit the Major in 28th-30th place.",
+      "summary_ru": "Разочаровывающий сезон FaZe завершился на печальной ноте: команда покинула мейджор, заняв 28–30-е место.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/GhFvtHcCqQGffOSf0E3fka.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=1142%2C0%2C3574%2C2377&w=800&s=9b0b4b1d3c992610bcdaf07be988703e",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46058/heroic-dump-faze-out-of-singapore",
+      "published": "2026-11-26T09:08:00+00:00"
+    },
+    {
+      "title": "Eternal Fire beat M80 to qualify for Stage 2",
+      "title_ru": "Eternal Fire обыграли M80 и прошли в Этап 2",
+      "summary": "The international squad's fairytale Major run is set to continue.",
+      "summary_ru": "Сказочный путь международной команды на мейджоре продолжается.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/GkEi2Hw90eFtyWGk8h8WeG.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=5e5e6a1068b81e763f024f3bd0432ba7",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46057/eternal-fire-beat-m80-to-qualify-for-stage-2",
+      "published": "2026-11-26T08:43:00+00:00"
+    },
     {
       "title": "Media: NiKo to take over as Falcons' in-game leader and karrigan set to be benched after Singapore",
       "title_ru": "СМИ: NiKo станет внутриигровым лидером Falcons, а karrigan сядет на скамейку запасных после Сингапура",
@@ -638,28 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
       "published": "2026-11-16T17:15:00+00:00"
-    },
-    {
-      "title": "Alliance part ways with head coach Hawk",
-      "title_ru": "Alliance расстаются с главным тренером Хоуком",
-      "summary": "Alliance have opted to make a change after a poor run of form saw them miss a Major berth.",
-      "summary_ru": "Команда Alliance решила внести изменения после неудачной серии игр, из-за которой она не смогла попасть на мейджор.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/no8OtSP2x52XhVtZCfSyHR.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=b1a9b6ec10928a5118ca3b968b5204a5",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46002/alliance-part-ways-with-head-coach-hawk",
-      "published": "2026-11-16T12:09:00+00:00"
-    },
-    {
-      "title": "Short news: Week 44",
-      "title_ru": "Короткие новости: 44-я неделя",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45949/short-news-week-44",
-      "published": "2026-11-15T21:45:00+00:00"
     }
   ]
 }
