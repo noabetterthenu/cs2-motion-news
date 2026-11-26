@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-26T10:47:56.553221+00:00",
+  "updated_at": "2026-11-26T12:56:07.596358+00:00",
   "articles": [
+    {
+      "title": "100T eliminate 9z from PGL Major",
+      "title_ru": "100T выбивают 9z с PGL Major",
+      "summary": "Breaking the losing streak was just a flash in the pan for 9z, after all.",
+      "summary_ru": "В конце концов, прервать серию поражений для 9z было лишь временным успехом.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/o9RxnWYvk8MoYPj71OIDqG.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7630%2C5086&w=800&s=3dc9c0a72438034e16abd904d370f7ec",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46060/100t-eliminate-9z-from-pgl-major",
+      "published": "2026-11-26T11:55:00+00:00"
+    },
+    {
+      "title": "PARIVISION dispatch Lynn Vision to make Stage 2",
+      "title_ru": "PARIVISION отправляет Lynn Vision на Этап 2",
+      "summary": "The Russian squad met expectations to comfortably progress through the opening stage.",
+      "summary_ru": "Российская сборная оправдала ожидания, без труда пройдя первый этап.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/2Z9DCE_Ms7QYiYrAEuPin8.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=17a428063fdfeb7250de67e50d56e326",
+      "source": "HLTV",
+      "category": "Обновления",
+      "link": "https://www.hltv.org/news/46059/parivision-dispatch-lynn-vision-to-make-stage-2",
+      "published": "2026-11-26T11:06:00+00:00"
+    },
     {
       "title": "Short news: Week 46",
       "title_ru": "Короткие новости: неделя 46",
@@ -638,28 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46000/community-awards-vox-populi-nominations-open",
       "published": "2026-11-16T18:59:00+00:00"
-    },
-    {
-      "title": "Astralis announce jabbi departure",
-      "title_ru": "Astralis объявляет об уходе jabbi",
-      "summary": "The Dane leaves the organization after three years of service.",
-      "summary_ru": "Дейн уходит из организации после трех лет работы.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/nGf-E0uyBe1Wdl_IfMhvSp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C355%2C4603%2C3065&w=800&s=563d072afded689a51d4bfb0a17d7b3c",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46003/astralis-announce-jabbi-departure",
-      "published": "2026-11-16T17:50:00+00:00"
-    },
-    {
-      "title": "The EVPs and All-Stars of BLAST Rivals 2026 Season 2",
-      "title_ru": "Лучшие игроки и звезды сезона 2 BLAST Rivals 2026",
-      "summary": "Two Danils headline the penultimate EVP list of the year.",
-      "summary_ru": "Два Данила возглавляют предпоследний список EVP года.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/4GGivBndqU98ACt5VkQFlI.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=2331%2C618%2C2245%2C1496&w=800&s=9fe81a18b2a097d47b6a33334005bf7a",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45998/the-evps-and-all-stars-of-blast-rivals-2026-season-2",
-      "published": "2026-11-16T17:15:00+00:00"
     }
   ]
 }
