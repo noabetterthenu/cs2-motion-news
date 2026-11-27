@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-27T15:23:20.534813+00:00",
+  "updated_at": "2026-11-27T16:29:34.258271+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 46",
+      "title_ru": "Короткие новости: неделя 46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46029/short-news-week-46",
+      "published": "2026-11-27T16:17:00+00:00"
+    },
+    {
+      "title": "aliStair: \"It's really about trying to be the glue because they have so much fucking talent\"",
+      "title_ru": "Алистер: «На самом деле речь идет о том, чтобы стать связующим звеном, потому что у них так много чертовски талантливых людей».",
+      "summary": "FlyQuest's AWPer-IGL is enjoying working in the best Aussie team.",
+      "summary_ru": "AWPer-IGL из FlyQuest нравится играть в лучшей австралийской команде.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/UI6aP7-NQn5EWpXKHOfCIl.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=964%2C0%2C5452%2C3631&w=800&s=8b0be40b11c9ab0afc8a3a0eb41c3fb1",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46051/alistair-its-really-about-trying-to-be-the-glue-because-they-have-so-much-fucking-talent",
+      "published": "2026-11-27T16:01:00+00:00"
+    },
+    {
+      "title": "PGL Major Singapore Stage 2 opening matches set",
+      "title_ru": "Определены матчи открытия второго этапа PGL Major Singapore",
+      "summary": "The teams coming from Stage 1 now know their next opponents in the first round of the next Swiss group stage.",
+      "summary_ru": "Команды, прошедшие 1-й этап, теперь знают своих следующих соперников в первом раунде следующего этапа по швейцарской системе.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/oIjoAO1-kVquYtw2zRjPrf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C1%2C7178%2C4785&w=800&s=9ffa0bc8de808f00b1bd09e17fe2da24",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46076/pgl-major-singapore-stage-2-opening-matches-set",
+      "published": "2026-11-27T15:30:00+00:00"
+    },
     {
       "title": "100 Thieves eliminate M80 to make it to Stage 2",
       "title_ru": "100 Thieves обыгрывают M80 и проходят во 2-й этап",
@@ -187,17 +220,6 @@
       "category": "Обновления",
       "link": "https://www.hltv.org/news/46059/parivision-dispatch-lynn-vision-to-make-stage-2",
       "published": "2026-11-26T11:06:00+00:00"
-    },
-    {
-      "title": "Short news: Week 46",
-      "title_ru": "Короткие новости: неделя 46",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46029/short-news-week-46",
-      "published": "2026-11-26T10:00:00+00:00"
     },
     {
       "title": "HEROIC dump FaZe out of Singapore",
@@ -638,28 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46016/jason-lake-to-receive-hltv-lifetime-achievement-award",
       "published": "2026-11-20T19:30:00+00:00"
-    },
-    {
-      "title": "Infographic: PGL Major Singapore",
-      "title_ru": "Инфографика: PGL Major Singapore",
-      "summary": "Our countdown to the start of the second Major of 2026 begins with some stats and facts about the season-ending pinnacle event.",
-      "summary_ru": "Наш обратный отсчет до начала второго мейджора 2026 года начинается со статистики и фактов о главном турнире, завершающем сезон.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/EJ6tiwQz32rmo1_oomhK4n.png?auto=compress&ixlib=java-2.1.0&q=75&rect=0%2C0%2C1279%2C852&w=800&s=666c4669e4e310da5b3499270f542824",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46020/infographic-pgl-major-singapore",
-      "published": "2026-11-20T14:24:00+00:00"
-    },
-    {
-      "title": "Support of the Year replaces Anchor at HLTV Awards 2026",
-      "title_ru": "Награда «Саппорт года» заменит «Якорь» на HLTV Awards 2026",
-      "summary": "We're moving to a more future-proof role label, and incorporating resources into our definition.",
-      "summary_ru": "Мы переходим к более перспективному обозначению должностей и включаем в определение ресурсы.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/J17Dpl2miWseC2IV_7eEkS.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=0%2C0%2C1600%2C1066&w=800&s=d1d09b59be0b5e98c5281c59a1ec2cc4",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
-      "published": "2026-11-20T11:14:00+00:00"
     }
   ]
 }
