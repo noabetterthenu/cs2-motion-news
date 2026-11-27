@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-27T18:15:37.889844+00:00",
+  "updated_at": "2026-11-27T19:25:58.701243+00:00",
   "articles": [
+    {
+      "title": "rain: \"I'm happy we've managed to get past [the tier 2 grind] now hopefully\"",
+      "title_ru": "rain: «Я рад, что нам удалось преодолеть [тяготы второго уровня], и теперь, надеюсь...»",
+      "summary": "The Norwegian rifler is looking forward to playing in more tier-one LANs in the new year.",
+      "summary_ru": "Норвежский райфлер с нетерпением ждет возможности сыграть на большем количестве LAN-турниров высшего уровня в новом году.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/oIjoAO1-kVquYtw2zRjPrf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=2396%2C101%2C4782%2C3184&w=800&s=406e37e3b6a1ece5bf07983df8bc747f",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46078/rain-im-happy-weve-managed-to-get-past-the-tier-2-grind-now-hopefully",
+      "published": "2026-11-27T19:00:00+00:00"
+    },
+    {
+      "title": "On the ground at PGL Major Singapore Stage 1",
+      "title_ru": "На месте событий PGL Major Singapore, этап 1",
+      "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
+      "summary_ru": "Добро пожаловать в раздел, посвященный закулисной работе на этапе 1.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5518%2C3678&w=800&s=808ea066f06222f47d5543f7ee405123",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
+      "published": "2026-11-27T18:17:00+00:00"
+    },
     {
       "title": "All 16 teams set for Singapore Stage 2 Fantasy",
       "title_ru": "Все 16 команд готовы к 2-му этапу Fantasy в Сингапуре",
@@ -132,17 +154,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46064/naf-people-need-to-realize-that-pressure-is-where-the-fun-is",
       "published": "2026-11-26T18:31:00+00:00"
-    },
-    {
-      "title": "On the ground at PGL Major Singapore Stage 1",
-      "title_ru": "На месте событий PGL Major Singapore, этап 1",
-      "summary": "Welcome to the home of our behind the scenes action for Stage 1.",
-      "summary_ru": "Добро пожаловать в раздел, посвященный закулисной работе на этапе 1.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Bi5G7VzhL9kiitQKlyZvFh.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5518%2C3678&w=800&s=808ea066f06222f47d5543f7ee405123",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46033/on-the-ground-at-pgl-major-singapore-stage-1",
-      "published": "2026-11-26T17:52:00+00:00"
     },
     {
       "title": "Matchups set for final day of Stage 1",
@@ -649,17 +660,6 @@
       "category": "Турниры",
       "link": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
       "published": "2026-11-21T11:30:00+00:00"
-    },
-    {
-      "title": "Luminosity win Stake Ranked Episode 6 to lift first LAN trophy since relaunch",
-      "title_ru": "Команда Luminosity выиграла турнир Stake Ranked Episode 6 и получила свой первый LAN-трофей с момента возобновления деятельности",
-      "summary": "The third time was the charm for the international team, which had to win back-to-back series on Friday.",
-      "summary_ru": "Третья попытка оказалась удачной для международной команды, которой в пятницу предстояло выиграть две серии подряд.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Am5M0ukY-PT1oNBGpWoqkk.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C7008%2C4672&w=800&s=358bfa3649c92557731210b54d5f85c7",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46023/luminosity-win-stake-ranked-episode-6-to-lift-first-lan-trophy-since-relaunch",
-      "published": "2026-11-20T21:00:00+00:00"
     }
   ]
 }
