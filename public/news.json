@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-27T03:26:21.856442+00:00",
+  "updated_at": "2026-11-27T04:33:36.943275+00:00",
   "articles": [
+    {
+      "title": "L1haNg joins TYLOO on trial",
+      "title_ru": "L1haNg присоединяется к TYLOO на пробный период",
+      "summary": "The two-time Major attendee comes in after Moseyuh was moved to the bench.",
+      "summary_ru": "Двукратный участник мейджоров пришел на замену Moseyuh, который был переведен в запас.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/SFpdfSBQ5xvDtPF3sWmxWF.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=74335c224d486d83fab646c6d4622bb7",
+      "source": "HLTV",
+      "category": "Трансферы",
+      "link": "https://www.hltv.org/news/46066/l1hang-joins-tyloo-on-trial",
+      "published": "2026-11-27T04:20:00+00:00"
+    },
     {
       "title": "Gizmy on leading veterans: \"You just need a strong personality, and trust, and you can [earn] trust by showing class and good stuff in game\"",
       "title_ru": "Gizmy о ведущих ветеранах: «Вам просто нужна сильная личность и доверие, а доверие можно [заслужить], демонстрируя класс и хорошие результаты в игре».",
@@ -649,17 +660,6 @@
       "category": "Обновления",
       "link": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
       "published": "2026-11-18T00:19:00+00:00"
-    },
-    {
-      "title": "Bad News Eagles relaunch with academy project",
-      "title_ru": "«Плохие новости»: «Орлы» возобновляют деятельность с проектом академии",
-      "summary": "The famous Albanian-Kosovar tag is back as a proper esports organization.",
-      "summary_ru": "Знаменитая албанско-косовская команда возвращается в качестве полноценной киберспортивной организации.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/O2uNr-iSWhMRzW1E_nyjG4.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=716%2C853%2C5035%2C3349&w=800&s=7911a0bcb970a6c8a523fde728c413b7",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46010/bad-news-eagles-relaunch-with-academy-project",
-      "published": "2026-11-17T21:18:00+00:00"
     }
   ]
 }
