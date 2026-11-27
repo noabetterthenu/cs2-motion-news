@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-27T19:25:58.701243+00:00",
+  "updated_at": "2026-11-27T20:21:10.262230+00:00",
   "articles": [
+    {
+      "title": "Visualized: Every team at PGL Major Singapore Stage 2",
+      "title_ru": "Визуализация: все команды на втором этапе PGL Major Singapore",
+      "summary": "Eight more teams go under the microscope.",
+      "summary_ru": "Еще восемь команд попадают под пристальное внимание.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/Frldk9B1ORJGFbQvYc7ezt.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=5653ca929e248820d55b81274c7ceb11",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46069/visualized-every-team-at-pgl-major-singapore-stage-2",
+      "published": "2026-11-27T20:00:00+00:00"
+    },
     {
       "title": "rain: \"I'm happy we've managed to get past [the tier 2 grind] now hopefully\"",
       "title_ru": "rain: «Я рад, что нам удалось преодолеть [тяготы второго уровня], и теперь, надеюсь...»",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46019/betclic-part-ways-with-ultimate",
       "published": "2026-11-21T14:06:00+00:00"
-    },
-    {
-      "title": "Visualized: Every team at PGL Major Singapore Stage 1",
-      "title_ru": "Визуализация: все команды на первом этапе PGL Major Singapore",
-      "summary": "From PARIVISION to 100 Thieves and BCG, every team goes under the microscope ahead of their flights to Southeast Asia.",
-      "summary_ru": "От PARIVISION до 100 Thieves и BCG — все команды проходят тщательную проверку перед вылетом в Юго-Восточную Азию.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/th1UKqaGFhVjFle9SvTgOv.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=43b32b9336641625e41ddd4394e0eeff",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46015/visualized-every-team-at-pgl-major-singapore-stage-1",
-      "published": "2026-11-21T11:30:00+00:00"
     }
   ]
 }
