@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-27T14:10:39.177570+00:00",
+  "updated_at": "2026-11-27T15:23:20.534813+00:00",
   "articles": [
+    {
+      "title": "100 Thieves eliminate M80 to make it to Stage 2",
+      "title_ru": "100 Thieves обыгрывают M80 и проходят во 2-й этап",
+      "summary": "poiii and device led the way as 100 Thieves survived a second consecutive elimination series.",
+      "summary_ru": "Благодаря poiii и device команда 100 Thieves во второй раз подряд избежала вылета.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/oIjoAO1-kVquYtw2zRjPrf.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=9e1a0bdf27890c1b3787477996496973",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46074/100-thieves-eliminate-m80-to-make-it-to-stage-2",
+      "published": "2026-11-27T15:16:00+00:00"
+    },
     {
       "title": "HexT: \"In tier two, salaries are going to be lower until they change, if they change, Major revenue\"",
       "title_ru": "HexT: «На втором уровне зарплаты будут ниже, пока они не изменятся, если изменятся, основной доход»",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45980/support-of-the-year-replaces-anchor-at-hltv-awards-2026",
       "published": "2026-11-20T11:14:00+00:00"
-    },
-    {
-      "title": "PGL announce Singapore Major talent lineup",
-      "title_ru": "PGL объявила состав участников студии аналитики мейджора в Сингапуре",
-      "summary": "A team of 16 will bring the season's final tournament to life on the broadcast.",
-      "summary_ru": "Команда из 16 человек будет вести трансляцию финального турнира сезона.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/b3IUxk4p2XVXe8ydI4-rkL.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C4636%2C3090&w=800&s=01eb324fa86b1ba832f82bed7a6a9e77",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46014/pgl-announce-singapore-major-talent-lineup",
-      "published": "2026-11-19T14:00:00+00:00"
     }
   ]
 }
