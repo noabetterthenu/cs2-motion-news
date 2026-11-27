@@ -1,6 +1,28 @@
 {
-  "updated_at": "2026-11-27T06:56:44.734123+00:00",
+  "updated_at": "2026-11-27T10:43:58.792089+00:00",
   "articles": [
+    {
+      "title": "Snappi: \"Major pressure maybe hit us\"",
+      "title_ru": "",
+      "summary": "An inexperienced HEROIC did not show their true potential in Singapore, according to their coach.",
+      "summary_ru": "",
+      "image": "https://img-cdn.hltv.org/gallerypicture/HauWkN57bVBkVJf39dJ4X3.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=2933%2C584%2C4102%2C2727&w=800&s=6d30014e81c8f6b2153e942808e07fa6",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46071/snappi-major-pressure-maybe-hit-us",
+      "published": "2026-11-27T09:26:00+00:00"
+    },
+    {
+      "title": "Lynn Vision qualify for Stage 2 over HEROIC",
+      "title_ru": "",
+      "summary": "The Chinese squad made light work of Chr1zN's troops in the do-or-die clash.",
+      "summary_ru": "",
+      "image": "https://img-cdn.hltv.org/gallerypicture/zS9K0cFzhhXMveg5KiQ_4Y.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=1406%2C199%2C3468%2C2307&w=800&s=f3a444b83a287b455d03b9c83b5fe3a8",
+      "source": "HLTV",
+      "category": "Турниры",
+      "link": "https://www.hltv.org/news/46070/lynn-vision-qualify-for-stage-2-over-heroic",
+      "published": "2026-11-27T08:08:00+00:00"
+    },
     {
       "title": "L1haNg joins TYLOO on trial",
       "title_ru": "L1haNg присоединяется к TYLOO на пробный период",
@@ -638,28 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46012/media-inner-circle-owner-detained-in-italy",
       "published": "2026-11-18T17:48:00+00:00"
-    },
-    {
-      "title": "ENCE through the years: Success, setbacks and reinvention",
-      "title_ru": "ENCE на протяжении многих лет: успехи, неудачи и переосмысление",
-      "summary": "As the Finnish organization closes its doors, we look back at the highs and lows of its time in Counter-Strike.",
-      "summary_ru": "Поскольку финская организация закрывает свои двери, мы оглядываемся назад на взлеты и падения за время ее существования в Counter-Strike.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/aEJA6huOpwZ58f_bKJbRjM.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=1091%2C1196%2C2994%2C1990&w=800&s=df787e9c0ae32527af6cfed6b0495f63",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/45953/ence-through-the-years-success-setbacks-and-reinvention",
-      "published": "2026-11-18T15:00:00+00:00"
-    },
-    {
-      "title": "Cobblestone overhaul and Major stickers arrive in new CS update",
-      "title_ru": "В новом обновлении CS появились обновленная карта Cobblestone и стикеры мейджора",
-      "summary": "The sticker system has been changed and Cobblestone completely reworked.",
-      "summary_ru": "Система наклеек была изменена, а карта Cobblestone полностью переработана.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/7jTNOPX1dUhru4N64yxKC6.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=30%2C15%2C1484%2C987&w=800&s=76971db477b921ccddd69205af3c826a",
-      "source": "HLTV",
-      "category": "Обновления",
-      "link": "https://www.hltv.org/news/46011/cobblestone-overhaul-and-major-stickers-arrive-in-new-cs-update",
-      "published": "2026-11-18T00:19:00+00:00"
     }
   ]
 }
