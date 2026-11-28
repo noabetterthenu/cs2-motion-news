@@ -1,12 +1,23 @@
 {
-  "updated_at": "2026-11-28T18:08:10.192071+00:00",
+  "updated_at": "2026-11-28T19:25:13.163794+00:00",
   "articles": [
+    {
+      "title": "HeavyGod on G2 lacking a pure entry: \"We are just trying to give, everyone, 5% more on this\"",
+      "title_ru": "HeavyGod о том, что у G2 нет чистого энтри-фрагера: «Мы просто стараемся, чтобы каждый из нас играл на 5% лучше»",
+      "summary": "G2 are replacing malbsMd's entry work by committee.",
+      "summary_ru": "G2 заменяют стартовый состав malbsMd решением комитета.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/HBoDxS5wtE2Wi7ND42CEmP.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C5046%2C3364&w=800&s=b00fe4d78478701d2e6058df88e76a14",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46084/heavygod-on-g2-lacking-a-pure-entry-we-are-just-trying-to-give-everyone-5-more-on-this",
+      "published": "2026-11-28T19:00:00+00:00"
+    },
     {
       "title": "HLTV Awards: Women's categories paused for upcoming edition",
       "title_ru": "Премия HLTV Awards: женские категории приостановлены до следующего розыгрыша",
       "summary": "Due to a lack of sufficient competition, the two awards will not be presented this year.",
       "summary_ru": "Из-за отсутствия достаточной конкуренции в этом году эти две награды присуждаться не будут.",
-      "image": "",
+      "image": "https://img-cdn.hltv.org/gallerypicture/EEYXjowx5pxZLo0aoQ2BXz.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=cf4385281e26d428a014cebead01b319",
       "source": "HLTV",
       "category": "Команды",
       "link": "https://www.hltv.org/news/46075/hltv-awards-womens-categories-paused-for-upcoming-edition",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46025/sunpayus-opens-up-about-early-struggles-in-cs2-what-didnt-work-in-g2-and-signing-with-fut",
       "published": "2026-11-23T16:02:00+00:00"
-    },
-    {
-      "title": "ztr's FOKUS loan ends",
-      "title_ru": "Заканчивается срок действия кредита FOKUS от ztr",
-      "summary": "FOKUS' season draws to a close after an inconsistent first year in Counter-Strike.",
-      "summary_ru": "Сезон FOKUS подходит к концу после нестабильного первого года в Counter-Strike.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/NNq_MYGub-hrr7CCr960-t.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=418ee3d13bff4c384987d28b923e105a",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
-      "published": "2026-11-23T14:17:00+00:00"
     }
   ]
 }
