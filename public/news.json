@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28T17:14:02.784046+00:00",
+  "updated_at": "2026-11-28T18:08:10.192071+00:00",
   "articles": [
+    {
+      "title": "HLTV Awards: Women's categories paused for upcoming edition",
+      "title_ru": "Премия HLTV Awards: женские категории приостановлены до следующего розыгрыша",
+      "summary": "Due to a lack of sufficient competition, the two awards will not be presented this year.",
+      "summary_ru": "Из-за отсутствия достаточной конкуренции в этом году эти две награды присуждаться не будут.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46075/hltv-awards-womens-categories-paused-for-upcoming-edition",
+      "published": "2026-11-28T18:00:00+00:00"
+    },
     {
       "title": "Krabeni: \"Everyone in the team wants to play so much, the same as FURIA\"",
       "title_ru": "Krabeni: «Все в команде очень хотят играть, как и FURIA»",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46031/ztrs-fokus-loan-ends",
       "published": "2026-11-23T14:17:00+00:00"
-    },
-    {
-      "title": "NAVI bag $466,521 after topping ESL's Annual Club Incentive leaderboard",
-      "title_ru": "NAVI заработали 466 521 $ после того, как возглавили таблицу лидеров ежегодной программы поощрения клубов ESL",
-      "summary": "NAVI, FURIA and G2 are the big winners from this year's Annual Club Incentive.",
-      "summary_ru": "NAVI, FURIA и G2 — главные победители ежегодной программы поощрения клубов этого года.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/PnmDnGelR0QrLpGsCnXqHX.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&w=800&s=adcffcf7d79bc31b717ff2a8ccb4fe49",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
-      "published": "2026-11-23T12:58:00+00:00"
     }
   ]
 }
