@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28T16:15:20.432398+00:00",
+  "updated_at": "2026-11-28T17:14:02.784046+00:00",
   "articles": [
+    {
+      "title": "Krabeni: \"Everyone in the team wants to play so much, the same as FURIA\"",
+      "title_ru": "Krabeni: «Все в команде очень хотят играть, как и FURIA»",
+      "summary": "FUT's low map count this season was because of missed invites and wanting to practice with SunPayus, rather than a deliberate outcome.",
+      "summary_ru": "Малое количество карт в FUT в этом сезоне было связано с пропущенными приглашениями и желанием потренироваться с SunPayus, а не с преднамеренным результатом.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/dH4NY8okGMSGGVYbLNwpPc.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=16a2041966956ca1f6ee85a18fde5538",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46086/krabeni-everyone-in-the-team-wants-to-play-so-much-the-same-as-furia",
+      "published": "2026-11-28T17:00:00+00:00"
+    },
     {
       "title": "fame: \"It's been very hard preparation, we were at bootcamp for two-and-a-half weeks\"",
       "title_ru": "fame: «Подготовка была очень сложной. Мы провели в тренировочном лагере две с половиной недели».",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46030/navi-bag-466521-after-topping-esls-annual-club-incentive-leaderboard",
       "published": "2026-11-23T12:58:00+00:00"
-    },
-    {
-      "title": "PGL Major Singapore teams, format, schedule, talent, fantasy",
-      "title_ru": "Команды, формат, расписание, таланты, фэнтези PGL Major Singapore",
-      "summary": "Here is everything you need to know about the season finale in Singapore.",
-      "summary_ru": "Вот всё, что вам нужно знать о финале сезона в Сингапуре.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/Ce1Rmccd4SzmnPKwmq-5UI.png?auto=compress&ixlib=java-2.1.0&q=75&w=800&s=25382b12af3511f3b0a21808eb7e943d",
-      "source": "HLTV",
-      "category": "Турниры",
-      "link": "https://www.hltv.org/news/46028/pgl-major-singapore-teams-format-schedule-talent-fantasy",
-      "published": "2026-11-23T10:10:00+00:00"
     }
   ]
 }
