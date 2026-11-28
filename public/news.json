@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28T08:05:22.149818+00:00",
+  "updated_at": "2026-11-28T09:15:44.422721+00:00",
   "articles": [
+    {
+      "title": "Round 1 ends with 100T taking down MIBR; G2 to play NIP in round 2",
+      "title_ru": "1-й раунд завершается победой 100T над MIBR; во 2-м раунде G2 сыграет с NIP",
+      "summary": "An upset-free first round opened Stage 2 of the Singapore Major.",
+      "summary_ru": "Второй этап мейджора в Сингапуре начался с первого раунда, в котором не было неожиданностей.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/uxc7Javve-yGqBWpc9EacG.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=557e7c464b51c99f06a1e76a0e82386c",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46082/round-1-ends-with-100t-taking-down-mibr-g2-to-play-nip-in-round-2",
+      "published": "2026-11-28T08:35:00+00:00"
+    },
     {
       "title": "Short news: Week 46",
       "title_ru": "Короткие новости: неделя 46",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
       "published": "2026-11-22T12:31:00+00:00"
-    },
-    {
-      "title": "Attributes Fans Come Here ft. LuzRaposa",
-      "title_ru": "Для любителей атрибутов ft. LuzRaposa",
-      "summary": "The Come Here podcast discussed some of the new stylistic metrics rolling out for players.",
-      "summary_ru": "В подкасте Come Here обсуждались некоторые новые показатели стиля, которые будут доступны игрокам.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/xiGkRV76voTNWJRfhqvw_q.jpg?auto=compress&ixlib=java-2.1.0&q=75&rect=104%2C0%2C1079%2C720&w=800&s=4c33762ff6affbaa14ee062f5d78c61a",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46024/attributes-fans-come-here-ft-luzraposa",
-      "published": "2026-11-21T19:30:00+00:00"
     }
   ]
 }
