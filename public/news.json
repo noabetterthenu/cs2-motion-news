@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28T13:29:23.396718+00:00",
+  "updated_at": "2026-11-28T14:21:49.369110+00:00",
   "articles": [
+    {
+      "title": "Astralis defeat NAVI to enter 2-0 pool",
+      "title_ru": "Astralis обыграли NAVI и вышли в группу 2–0",
+      "summary": "NAVI came agonizingly close to completing a comeback from 2-10 down.",
+      "summary_ru": "NAVI были мучительно близки к тому, чтобы совершить камбэк со счета 2:10.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/iCqh_I5Ipf6IDKbw_g6vWZ.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=1358%2C351%2C4174%2C2780&w=800&s=53f5465a9210bf527e634a2aea608411",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46087/astralis-defeat-navi-to-enter-2-0-pool",
+      "published": "2026-11-28T13:43:00+00:00"
+    },
     {
       "title": "HeavyGod and r1nkle power G2 into 2-0 pool",
       "title_ru": "Благодаря HeavyGod и r1nkle команда G2 выходит из группы со счетом 2–0",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/45999/short-news-week-45",
       "published": "2026-11-22T19:09:00+00:00"
-    },
-    {
-      "title": "s1mple tops picks for Singapore Stage 1 Fantasy",
-      "title_ru": "Лучшие игроки по мнению s1mple для 1-го этапа Fantasy в Сингапуре",
-      "summary": "s1mple is on roughly every other Fantasy lineup for the Major Stage 1 game.",
-      "summary_ru": "s1mple присутствует примерно в каждом втором составе Fantasy для матча первого этапа мейджора.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/JYqE-jX7lBpbMF_gTbF8sz.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=472&q=75&rect=1197%2C0%2C5811%2C3866&w=800&s=201133ba9a6f34afe1d49b9a648f3775",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46026/s1mple-tops-picks-for-singapore-stage-1-fantasy",
-      "published": "2026-11-22T18:39:00+00:00"
     }
   ]
 }
