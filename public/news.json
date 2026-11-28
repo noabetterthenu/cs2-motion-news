@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28T10:16:31.061874+00:00",
+  "updated_at": "2026-11-28T11:14:37.541113+00:00",
   "articles": [
+    {
+      "title": "HeavyGod and r1nkle power G2 into 2-0 pool",
+      "title_ru": "Благодаря HeavyGod и r1nkle команда G2 выходит из группы со счетом 2–0",
+      "summary": "The duo's firepower kept G2 flawless on day one.",
+      "summary_ru": "Благодаря огневой мощи этого дуэта G2 не потерпела ни одного поражения в первый день.",
+      "image": "https://img-cdn.hltv.org/gallerypicture/gCFSnAN9Mur2hCXgYf65d9.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=473&q=75&rect=0%2C0%2C4951%2C3300&w=800&s=708931080a80e88e5e77f0c962577c3f",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46083/heavygod-and-r1nkle-power-g2-into-2-0-pool",
+      "published": "2026-11-28T10:33:00+00:00"
+    },
     {
       "title": "Round 1 ends with 100T taking down MIBR; G2 to play NIP in round 2",
       "title_ru": "1-й раунд завершается победой 100T над MIBR; во 2-м раунде G2 сыграет с NIP",
@@ -649,17 +660,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46026/s1mple-tops-picks-for-singapore-stage-1-fantasy",
       "published": "2026-11-22T18:39:00+00:00"
-    },
-    {
-      "title": "s1mple and device give Stage 1 some much needed stardust",
-      "title_ru": "s1mple и device привносят в 1-й этап столь необходимый элемент звездности",
-      "summary": "Comparisons between 100 Thieves and BC.Game have dominated coverage of both teams, and the fight is still on to prove which organization had the better approach.",
-      "summary_ru": "Сравнения между 100 Thieves и BC.Game доминировали в освещении обеих команд, и борьба за то, какая организация выбрала лучший подход, всё еще продолжается.",
-      "image": "https://img-cdn.hltv.org/gallerypicture/j7hEYJ2GshdTFCGPB0FwTp.jpg?auto=compress&ixlib=java-2.1.0&m=%2Fm.png&mw=107&mx=20&my=474&q=75&w=800&s=0d1ee5ab3f661c2caff7ce98f88768a4",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46022/s1mple-and-device-give-stage-1-some-much-needed-stardust",
-      "published": "2026-11-22T12:31:00+00:00"
     }
   ]
 }
