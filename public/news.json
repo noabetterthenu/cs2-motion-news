@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-28T06:51:11.567765+00:00",
+  "updated_at": "2026-11-28T08:05:22.149818+00:00",
   "articles": [
+    {
+      "title": "Short news: Week 46",
+      "title_ru": "Короткие новости: неделя 46",
+      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
+      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
+      "image": "",
+      "source": "HLTV",
+      "category": "Команды",
+      "link": "https://www.hltv.org/news/46029/short-news-week-46",
+      "published": "2026-11-28T07:30:00+00:00"
+    },
     {
       "title": "Best highlights from PGL Major Singapore Stage 2",
       "title_ru": "Лучшие моменты второго этапа PGL Major в Сингапуре",
@@ -66,17 +77,6 @@
       "category": "Команды",
       "link": "https://www.hltv.org/news/46077/all-16-teams-set-for-singapore-stage-2-fantasy",
       "published": "2026-11-27T17:46:00+00:00"
-    },
-    {
-      "title": "Short news: Week 46",
-      "title_ru": "Короткие новости: неделя 46",
-      "summary": "Catch up with more Counter-Strike news in bite-sized pieces.",
-      "summary_ru": "Узнавайте больше новостей о Counter-Strike в коротких сводках.",
-      "image": "",
-      "source": "HLTV",
-      "category": "Команды",
-      "link": "https://www.hltv.org/news/46029/short-news-week-46",
-      "published": "2026-11-27T16:17:00+00:00"
     },
     {
       "title": "aliStair: \"It's really about trying to be the glue because they have so much fucking talent\"",
